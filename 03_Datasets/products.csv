@@ -1,0 +1,1001 @@
+product_id,product_code,product_name,category,brand,cost_price,selling_price,stock_quantity,reorder_level,status
+1,PRD00001,Dolorum Product,Fashion,Godrej,12767,16780,235,21,Active
+2,PRD00002,At Product,Books,Dell,38284,47287,402,37,Active
+3,PRD00003,Consectetur Product,Fashion,JBL,49827,60826,269,39,Active
+4,PRD00004,Vel Product,Electronics,Godrej,47944,59829,40,33,Active
+5,PRD00005,Reiciendis Product,Mobiles,Nike,23572,32819,83,22,Active
+6,PRD00006,Earum Product,Sports,Adidas,46816,67835,201,11,Active
+7,PRD00007,Nemo Product,Home Appliances,JBL,4662,5538,79,50,Active
+8,PRD00008,Voluptatem Product,Home Appliances,JBL,29941,44500,163,16,Active
+9,PRD00009,Suscipit Product,Books,Adidas,19216,30202,483,31,Active
+10,PRD00010,Accusamus Product,Sports,Samsung,25385,38916,386,41,Active
+11,PRD00011,Voluptatum Product,Books,Lenovo,6381,8016,310,44,Active
+12,PRD00012,Optio Product,Electronics,JBL,31468,36300,424,31,Active
+13,PRD00013,Expedita Product,Laptops,Boat,16764,23094,100,19,Active
+14,PRD00014,Ab Product,Home Appliances,Asus,43407,65209,454,49,Active
+15,PRD00015,Ullam Product,Fashion,Adidas,26081,39394,362,33,Active
+16,PRD00016,Saepe Product,Books,Boat,13296,19834,398,34,Active
+17,PRD00017,Libero Product,Fashion,HP,18183,27508,91,50,Active
+18,PRD00018,Architecto Product,Mobiles,Apple,21975,34435,88,10,Active
+19,PRD00019,Necessitatibus Product,Home Appliances,Boat,35997,57023,153,36,Active
+20,PRD00020,Unde Product,Mobiles,Lenovo,17302,25165,299,34,Active
+21,PRD00021,Unde Product,Electronics,Adidas,8496,10572,48,45,Active
+22,PRD00022,Explicabo Product,Sports,Dell,44918,69491,478,37,Active
+23,PRD00023,Voluptatum Product,Home Appliances,Lenovo,37875,53656,316,26,Active
+24,PRD00024,Harum Product,Sports,Asus,22773,26949,444,43,Active
+25,PRD00025,Perspiciatis Product,Mobiles,Lenovo,13586,18795,82,14,Active
+26,PRD00026,Tenetur Product,Sports,Dell,25477,30968,166,21,Active
+27,PRD00027,Commodi Product,Books,Boat,32268,44467,418,16,Active
+28,PRD00028,Et Product,Sports,Asus,49665,58393,107,50,Active
+29,PRD00029,Ducimus Product,Fashion,Asus,1317,1728,498,36,Active
+30,PRD00030,Fuga Product,Electronics,Asus,12047,15567,307,34,Active
+31,PRD00031,Harum Product,Mobiles,Samsung,40706,52308,173,20,Active
+32,PRD00032,Molestiae Product,Electronics,Asus,36355,50457,492,45,Active
+33,PRD00033,Recusandae Product,Sports,Boat,34213,51041,25,43,Active
+34,PRD00034,Ipsum Product,Electronics,Adidas,4995,5950,60,28,Active
+35,PRD00035,Vitae Product,Home Appliances,Acer,39548,58730,214,11,Active
+36,PRD00036,Ipsum Product,Sports,Godrej,16522,24799,25,42,Active
+37,PRD00037,Quis Product,Furniture,Sony,43108,56047,410,27,Active
+38,PRD00038,Fugiat Product,Books,Apple,14224,21492,409,17,Active
+39,PRD00039,Dolorem Product,Books,Adidas,13502,16583,447,36,Active
+40,PRD00040,Omnis Product,Home Appliances,Boat,14420,22189,492,14,Active
+41,PRD00041,Pariatur Product,Electronics,Boat,47365,66988,165,24,Active
+42,PRD00042,Ex Product,Home Appliances,Dell,34085,52878,404,47,Active
+43,PRD00043,Praesentium Product,Books,LG,31234,43930,500,34,Active
+44,PRD00044,Laborum Product,Furniture,Apple,34094,50192,70,45,Active
+45,PRD00045,Nemo Product,Electronics,HP,8464,11851,425,43,Active
+46,PRD00046,Iste Product,Books,Apple,49447,67378,316,15,Active
+47,PRD00047,Officiis Product,Home Appliances,HP,47253,74619,72,20,Active
+48,PRD00048,Recusandae Product,Books,Sony,25826,33846,208,10,Active
+49,PRD00049,Dolorum Product,Home Appliances,HP,14734,17323,78,14,Active
+50,PRD00050,Est Product,Books,Boat,32568,45188,394,11,Active
+51,PRD00051,Pariatur Product,Home Appliances,JBL,20712,25475,81,41,Active
+52,PRD00052,Ab Product,Laptops,JBL,21125,29292,50,44,Active
+53,PRD00053,Voluptates Product,Mobiles,Dell,21305,30358,222,23,Active
+54,PRD00054,Eveniet Product,Laptops,Nike,2092,3212,186,18,Active
+55,PRD00055,At Product,Sports,HP,30222,37032,293,46,Active
+56,PRD00056,Itaque Product,Fashion,Samsung,7245,8363,59,12,Active
+57,PRD00057,Ex Product,Laptops,Adidas,1719,2729,318,21,Active
+58,PRD00058,Iure Product,Sports,JBL,21724,25612,336,20,Active
+59,PRD00059,Perspiciatis Product,Electronics,HP,10730,13280,120,38,Active
+60,PRD00060,Illum Product,Laptops,JBL,2596,3191,315,29,Active
+61,PRD00061,Accusamus Product,Furniture,Nike,820,970,325,34,Active
+62,PRD00062,Consequuntur Product,Home Appliances,JBL,5897,9077,216,12,Active
+63,PRD00063,Veritatis Product,Books,Apple,31002,42562,28,50,Active
+64,PRD00064,Libero Product,Electronics,Acer,49192,62820,375,46,Active
+65,PRD00065,Harum Product,Home Appliances,Acer,36637,42251,360,32,Active
+66,PRD00066,Sit Product,Home Appliances,LG,15487,19489,23,17,Active
+67,PRD00067,Fugit Product,Sports,Apple,26861,39475,176,14,Active
+68,PRD00068,Accusamus Product,Furniture,Nike,2837,3661,490,17,Active
+69,PRD00069,Consequatur Product,Fashion,Asus,32307,40704,48,31,Active
+70,PRD00070,Nemo Product,Mobiles,Dell,7086,8808,312,35,Active
+71,PRD00071,Maxime Product,Mobiles,Sony,29540,36669,10,40,Active
+72,PRD00072,Fugit Product,Home Appliances,LG,20776,24765,300,50,Active
+73,PRD00073,Unde Product,Fashion,Samsung,45082,60356,131,46,Active
+74,PRD00074,Repudiandae Product,Sports,Samsung,3769,4711,348,43,Active
+75,PRD00075,Explicabo Product,Home Appliances,Samsung,24217,33086,319,16,Active
+76,PRD00076,A Product,Electronics,Acer,39038,50516,15,11,Active
+77,PRD00077,Perferendis Product,Sports,Apple,36716,47154,359,34,Active
+78,PRD00078,Qui Product,Laptops,Acer,32490,42635,168,37,Active
+79,PRD00079,Dolores Product,Laptops,Sony,34546,43477,210,33,Active
+80,PRD00080,Nam Product,Electronics,Samsung,856,1356,305,26,Active
+81,PRD00081,Architecto Product,Fashion,JBL,41992,65373,441,33,Active
+82,PRD00082,Quas Product,Furniture,Nike,33980,50034,450,28,Active
+83,PRD00083,Explicabo Product,Laptops,Godrej,42628,52117,64,48,Active
+84,PRD00084,Aperiam Product,Mobiles,Dell,1893,2296,58,34,Active
+85,PRD00085,Aspernatur Product,Electronics,Nike,23310,27909,390,11,Active
+86,PRD00086,Quam Product,Books,Boat,39417,47317,188,12,Active
+87,PRD00087,Facilis Product,Laptops,Puma,30413,48237,390,47,Active
+88,PRD00088,Nemo Product,Books,Adidas,11085,14692,334,32,Active
+89,PRD00089,Cumque Product,Laptops,Puma,1869,2385,210,20,Active
+90,PRD00090,Eveniet Product,Furniture,Samsung,43876,53327,385,48,Active
+91,PRD00091,Provident Product,Sports,Godrej,44662,60029,460,50,Active
+92,PRD00092,Laboriosam Product,Books,Boat,37075,56510,499,20,Active
+93,PRD00093,Error Product,Electronics,Sony,1165,1414,442,45,Active
+94,PRD00094,Et Product,Electronics,JBL,32361,38384,126,34,Active
+95,PRD00095,Molestias Product,Furniture,Adidas,44646,58160,202,28,Active
+96,PRD00096,Dolorum Product,Mobiles,Acer,6292,7950,373,40,Active
+97,PRD00097,Porro Product,Books,Sony,8036,11722,182,23,Active
+98,PRD00098,Ab Product,Fashion,Lenovo,4722,7265,198,32,Active
+99,PRD00099,Dignissimos Product,Electronics,Dell,1504,2377,84,50,Active
+100,PRD00100,Vitae Product,Sports,Acer,40949,63633,308,32,Active
+101,PRD00101,Non Product,Fashion,Nike,20489,27900,476,26,Active
+102,PRD00102,Eos Product,Mobiles,Lenovo,9362,14184,140,23,Active
+103,PRD00103,Soluta Product,Electronics,Boat,27555,39490,322,11,Active
+104,PRD00104,At Product,Mobiles,Sony,37560,51995,175,13,Active
+105,PRD00105,Rem Product,Furniture,Acer,42769,59221,230,29,Active
+106,PRD00106,Rerum Product,Home Appliances,Nike,29463,34428,13,38,Active
+107,PRD00107,Dolores Product,Electronics,Boat,19872,23857,229,10,Active
+108,PRD00108,Voluptate Product,Mobiles,LG,11471,14087,175,22,Active
+109,PRD00109,Inventore Product,Home Appliances,Sony,43802,63350,390,15,Active
+110,PRD00110,Nulla Product,Mobiles,Godrej,29998,40184,24,46,Active
+111,PRD00111,Alias Product,Laptops,Adidas,23203,29807,199,27,Active
+112,PRD00112,Dicta Product,Sports,Samsung,44996,52384,239,49,Active
+113,PRD00113,Aspernatur Product,Furniture,Godrej,2870,3753,94,45,Active
+114,PRD00114,Laborum Product,Home Appliances,Samsung,7945,10729,396,49,Active
+115,PRD00115,Ullam Product,Laptops,Dell,49186,65552,399,44,Active
+116,PRD00116,Vel Product,Sports,Asus,11223,16953,348,32,Active
+117,PRD00117,Eaque Product,Mobiles,Boat,28947,45692,41,34,Active
+118,PRD00118,Illo Product,Sports,JBL,19170,25379,492,40,Active
+119,PRD00119,Vel Product,Fashion,Nike,25143,31852,96,31,Active
+120,PRD00120,Iure Product,Fashion,Dell,3628,5078,391,14,Active
+121,PRD00121,Doloremque Product,Furniture,Samsung,43017,66251,416,46,Active
+122,PRD00122,Cumque Product,Fashion,Adidas,38533,54106,461,10,Active
+123,PRD00123,Alias Product,Mobiles,Godrej,38518,54330,231,17,Active
+124,PRD00124,Consequuntur Product,Fashion,Asus,1042,1265,181,16,Active
+125,PRD00125,Mollitia Product,Mobiles,LG,16941,21299,359,31,Active
+126,PRD00126,Dolore Product,Mobiles,Puma,9737,11246,354,44,Active
+127,PRD00127,Recusandae Product,Laptops,Godrej,27330,35578,400,17,Active
+128,PRD00128,Consequatur Product,Electronics,Boat,37383,56307,188,21,Active
+129,PRD00129,Et Product,Electronics,JBL,35239,54102,450,31,Active
+130,PRD00130,Velit Product,Sports,Adidas,13263,15342,122,10,Active
+131,PRD00131,Id Product,Home Appliances,Boat,48600,70559,37,24,Active
+132,PRD00132,Iusto Product,Furniture,Dell,37332,58072,63,37,Active
+133,PRD00133,Optio Product,Sports,Lenovo,42269,57639,82,14,Active
+134,PRD00134,Odit Product,Laptops,Acer,38620,59446,18,31,Active
+135,PRD00135,Ipsa Product,Laptops,Lenovo,1332,2038,244,12,Active
+136,PRD00136,Omnis Product,Books,Sony,39944,52298,476,29,Active
+137,PRD00137,Perspiciatis Product,Furniture,Dell,23329,36656,445,37,Active
+138,PRD00138,Laudantium Product,Laptops,Puma,39238,61786,168,25,Active
+139,PRD00139,Aliquam Product,Sports,Adidas,33912,45936,116,45,Active
+140,PRD00140,Soluta Product,Laptops,Boat,42673,54934,364,50,Active
+141,PRD00141,Aspernatur Product,Fashion,Nike,21302,31639,263,37,Active
+142,PRD00142,Ipsa Product,Books,Lenovo,40364,52130,93,46,Active
+143,PRD00143,Quibusdam Product,Sports,Samsung,25215,31040,94,40,Active
+144,PRD00144,Quidem Product,Furniture,Samsung,14815,18153,260,12,Active
+145,PRD00145,Voluptatem Product,Laptops,Lenovo,12994,18898,351,12,Active
+146,PRD00146,Expedita Product,Fashion,Asus,21895,29209,422,16,Active
+147,PRD00147,Veniam Product,Home Appliances,Sony,17903,21095,107,11,Active
+148,PRD00148,Recusandae Product,Home Appliances,Apple,29881,39703,496,46,Active
+149,PRD00149,In Product,Laptops,Asus,33727,45524,334,37,Active
+150,PRD00150,Aspernatur Product,Laptops,Lenovo,2688,4219,62,40,Active
+151,PRD00151,Harum Product,Furniture,Apple,987,1206,453,25,Active
+152,PRD00152,Explicabo Product,Books,Sony,28533,42434,383,23,Active
+153,PRD00153,Magni Product,Electronics,HP,30810,38889,121,14,Active
+154,PRD00154,Ad Product,Home Appliances,Sony,34941,55831,48,22,Active
+155,PRD00155,Laborum Product,Books,Acer,23074,35459,71,37,Active
+156,PRD00156,Similique Product,Sports,HP,49626,69609,43,16,Active
+157,PRD00157,Commodi Product,Books,Nike,49025,78413,483,20,Active
+158,PRD00158,Quidem Product,Furniture,Adidas,2149,2901,285,40,Active
+159,PRD00159,Illum Product,Fashion,Sony,49659,62224,71,27,Active
+160,PRD00160,Occaecati Product,Sports,JBL,21708,34065,166,38,Active
+161,PRD00161,Natus Product,Laptops,Boat,13213,15576,212,42,Active
+162,PRD00162,Veritatis Product,Mobiles,Nike,35482,46022,216,24,Active
+163,PRD00163,Odio Product,Electronics,Dell,31525,45291,289,43,Active
+164,PRD00164,Odit Product,Home Appliances,Dell,40111,50974,73,29,Active
+165,PRD00165,Exercitationem Product,Books,Godrej,36348,52724,386,16,Active
+166,PRD00166,Enim Product,Sports,Dell,27015,35608,275,43,Active
+167,PRD00167,Itaque Product,Furniture,Puma,3595,5574,45,42,Active
+168,PRD00168,Sed Product,Mobiles,Sony,45312,64767,155,35,Active
+169,PRD00169,Voluptatibus Product,Mobiles,Nike,47397,58443,43,39,Active
+170,PRD00170,Repellat Product,Sports,Dell,13949,17687,484,44,Active
+171,PRD00171,Dolorem Product,Sports,JBL,30483,38039,113,15,Active
+172,PRD00172,Doloribus Product,Laptops,Godrej,17664,24796,53,22,Active
+173,PRD00173,Libero Product,Mobiles,Lenovo,30084,46928,387,22,Active
+174,PRD00174,Libero Product,Electronics,Sony,34585,51358,183,10,Active
+175,PRD00175,At Product,Home Appliances,Sony,43094,54002,300,17,Active
+176,PRD00176,Exercitationem Product,Furniture,Adidas,43395,51484,221,26,Active
+177,PRD00177,Expedita Product,Books,Samsung,38552,47542,297,36,Active
+178,PRD00178,Eaque Product,Home Appliances,Puma,36871,55839,129,40,Active
+179,PRD00179,Expedita Product,Mobiles,Asus,43031,52031,259,45,Active
+180,PRD00180,Sed Product,Fashion,LG,7267,10182,469,23,Active
+181,PRD00181,Iste Product,Fashion,Acer,43698,61650,267,44,Active
+182,PRD00182,Consequuntur Product,Mobiles,HP,16823,19605,112,35,Active
+183,PRD00183,Provident Product,Electronics,Asus,32395,38179,132,25,Active
+184,PRD00184,Ducimus Product,Books,Boat,33507,43220,276,39,Active
+185,PRD00185,Assumenda Product,Books,Sony,26954,31158,316,10,Active
+186,PRD00186,At Product,Furniture,Godrej,31438,38415,270,14,Active
+187,PRD00187,Perferendis Product,Electronics,Samsung,749,975,310,15,Active
+188,PRD00188,Placeat Product,Laptops,Apple,27857,38062,281,42,Active
+189,PRD00189,Impedit Product,Home Appliances,Lenovo,44356,55866,341,44,Active
+190,PRD00190,Alias Product,Home Appliances,Boat,22057,34355,39,45,Active
+191,PRD00191,Vero Product,Mobiles,Boat,10675,16914,239,43,Active
+192,PRD00192,Omnis Product,Fashion,Samsung,6818,8681,313,30,Active
+193,PRD00193,Beatae Product,Sports,Lenovo,16561,25212,274,19,Active
+194,PRD00194,Deserunt Product,Mobiles,Dell,16423,25880,234,20,Active
+195,PRD00195,Atque Product,Sports,HP,41940,53902,450,15,Active
+196,PRD00196,Numquam Product,Mobiles,Samsung,22825,30684,36,34,Active
+197,PRD00197,Voluptatem Product,Laptops,Asus,33156,46373,304,27,Active
+198,PRD00198,Illo Product,Laptops,Sony,25778,35342,370,14,Active
+199,PRD00199,Odio Product,Electronics,Sony,10357,14526,160,38,Active
+200,PRD00200,Voluptatem Product,Mobiles,Dell,7393,11801,297,22,Active
+201,PRD00201,Voluptatem Product,Books,Sony,28013,33830,267,31,Active
+202,PRD00202,Dolorum Product,Books,Godrej,26890,33172,341,45,Active
+203,PRD00203,Hic Product,Books,Puma,28400,41639,123,18,Active
+204,PRD00204,Quod Product,Sports,Dell,30128,40872,370,36,Active
+205,PRD00205,Impedit Product,Fashion,Asus,12836,18291,43,25,Active
+206,PRD00206,Exercitationem Product,Electronics,Nike,27215,38122,194,40,Active
+207,PRD00207,Tempore Product,Sports,Lenovo,19621,23221,290,26,Active
+208,PRD00208,Consequatur Product,Sports,Nike,42732,53358,486,25,Active
+209,PRD00209,Similique Product,Fashion,Nike,44766,56448,409,15,Active
+210,PRD00210,Sed Product,Home Appliances,LG,33739,42934,256,38,Active
+211,PRD00211,Quidem Product,Fashion,Lenovo,32066,47185,80,49,Active
+212,PRD00212,Inventore Product,Home Appliances,Nike,18625,29502,47,44,Active
+213,PRD00213,Nisi Product,Home Appliances,Adidas,45139,70776,159,29,Active
+214,PRD00214,Quae Product,Mobiles,Samsung,35976,55556,398,49,Active
+215,PRD00215,Quas Product,Mobiles,Sony,25228,29438,146,30,Active
+216,PRD00216,Pariatur Product,Sports,Adidas,784,965,337,13,Active
+217,PRD00217,Architecto Product,Books,Boat,10684,12866,274,21,Active
+218,PRD00218,Corrupti Product,Laptops,Puma,40991,53279,213,16,Active
+219,PRD00219,Blanditiis Product,Home Appliances,Adidas,47901,55158,379,36,Active
+220,PRD00220,Similique Product,Furniture,Dell,14152,21140,124,42,Active
+221,PRD00221,Dolor Product,Furniture,Samsung,48094,76017,261,26,Active
+222,PRD00222,Corporis Product,Sports,Lenovo,6400,9160,466,45,Active
+223,PRD00223,Commodi Product,Sports,LG,1129,1558,173,17,Active
+224,PRD00224,Nesciunt Product,Laptops,Lenovo,1494,2070,432,47,Active
+225,PRD00225,Aliquid Product,Electronics,JBL,30811,48159,263,42,Active
+226,PRD00226,Laborum Product,Home Appliances,Asus,14064,20126,50,25,Active
+227,PRD00227,Commodi Product,Electronics,Apple,8882,12702,356,40,Active
+228,PRD00228,Consequatur Product,Mobiles,LG,24561,34744,471,12,Active
+229,PRD00229,Similique Product,Sports,LG,4822,7470,239,33,Active
+230,PRD00230,A Product,Furniture,Godrej,24413,31583,203,23,Active
+231,PRD00231,Voluptatibus Product,Laptops,Dell,42089,51214,360,41,Active
+232,PRD00232,Ex Product,Electronics,Boat,44385,65987,184,35,Active
+233,PRD00233,Unde Product,Fashion,LG,4387,6765,255,23,Active
+234,PRD00234,Vel Product,Furniture,HP,34799,51247,36,46,Active
+235,PRD00235,Nostrum Product,Electronics,Acer,27024,31158,230,34,Active
+236,PRD00236,Magnam Product,Laptops,Asus,8130,10842,185,22,Active
+237,PRD00237,Ea Product,Sports,Dell,5696,7679,421,20,Active
+238,PRD00238,Occaecati Product,Fashion,Nike,19720,25268,317,39,Active
+239,PRD00239,Temporibus Product,Laptops,Sony,46531,65861,119,24,Active
+240,PRD00240,Voluptatem Product,Sports,JBL,45750,71060,327,38,Active
+241,PRD00241,Necessitatibus Product,Fashion,Sony,22005,29842,211,11,Active
+242,PRD00242,Ipsam Product,Furniture,Boat,25698,35989,102,36,Active
+243,PRD00243,Enim Product,Home Appliances,JBL,1902,2506,278,44,Active
+244,PRD00244,Totam Product,Furniture,Lenovo,10815,16393,370,47,Active
+245,PRD00245,Impedit Product,Sports,Acer,29023,41060,35,44,Active
+246,PRD00246,Laboriosam Product,Laptops,Godrej,46650,70050,248,30,Active
+247,PRD00247,Doloribus Product,Furniture,HP,34416,48188,158,50,Active
+248,PRD00248,Commodi Product,Home Appliances,Sony,1787,2210,279,38,Active
+249,PRD00249,Ut Product,Mobiles,Boat,17545,22810,390,34,Active
+250,PRD00250,Quae Product,Home Appliances,JBL,8425,13130,240,49,Active
+251,PRD00251,Consequuntur Product,Mobiles,Asus,4204,6472,390,48,Active
+252,PRD00252,Perspiciatis Product,Furniture,Sony,14150,21870,120,14,Active
+253,PRD00253,Rerum Product,Home Appliances,Sony,45490,55656,445,30,Active
+254,PRD00254,Aperiam Product,Electronics,Puma,22150,33759,30,40,Active
+255,PRD00255,Expedita Product,Sports,Boat,12659,16509,446,45,Active
+256,PRD00256,Quam Product,Home Appliances,Dell,32292,39041,205,23,Active
+257,PRD00257,Dolorum Product,Home Appliances,Adidas,27965,36544,367,14,Active
+258,PRD00258,Iste Product,Laptops,Boat,42924,62516,36,28,Active
+259,PRD00259,Iste Product,Books,Adidas,6990,8781,257,34,Active
+260,PRD00260,In Product,Home Appliances,Acer,32390,46084,75,18,Active
+261,PRD00261,Architecto Product,Sports,Adidas,18280,28180,121,39,Active
+262,PRD00262,Architecto Product,Books,LG,5714,8086,178,38,Active
+263,PRD00263,Esse Product,Mobiles,Dell,38682,61574,438,48,Active
+264,PRD00264,Ducimus Product,Electronics,Puma,20536,26707,93,44,Active
+265,PRD00265,Dignissimos Product,Furniture,Puma,46693,66820,162,23,Active
+266,PRD00266,Nobis Product,Mobiles,Nike,37188,58258,440,47,Active
+267,PRD00267,Nobis Product,Furniture,HP,29786,39664,130,34,Active
+268,PRD00268,Dolores Product,Sports,JBL,25854,35396,269,48,Active
+269,PRD00269,Ipsa Product,Electronics,Godrej,38715,51331,402,40,Active
+270,PRD00270,Nihil Product,Laptops,Sony,34461,46203,72,44,Active
+271,PRD00271,Similique Product,Electronics,Acer,45896,57723,381,49,Active
+272,PRD00272,Omnis Product,Furniture,Boat,19197,27345,159,26,Active
+273,PRD00273,Qui Product,Books,Dell,31070,39629,241,18,Active
+274,PRD00274,Consequatur Product,Fashion,Acer,24243,31153,87,40,Active
+275,PRD00275,Iusto Product,Electronics,Lenovo,37247,49739,181,26,Active
+276,PRD00276,Soluta Product,Mobiles,Godrej,30650,46656,253,27,Active
+277,PRD00277,Neque Product,Laptops,JBL,4092,5546,324,25,Active
+278,PRD00278,Quos Product,Furniture,Nike,40539,48880,418,10,Active
+279,PRD00279,Reprehenderit Product,Mobiles,Godrej,16178,21872,491,11,Active
+280,PRD00280,Sequi Product,Laptops,Asus,15467,19973,472,11,Active
+281,PRD00281,Error Product,Fashion,Godrej,37188,53680,263,40,Active
+282,PRD00282,Nihil Product,Books,LG,30584,35177,25,16,Active
+283,PRD00283,Itaque Product,Home Appliances,JBL,13042,18377,420,48,Active
+284,PRD00284,Sapiente Product,Fashion,Nike,41651,51147,495,38,Active
+285,PRD00285,Ex Product,Books,Acer,40605,63694,405,29,Active
+286,PRD00286,Ad Product,Home Appliances,HP,44835,67900,400,40,Active
+287,PRD00287,Necessitatibus Product,Sports,Apple,32113,37898,218,36,Active
+288,PRD00288,Quod Product,Sports,HP,48414,65254,216,24,Active
+289,PRD00289,Delectus Product,Sports,Samsung,15341,22927,415,44,Active
+290,PRD00290,Consectetur Product,Home Appliances,Apple,8323,10477,391,36,Active
+291,PRD00291,Commodi Product,Sports,Sony,9008,11587,23,49,Active
+292,PRD00292,Id Product,Fashion,Boat,17071,22722,432,27,Active
+293,PRD00293,Architecto Product,Electronics,Boat,37660,51553,170,24,Active
+294,PRD00294,Minima Product,Home Appliances,JBL,26330,33797,141,46,Active
+295,PRD00295,Pariatur Product,Laptops,Apple,43087,56074,65,39,Active
+296,PRD00296,Culpa Product,Electronics,JBL,25422,31184,49,21,Active
+297,PRD00297,Delectus Product,Furniture,Puma,35302,50378,269,20,Active
+298,PRD00298,Asperiores Product,Electronics,Boat,35406,40862,355,47,Active
+299,PRD00299,Incidunt Product,Fashion,Samsung,11175,16988,449,34,Active
+300,PRD00300,Quia Product,Fashion,Nike,21559,25043,278,37,Active
+301,PRD00301,Vero Product,Electronics,Dell,41066,54964,484,15,Active
+302,PRD00302,Amet Product,Home Appliances,Samsung,39894,48919,55,30,Active
+303,PRD00303,Maiores Product,Electronics,Sony,9218,13944,466,17,Active
+304,PRD00304,Ipsum Product,Fashion,Godrej,21029,30213,363,27,Active
+305,PRD00305,Vitae Product,Books,Nike,46060,69582,274,36,Active
+306,PRD00306,Vel Product,Mobiles,Adidas,6607,9535,239,46,Active
+307,PRD00307,Velit Product,Home Appliances,Samsung,49177,75364,132,31,Active
+308,PRD00308,Odio Product,Furniture,Puma,29066,45703,89,11,Active
+309,PRD00309,Laudantium Product,Furniture,Boat,6639,9282,174,38,Active
+310,PRD00310,Architecto Product,Laptops,Nike,26304,41650,454,21,Active
+311,PRD00311,Tenetur Product,Fashion,Dell,38201,58392,384,36,Active
+312,PRD00312,Provident Product,Home Appliances,HP,18938,22335,283,29,Active
+313,PRD00313,Ipsa Product,Books,Puma,4628,6647,135,21,Active
+314,PRD00314,Vel Product,Mobiles,Samsung,42340,56463,140,50,Active
+315,PRD00315,Veniam Product,Fashion,Sony,28551,37580,229,14,Active
+316,PRD00316,Suscipit Product,Electronics,Samsung,8854,13442,399,44,Active
+317,PRD00317,Quam Product,Sports,Adidas,18879,27975,355,21,Active
+318,PRD00318,Architecto Product,Electronics,HP,29047,36806,456,48,Active
+319,PRD00319,Quod Product,Mobiles,Acer,49892,68893,271,48,Active
+320,PRD00320,Aspernatur Product,Home Appliances,JBL,8005,12421,180,23,Active
+321,PRD00321,Corporis Product,Furniture,JBL,22759,35149,102,31,Active
+322,PRD00322,Quod Product,Sports,Apple,41760,61461,434,44,Active
+323,PRD00323,Possimus Product,Electronics,Adidas,44301,68160,365,42,Active
+324,PRD00324,Vero Product,Home Appliances,Boat,6048,9229,500,42,Active
+325,PRD00325,Aliquid Product,Books,Boat,19094,30282,180,14,Active
+326,PRD00326,Non Product,Furniture,Boat,16547,24531,32,39,Active
+327,PRD00327,Quod Product,Laptops,Godrej,44583,56751,455,30,Active
+328,PRD00328,Deleniti Product,Mobiles,Asus,1709,2253,143,13,Active
+329,PRD00329,Unde Product,Fashion,Boat,23160,33633,147,36,Active
+330,PRD00330,Autem Product,Mobiles,Dell,47188,61726,215,49,Active
+331,PRD00331,Nesciunt Product,Sports,HP,2012,2913,59,49,Active
+332,PRD00332,Porro Product,Books,Samsung,47818,62495,337,38,Active
+333,PRD00333,Laboriosam Product,Electronics,Samsung,10693,13876,70,30,Active
+334,PRD00334,Sunt Product,Furniture,Samsung,35571,45274,401,48,Active
+335,PRD00335,Nihil Product,Mobiles,Godrej,16901,21500,18,30,Active
+336,PRD00336,Officiis Product,Electronics,Lenovo,17157,24924,94,23,Active
+337,PRD00337,Tempore Product,Electronics,Adidas,7542,10624,296,41,Active
+338,PRD00338,Commodi Product,Fashion,Asus,16421,18995,106,47,Active
+339,PRD00339,Soluta Product,Home Appliances,Boat,2267,3473,149,50,Active
+340,PRD00340,Dolorem Product,Home Appliances,Apple,48415,72312,391,49,Active
+341,PRD00341,Voluptate Product,Mobiles,Dell,10924,16888,467,31,Active
+342,PRD00342,Iure Product,Fashion,Acer,45153,59328,187,34,Active
+343,PRD00343,Aliquam Product,Furniture,Lenovo,10177,15770,264,33,Active
+344,PRD00344,Debitis Product,Books,Godrej,25702,38771,364,24,Active
+345,PRD00345,Quia Product,Furniture,Samsung,15536,22021,46,11,Active
+346,PRD00346,Perspiciatis Product,Laptops,Godrej,38402,55948,268,42,Active
+347,PRD00347,Animi Product,Books,Godrej,23666,35329,481,21,Active
+348,PRD00348,Soluta Product,Electronics,Asus,35191,55359,443,46,Active
+349,PRD00349,Eveniet Product,Home Appliances,Lenovo,22789,31153,238,43,Active
+350,PRD00350,Dolore Product,Laptops,Godrej,13513,15613,318,45,Active
+351,PRD00351,Ea Product,Furniture,Nike,28822,43697,397,50,Active
+352,PRD00352,Modi Product,Books,Boat,45839,67798,159,31,Active
+353,PRD00353,Fuga Product,Fashion,Asus,27995,34176,392,34,Active
+354,PRD00354,Distinctio Product,Home Appliances,Puma,42464,57771,90,38,Active
+355,PRD00355,Exercitationem Product,Books,LG,7014,11030,276,38,Active
+356,PRD00356,Dolorum Product,Electronics,Asus,22009,25839,77,12,Active
+357,PRD00357,Ipsum Product,Mobiles,Dell,32326,42141,139,35,Active
+358,PRD00358,Illum Product,Books,Sony,38866,60632,116,47,Active
+359,PRD00359,Facere Product,Furniture,Puma,1867,2678,282,26,Active
+360,PRD00360,Laborum Product,Home Appliances,Lenovo,31957,51068,95,12,Active
+361,PRD00361,Animi Product,Furniture,JBL,10267,13183,468,27,Active
+362,PRD00362,Ab Product,Home Appliances,Asus,1353,1971,61,46,Active
+363,PRD00363,Necessitatibus Product,Electronics,HP,32205,38205,44,21,Active
+364,PRD00364,Aliquam Product,Sports,Adidas,4296,6404,475,21,Active
+365,PRD00365,Quia Product,Laptops,Acer,40504,58994,212,49,Active
+366,PRD00366,Nulla Product,Mobiles,Puma,41800,52822,231,15,Active
+367,PRD00367,Recusandae Product,Sports,Nike,42352,63506,349,36,Active
+368,PRD00368,Vitae Product,Electronics,Adidas,18495,25292,365,46,Active
+369,PRD00369,Sunt Product,Books,LG,14909,19470,225,33,Active
+370,PRD00370,Maiores Product,Electronics,Godrej,9359,14926,136,16,Active
+371,PRD00371,Debitis Product,Home Appliances,Dell,45371,70574,343,10,Active
+372,PRD00372,Quo Product,Laptops,Asus,5430,8044,453,43,Active
+373,PRD00373,Eligendi Product,Fashion,Apple,14996,18449,301,12,Active
+374,PRD00374,Modi Product,Books,Sony,4393,6710,45,34,Active
+375,PRD00375,Modi Product,Furniture,Samsung,25243,37109,496,12,Active
+376,PRD00376,Porro Product,Furniture,Apple,36534,48225,294,25,Active
+377,PRD00377,Iste Product,Mobiles,Samsung,6819,9062,76,29,Active
+378,PRD00378,Delectus Product,Furniture,Sony,25533,38977,252,17,Active
+379,PRD00379,Eum Product,Sports,Dell,2999,3962,230,39,Active
+380,PRD00380,Minus Product,Books,Godrej,42698,53654,282,49,Active
+381,PRD00381,Eaque Product,Laptops,Godrej,11282,13341,70,12,Active
+382,PRD00382,Corporis Product,Electronics,Godrej,4429,6008,348,26,Active
+383,PRD00383,Veritatis Product,Electronics,Acer,31362,44825,63,16,Active
+384,PRD00384,Ipsam Product,Fashion,Boat,30390,35782,210,27,Active
+385,PRD00385,Tempore Product,Sports,Acer,30971,44504,179,44,Active
+386,PRD00386,Vel Product,Fashion,Adidas,41774,55002,313,11,Active
+387,PRD00387,Nemo Product,Home Appliances,Nike,15263,23085,331,39,Active
+388,PRD00388,Necessitatibus Product,Furniture,Boat,48225,62407,260,48,Active
+389,PRD00389,Eaque Product,Electronics,JBL,5947,9069,308,49,Active
+390,PRD00390,Excepturi Product,Home Appliances,Acer,47432,67756,432,40,Active
+391,PRD00391,Laborum Product,Sports,LG,35185,44933,93,23,Active
+392,PRD00392,Consequuntur Product,Furniture,LG,3316,4616,439,23,Active
+393,PRD00393,Natus Product,Home Appliances,Dell,13187,16735,145,49,Active
+394,PRD00394,Praesentium Product,Books,JBL,36188,44451,26,10,Active
+395,PRD00395,Minus Product,Books,LG,2037,2483,182,26,Active
+396,PRD00396,Ullam Product,Sports,Boat,29773,38890,158,15,Active
+397,PRD00397,Aut Product,Mobiles,LG,28312,35244,51,16,Active
+398,PRD00398,Similique Product,Mobiles,JBL,31374,48133,334,22,Active
+399,PRD00399,Aliquam Product,Fashion,Godrej,3953,4888,93,15,Active
+400,PRD00400,Esse Product,Mobiles,Nike,31609,47751,499,24,Active
+401,PRD00401,Architecto Product,Electronics,Godrej,45402,57283,402,13,Active
+402,PRD00402,Reiciendis Product,Electronics,Godrej,49565,77475,465,42,Active
+403,PRD00403,Est Product,Laptops,HP,47258,63474,95,33,Active
+404,PRD00404,Vero Product,Furniture,Acer,33406,38728,460,24,Active
+405,PRD00405,Sunt Product,Fashion,Asus,4437,5896,434,39,Active
+406,PRD00406,Ducimus Product,Laptops,Apple,32200,38868,237,16,Active
+407,PRD00407,At Product,Laptops,Dell,46530,61982,299,43,Active
+408,PRD00408,Non Product,Books,Nike,6709,10627,470,37,Active
+409,PRD00409,Eaque Product,Mobiles,HP,15768,24610,180,19,Active
+410,PRD00410,Maiores Product,Books,HP,27908,38172,47,10,Active
+411,PRD00411,Cupiditate Product,Sports,Godrej,30122,45007,220,43,Active
+412,PRD00412,Iusto Product,Sports,Acer,42756,57503,435,29,Active
+413,PRD00413,Maiores Product,Home Appliances,LG,7109,9105,457,48,Active
+414,PRD00414,Incidunt Product,Fashion,Samsung,20872,28020,335,39,Active
+415,PRD00415,Eum Product,Fashion,Apple,19624,31195,172,39,Active
+416,PRD00416,Voluptates Product,Books,Acer,29614,46388,256,24,Active
+417,PRD00417,Iste Product,Fashion,HP,45098,68699,208,50,Active
+418,PRD00418,Pariatur Product,Mobiles,Asus,25780,30041,343,25,Active
+419,PRD00419,Molestiae Product,Electronics,HP,43530,59470,145,11,Active
+420,PRD00420,Quia Product,Electronics,Asus,40806,53407,235,14,Active
+421,PRD00421,Impedit Product,Laptops,Lenovo,23512,33853,322,34,Active
+422,PRD00422,Natus Product,Home Appliances,Apple,48236,69958,124,13,Active
+423,PRD00423,Aut Product,Books,Apple,43131,55558,182,47,Active
+424,PRD00424,Doloremque Product,Laptops,LG,27931,33067,336,48,Active
+425,PRD00425,Neque Product,Home Appliances,Samsung,46712,60961,421,42,Active
+426,PRD00426,Dolore Product,Mobiles,Puma,19584,23329,397,47,Active
+427,PRD00427,Aspernatur Product,Electronics,Nike,45292,71902,104,45,Active
+428,PRD00428,Voluptatum Product,Laptops,LG,48676,72710,378,36,Active
+429,PRD00429,Esse Product,Home Appliances,Dell,26557,31180,486,46,Active
+430,PRD00430,Fuga Product,Laptops,Asus,35571,41834,277,23,Active
+431,PRD00431,Error Product,Furniture,JBL,17739,27832,300,23,Active
+432,PRD00432,Temporibus Product,Sports,Godrej,27200,34336,41,43,Active
+433,PRD00433,Qui Product,Home Appliances,Sony,33187,44779,259,19,Active
+434,PRD00434,Eum Product,Furniture,HP,19819,30837,370,37,Active
+435,PRD00435,Sequi Product,Laptops,Boat,30893,40915,284,41,Active
+436,PRD00436,Aperiam Product,Electronics,Lenovo,49336,63179,218,28,Active
+437,PRD00437,Alias Product,Home Appliances,Apple,33253,42751,210,43,Active
+438,PRD00438,Sapiente Product,Books,Dell,15983,23626,319,50,Active
+439,PRD00439,Autem Product,Fashion,HP,11788,16652,225,20,Active
+440,PRD00440,Enim Product,Electronics,Godrej,37210,54672,169,32,Active
+441,PRD00441,Nisi Product,Mobiles,Nike,17854,24759,81,38,Active
+442,PRD00442,Ad Product,Home Appliances,HP,31746,49447,451,21,Active
+443,PRD00443,Eos Product,Mobiles,Asus,22626,31326,403,45,Active
+444,PRD00444,Hic Product,Sports,Samsung,30971,41098,146,10,Active
+445,PRD00445,Eaque Product,Books,JBL,17284,26079,390,26,Active
+446,PRD00446,Ex Product,Books,Nike,17620,27557,184,21,Active
+447,PRD00447,Aliquid Product,Sports,Godrej,8957,11523,418,31,Active
+448,PRD00448,Voluptatum Product,Mobiles,HP,8025,10717,254,33,Active
+449,PRD00449,Accusamus Product,Home Appliances,LG,5228,7097,362,19,Active
+450,PRD00450,Impedit Product,Fashion,Sony,41721,58368,338,39,Active
+451,PRD00451,Eveniet Product,Fashion,Dell,2411,3544,330,11,Active
+452,PRD00452,Hic Product,Books,Sony,23729,35890,359,31,Active
+453,PRD00453,Illo Product,Electronics,Adidas,46979,65157,222,36,Active
+454,PRD00454,Quo Product,Furniture,HP,20973,29165,125,44,Active
+455,PRD00455,Culpa Product,Mobiles,Adidas,44179,55770,233,12,Active
+456,PRD00456,Corporis Product,Home Appliances,Samsung,32966,45858,189,48,Active
+457,PRD00457,Dolores Product,Mobiles,Puma,19253,26825,141,33,Active
+458,PRD00458,Numquam Product,Laptops,Nike,8809,11267,456,10,Active
+459,PRD00459,Laborum Product,Fashion,Boat,43973,54308,137,29,Active
+460,PRD00460,Dolore Product,Fashion,Sony,7570,10365,218,16,Active
+461,PRD00461,Voluptatem Product,Laptops,Dell,17673,21108,344,16,Active
+462,PRD00462,Magnam Product,Books,JBL,19695,28619,123,46,Active
+463,PRD00463,Ab Product,Laptops,Asus,42500,61506,96,46,Active
+464,PRD00464,Exercitationem Product,Home Appliances,Boat,33690,51165,170,43,Active
+465,PRD00465,Reiciendis Product,Electronics,Asus,16910,21590,60,18,Active
+466,PRD00466,Harum Product,Mobiles,Puma,30560,41673,236,41,Active
+467,PRD00467,Dolor Product,Fashion,Nike,46198,55312,341,42,Active
+468,PRD00468,Fuga Product,Electronics,JBL,22657,28039,312,16,Active
+469,PRD00469,Voluptatum Product,Furniture,Adidas,45139,61068,301,26,Active
+470,PRD00470,Incidunt Product,Electronics,Asus,1418,2212,108,11,Active
+471,PRD00471,Labore Product,Mobiles,Apple,35749,50684,299,50,Active
+472,PRD00472,Tempore Product,Furniture,JBL,3431,5276,59,48,Active
+473,PRD00473,Voluptatem Product,Fashion,Godrej,40982,61216,393,28,Active
+474,PRD00474,Dolorem Product,Home Appliances,Adidas,2658,3241,225,26,Active
+475,PRD00475,Facere Product,Sports,Asus,21599,26070,173,45,Active
+476,PRD00476,Nulla Product,Electronics,Puma,30165,47804,96,25,Active
+477,PRD00477,Dolores Product,Fashion,Nike,36553,56487,101,36,Active
+478,PRD00478,Ea Product,Electronics,LG,3367,5368,306,44,Active
+479,PRD00479,Dolor Product,Laptops,JBL,2185,3170,279,45,Active
+480,PRD00480,Odit Product,Home Appliances,Dell,34018,39327,10,31,Active
+481,PRD00481,Pariatur Product,Mobiles,Godrej,13287,18006,213,43,Active
+482,PRD00482,Aut Product,Mobiles,Boat,48745,66565,380,50,Active
+483,PRD00483,Eligendi Product,Home Appliances,Dell,10630,12469,242,14,Active
+484,PRD00484,Id Product,Laptops,Puma,4524,7207,400,37,Active
+485,PRD00485,Vero Product,Mobiles,Samsung,37927,56210,457,47,Active
+486,PRD00486,Omnis Product,Sports,Apple,31130,41101,67,33,Active
+487,PRD00487,Dignissimos Product,Laptops,Lenovo,18136,21420,297,13,Active
+488,PRD00488,Tempora Product,Mobiles,Adidas,29685,34172,385,18,Active
+489,PRD00489,Rem Product,Furniture,JBL,41109,59543,430,19,Active
+490,PRD00490,Facilis Product,Home Appliances,LG,43898,61517,285,25,Active
+491,PRD00491,Qui Product,Sports,Samsung,20577,29068,296,47,Active
+492,PRD00492,Consequatur Product,Books,Asus,42232,64151,345,27,Active
+493,PRD00493,Sapiente Product,Laptops,Dell,40854,52935,322,19,Active
+494,PRD00494,Eligendi Product,Home Appliances,LG,49420,61941,195,43,Active
+495,PRD00495,Commodi Product,Mobiles,Puma,33540,43829,273,24,Active
+496,PRD00496,Corrupti Product,Home Appliances,Asus,17706,23548,274,48,Active
+497,PRD00497,Dolore Product,Laptops,Asus,6886,10668,317,11,Active
+498,PRD00498,Itaque Product,Books,LG,23447,30352,116,11,Active
+499,PRD00499,Possimus Product,Sports,HP,46257,66439,149,47,Active
+500,PRD00500,Eaque Product,Electronics,Boat,39916,57924,458,49,Active
+501,PRD00501,Totam Product,Books,Lenovo,20007,23588,177,50,Active
+502,PRD00502,Quis Product,Electronics,Apple,43664,53295,247,48,Active
+503,PRD00503,Ipsum Product,Laptops,Sony,33793,48216,178,26,Active
+504,PRD00504,Expedita Product,Laptops,Godrej,35981,42687,497,49,Active
+505,PRD00505,Nihil Product,Mobiles,Godrej,8429,11488,153,31,Active
+506,PRD00506,Accusamus Product,Books,Sony,34322,44116,310,26,Active
+507,PRD00507,Natus Product,Mobiles,Nike,3313,5064,104,45,Active
+508,PRD00508,Cupiditate Product,Fashion,Acer,34366,54524,286,11,Active
+509,PRD00509,Maxime Product,Electronics,JBL,32825,47450,38,45,Active
+510,PRD00510,Facere Product,Fashion,Adidas,42294,61237,420,11,Active
+511,PRD00511,Maiores Product,Books,Sony,5764,8106,452,23,Active
+512,PRD00512,Vitae Product,Fashion,Adidas,43596,63169,174,19,Active
+513,PRD00513,Quam Product,Mobiles,LG,43596,67941,186,33,Active
+514,PRD00514,Dolorum Product,Electronics,Acer,42201,56538,362,45,Active
+515,PRD00515,Aperiam Product,Electronics,Dell,18098,24268,63,31,Active
+516,PRD00516,Quos Product,Laptops,Apple,46018,66449,409,23,Active
+517,PRD00517,Corporis Product,Furniture,Acer,25415,39030,105,28,Active
+518,PRD00518,Ab Product,Furniture,Boat,41176,59313,257,12,Active
+519,PRD00519,Quam Product,Fashion,HP,805,974,302,12,Active
+520,PRD00520,Perspiciatis Product,Books,Puma,26265,40798,81,29,Active
+521,PRD00521,Rem Product,Sports,Dell,46008,58484,328,33,Active
+522,PRD00522,Nostrum Product,Mobiles,JBL,31501,45994,157,44,Active
+523,PRD00523,Consequatur Product,Books,Nike,31905,43645,134,13,Active
+524,PRD00524,Libero Product,Fashion,Adidas,45470,63164,77,44,Active
+525,PRD00525,Sed Product,Laptops,JBL,40032,46570,411,13,Active
+526,PRD00526,Facilis Product,Sports,Samsung,2921,4300,146,39,Active
+527,PRD00527,Sed Product,Laptops,Godrej,20645,29571,17,26,Active
+528,PRD00528,Aliquam Product,Mobiles,Apple,9322,10911,109,10,Active
+529,PRD00529,Odit Product,Books,Puma,21211,31847,186,39,Active
+530,PRD00530,Iure Product,Sports,Godrej,16831,20982,406,21,Active
+531,PRD00531,Delectus Product,Sports,LG,33349,51091,500,38,Active
+532,PRD00532,A Product,Fashion,Apple,24087,35587,179,42,Active
+533,PRD00533,Nulla Product,Sports,Puma,27607,38673,286,33,Active
+534,PRD00534,Natus Product,Sports,Boat,2103,3104,206,27,Active
+535,PRD00535,Minima Product,Mobiles,Asus,33331,45484,215,29,Active
+536,PRD00536,Debitis Product,Home Appliances,Dell,33933,46245,36,13,Active
+537,PRD00537,Quam Product,Furniture,Nike,12018,15677,338,26,Active
+538,PRD00538,Nesciunt Product,Home Appliances,Sony,22819,34954,237,49,Active
+539,PRD00539,Harum Product,Furniture,Asus,33904,44316,330,42,Active
+540,PRD00540,Sequi Product,Electronics,Sony,19253,24634,428,17,Active
+541,PRD00541,Facilis Product,Fashion,Dell,45682,66906,178,34,Active
+542,PRD00542,Sint Product,Books,Dell,14394,21509,228,48,Active
+543,PRD00543,Excepturi Product,Laptops,Godrej,22445,32364,63,47,Active
+544,PRD00544,Consectetur Product,Home Appliances,Godrej,26314,37938,340,38,Active
+545,PRD00545,Hic Product,Fashion,LG,24353,35183,298,27,Active
+546,PRD00546,Assumenda Product,Laptops,Asus,11217,13798,107,25,Active
+547,PRD00547,Velit Product,Laptops,Lenovo,42946,52320,351,49,Active
+548,PRD00548,Vitae Product,Books,Acer,30663,46951,54,15,Active
+549,PRD00549,Corrupti Product,Laptops,Acer,34565,39840,365,34,Active
+550,PRD00550,Illum Product,Books,Sony,29433,43081,491,22,Active
+551,PRD00551,Qui Product,Furniture,Godrej,25339,29728,329,10,Active
+552,PRD00552,Delectus Product,Mobiles,Adidas,39371,54485,60,26,Active
+553,PRD00553,Fuga Product,Furniture,Adidas,15137,22069,139,48,Active
+554,PRD00554,Laborum Product,Furniture,Boat,13967,22154,255,34,Active
+555,PRD00555,Incidunt Product,Home Appliances,Acer,46194,72839,268,36,Active
+556,PRD00556,Eaque Product,Laptops,Acer,5840,7743,482,43,Active
+557,PRD00557,Tempore Product,Books,Nike,44101,60252,167,30,Active
+558,PRD00558,Ab Product,Furniture,Samsung,34808,50584,51,49,Active
+559,PRD00559,Natus Product,Mobiles,Acer,27648,39689,44,38,Active
+560,PRD00560,Fugit Product,Electronics,JBL,37487,55526,174,22,Active
+561,PRD00561,Autem Product,Sports,Dell,43966,51842,199,30,Active
+562,PRD00562,Iusto Product,Furniture,Dell,46172,70673,81,50,Active
+563,PRD00563,Delectus Product,Furniture,Puma,35333,52597,182,49,Active
+564,PRD00564,Culpa Product,Books,Nike,24574,34206,303,30,Active
+565,PRD00565,Fuga Product,Laptops,Asus,25032,35154,97,36,Active
+566,PRD00566,Neque Product,Electronics,Adidas,34306,40848,275,25,Active
+567,PRD00567,Expedita Product,Laptops,Boat,30058,46291,276,25,Active
+568,PRD00568,Qui Product,Furniture,HP,23342,32951,97,25,Active
+569,PRD00569,Deserunt Product,Fashion,Lenovo,49230,78525,377,21,Active
+570,PRD00570,Esse Product,Fashion,Acer,13726,16874,274,13,Active
+571,PRD00571,Asperiores Product,Fashion,LG,49595,61076,438,41,Active
+572,PRD00572,Unde Product,Sports,Apple,5583,8724,425,39,Active
+573,PRD00573,Odit Product,Fashion,HP,18194,27239,476,28,Active
+574,PRD00574,Nemo Product,Sports,Samsung,39620,47801,78,41,Active
+575,PRD00575,Dolor Product,Home Appliances,HP,46429,54536,247,26,Active
+576,PRD00576,Blanditiis Product,Electronics,Apple,42046,65434,278,14,Active
+577,PRD00577,Rem Product,Electronics,Boat,3414,5404,333,41,Active
+578,PRD00578,Cumque Product,Furniture,Sony,25919,32517,116,23,Active
+579,PRD00579,Dicta Product,Electronics,Apple,18839,27427,342,34,Active
+580,PRD00580,Suscipit Product,Fashion,Nike,14135,17817,152,14,Active
+581,PRD00581,Odio Product,Mobiles,Lenovo,47053,62653,422,45,Active
+582,PRD00582,Nesciunt Product,Electronics,Boat,44013,69284,97,31,Active
+583,PRD00583,Id Product,Laptops,Sony,10379,12377,357,50,Active
+584,PRD00584,Asperiores Product,Fashion,JBL,48179,60343,456,16,Active
+585,PRD00585,Provident Product,Home Appliances,Asus,31619,38221,205,42,Active
+586,PRD00586,Ab Product,Furniture,Godrej,24476,28627,196,20,Active
+587,PRD00587,Necessitatibus Product,Mobiles,JBL,25958,30450,379,25,Active
+588,PRD00588,Illo Product,Books,Apple,22376,28625,459,20,Active
+589,PRD00589,Voluptate Product,Fashion,Puma,17308,20180,380,33,Active
+590,PRD00590,Exercitationem Product,Sports,Puma,16042,18776,49,17,Active
+591,PRD00591,Officiis Product,Electronics,Sony,15290,21799,197,43,Active
+592,PRD00592,Quisquam Product,Fashion,JBL,40104,48559,334,20,Active
+593,PRD00593,Libero Product,Books,Dell,13366,16982,395,33,Active
+594,PRD00594,In Product,Home Appliances,Samsung,27948,39213,181,33,Active
+595,PRD00595,Unde Product,Fashion,Lenovo,23942,31862,294,14,Active
+596,PRD00596,Ducimus Product,Furniture,Puma,34959,52318,117,49,Active
+597,PRD00597,Nam Product,Furniture,Godrej,37451,56178,414,34,Active
+598,PRD00598,Excepturi Product,Electronics,JBL,38500,53986,186,33,Active
+599,PRD00599,Dignissimos Product,Home Appliances,JBL,32503,47784,452,22,Active
+600,PRD00600,Unde Product,Mobiles,Nike,34881,40164,332,34,Active
+601,PRD00601,A Product,Furniture,Dell,563,793,165,26,Active
+602,PRD00602,Soluta Product,Fashion,Dell,30381,47030,62,39,Active
+603,PRD00603,Sit Product,Sports,Asus,21119,24434,439,35,Active
+604,PRD00604,Perferendis Product,Electronics,Asus,23241,34903,213,30,Active
+605,PRD00605,Ea Product,Books,JBL,35555,55821,414,18,Active
+606,PRD00606,Magnam Product,Furniture,Apple,11235,13941,31,26,Active
+607,PRD00607,Doloribus Product,Sports,Samsung,16243,18812,363,14,Active
+608,PRD00608,Delectus Product,Electronics,JBL,38127,45648,229,46,Active
+609,PRD00609,Autem Product,Laptops,Acer,31258,47735,444,25,Active
+610,PRD00610,Magnam Product,Fashion,Lenovo,25521,38063,50,15,Active
+611,PRD00611,Sequi Product,Mobiles,JBL,20240,32220,35,19,Active
+612,PRD00612,Doloremque Product,Mobiles,JBL,36386,48358,83,23,Active
+613,PRD00613,Reiciendis Product,Laptops,Sony,10836,15161,11,18,Active
+614,PRD00614,Ut Product,Fashion,Sony,42181,53966,79,19,Active
+615,PRD00615,Quo Product,Mobiles,Apple,17621,26118,157,25,Active
+616,PRD00616,Aut Product,Mobiles,Boat,1965,2391,369,13,Active
+617,PRD00617,Nam Product,Home Appliances,Apple,1488,1729,239,43,Active
+618,PRD00618,Labore Product,Mobiles,Sony,40057,49153,349,25,Active
+619,PRD00619,Numquam Product,Books,Lenovo,22317,26280,59,24,Active
+620,PRD00620,Ducimus Product,Mobiles,Lenovo,22497,28202,175,34,Active
+621,PRD00621,Voluptatum Product,Books,Nike,8139,11690,104,47,Active
+622,PRD00622,Reiciendis Product,Furniture,Nike,18894,29331,386,41,Active
+623,PRD00623,Veniam Product,Books,Adidas,25131,32133,306,33,Active
+624,PRD00624,Sapiente Product,Furniture,Dell,14625,19293,292,22,Active
+625,PRD00625,Quidem Product,Electronics,Lenovo,517,743,37,35,Active
+626,PRD00626,Quod Product,Home Appliances,Nike,16620,25815,38,18,Active
+627,PRD00627,Nesciunt Product,Laptops,Acer,32295,50922,181,37,Active
+628,PRD00628,Iste Product,Mobiles,Nike,31294,47810,45,41,Active
+629,PRD00629,Nam Product,Home Appliances,Nike,49382,77511,105,47,Active
+630,PRD00630,Nihil Product,Books,Acer,10040,12862,240,39,Active
+631,PRD00631,Dolore Product,Mobiles,Acer,13311,18565,163,22,Active
+632,PRD00632,Sed Product,Furniture,Nike,33428,40791,95,48,Active
+633,PRD00633,Quae Product,Mobiles,Godrej,10984,13450,447,24,Active
+634,PRD00634,Sapiente Product,Laptops,Samsung,13397,18553,266,30,Active
+635,PRD00635,Alias Product,Home Appliances,LG,12073,17805,317,11,Active
+636,PRD00636,Assumenda Product,Electronics,Boat,25717,31247,307,28,Active
+637,PRD00637,Delectus Product,Laptops,Sony,3276,5060,163,14,Active
+638,PRD00638,Qui Product,Mobiles,Apple,11757,15168,312,19,Active
+639,PRD00639,Id Product,Sports,Adidas,16991,25740,355,11,Active
+640,PRD00640,Explicabo Product,Home Appliances,Lenovo,34736,50346,371,24,Active
+641,PRD00641,Animi Product,Electronics,Sony,46200,66521,222,20,Active
+642,PRD00642,Dolores Product,Home Appliances,Samsung,45991,72869,339,39,Active
+643,PRD00643,Eos Product,Home Appliances,JBL,18740,22503,185,45,Active
+644,PRD00644,Iste Product,Home Appliances,Samsung,48171,74577,376,43,Active
+645,PRD00645,Eos Product,Fashion,Boat,29780,41060,329,15,Active
+646,PRD00646,Hic Product,Electronics,LG,48430,75431,134,12,Active
+647,PRD00647,Nemo Product,Furniture,LG,38465,55295,297,40,Active
+648,PRD00648,Cumque Product,Electronics,Godrej,24185,34020,368,21,Active
+649,PRD00649,Nostrum Product,Books,Apple,23133,35020,125,21,Active
+650,PRD00650,Neque Product,Home Appliances,Dell,49065,71839,12,40,Active
+651,PRD00651,Natus Product,Laptops,Godrej,793,1111,233,48,Active
+652,PRD00652,Libero Product,Furniture,Nike,20390,28063,358,39,Active
+653,PRD00653,Excepturi Product,Fashion,Apple,19186,26090,390,49,Active
+654,PRD00654,Deserunt Product,Home Appliances,Acer,6920,8795,197,34,Active
+655,PRD00655,Explicabo Product,Sports,Lenovo,24293,28388,79,18,Active
+656,PRD00656,Eum Product,Electronics,Acer,30520,46695,98,31,Active
+657,PRD00657,Nisi Product,Fashion,Boat,9031,13138,420,50,Active
+658,PRD00658,Itaque Product,Laptops,Boat,44277,65001,66,13,Active
+659,PRD00659,A Product,Fashion,Acer,49680,76676,220,21,Active
+660,PRD00660,Aspernatur Product,Laptops,Apple,43317,55726,226,36,Active
+661,PRD00661,Magnam Product,Electronics,Boat,29709,39792,341,46,Active
+662,PRD00662,Doloremque Product,Fashion,Lenovo,17887,28214,215,29,Active
+663,PRD00663,Sit Product,Home Appliances,Nike,32211,37555,430,27,Active
+664,PRD00664,Officiis Product,Fashion,Boat,11675,17846,111,19,Active
+665,PRD00665,Quo Product,Furniture,JBL,2037,2736,381,24,Active
+666,PRD00666,Repellendus Product,Laptops,Sony,9690,15409,122,29,Active
+667,PRD00667,Earum Product,Home Appliances,Adidas,4344,6355,46,32,Active
+668,PRD00668,Dolores Product,Furniture,Samsung,10288,15949,416,17,Active
+669,PRD00669,Deserunt Product,Fashion,Asus,3318,4724,441,36,Active
+670,PRD00670,Facilis Product,Electronics,Lenovo,35463,44731,477,33,Active
+671,PRD00671,Culpa Product,Laptops,Acer,16279,24043,105,20,Active
+672,PRD00672,Aut Product,Sports,Sony,24319,29755,310,38,Active
+673,PRD00673,Placeat Product,Books,Dell,18963,25545,232,38,Active
+674,PRD00674,Sed Product,Sports,Sony,43132,61753,154,20,Active
+675,PRD00675,Hic Product,Home Appliances,Dell,33678,44997,248,11,Active
+676,PRD00676,Nostrum Product,Electronics,Acer,30659,42490,45,12,Active
+677,PRD00677,Expedita Product,Furniture,Godrej,7652,9265,404,10,Active
+678,PRD00678,Deleniti Product,Furniture,Apple,24874,32989,63,17,Active
+679,PRD00679,Blanditiis Product,Furniture,Acer,48923,67473,310,11,Active
+680,PRD00680,Optio Product,Laptops,JBL,2172,2770,37,13,Active
+681,PRD00681,Explicabo Product,Home Appliances,Acer,29291,35919,46,28,Active
+682,PRD00682,Cum Product,Electronics,Sony,37856,46481,301,48,Active
+683,PRD00683,Repellendus Product,Sports,Sony,14131,16354,38,26,Active
+684,PRD00684,Ratione Product,Electronics,Adidas,6109,7382,30,27,Active
+685,PRD00685,Reprehenderit Product,Laptops,Dell,45395,71973,419,32,Active
+686,PRD00686,Repudiandae Product,Home Appliances,HP,24779,37258,196,43,Active
+687,PRD00687,In Product,Fashion,Dell,34156,46283,208,36,Active
+688,PRD00688,Odit Product,Books,Boat,1510,2260,193,17,Active
+689,PRD00689,Aliquam Product,Home Appliances,LG,18016,21658,489,14,Active
+690,PRD00690,Ut Product,Fashion,HP,22266,29645,146,18,Active
+691,PRD00691,Porro Product,Mobiles,HP,30504,41587,185,24,Active
+692,PRD00692,Soluta Product,Laptops,LG,35881,47532,72,17,Active
+693,PRD00693,Quod Product,Sports,Apple,5695,8874,452,40,Active
+694,PRD00694,Nulla Product,Fashion,Lenovo,6805,8609,108,26,Active
+695,PRD00695,Molestiae Product,Laptops,Asus,7831,9131,448,36,Active
+696,PRD00696,Fugiat Product,Furniture,Acer,21839,25217,457,41,Active
+697,PRD00697,Sunt Product,Fashion,Samsung,12740,20080,72,12,Active
+698,PRD00698,Porro Product,Laptops,Apple,33056,40990,84,10,Active
+699,PRD00699,Dignissimos Product,Electronics,Godrej,29251,35547,341,29,Active
+700,PRD00700,Aperiam Product,Mobiles,Sony,21529,32641,484,11,Active
+701,PRD00701,Sint Product,Electronics,Acer,36465,50427,322,37,Active
+702,PRD00702,Quo Product,Fashion,Boat,44687,63314,493,24,Active
+703,PRD00703,Magni Product,Laptops,Asus,15887,21183,17,47,Active
+704,PRD00704,Incidunt Product,Home Appliances,Boat,48694,70348,48,47,Active
+705,PRD00705,Explicabo Product,Furniture,Boat,6947,10939,40,11,Active
+706,PRD00706,Aliquid Product,Laptops,Apple,39499,56286,437,49,Active
+707,PRD00707,Distinctio Product,Laptops,Boat,30100,47367,310,18,Active
+708,PRD00708,Dolorem Product,Mobiles,Godrej,43869,64283,276,38,Active
+709,PRD00709,Sapiente Product,Fashion,Acer,20547,30406,312,26,Active
+710,PRD00710,Perspiciatis Product,Fashion,Sony,41304,50288,335,22,Active
+711,PRD00711,Nam Product,Electronics,Apple,20020,29398,217,37,Active
+712,PRD00712,Illum Product,Books,Samsung,17578,25314,282,37,Active
+713,PRD00713,Modi Product,Sports,JBL,41483,58816,233,27,Active
+714,PRD00714,Id Product,Laptops,Dell,36459,42954,181,14,Active
+715,PRD00715,Tempora Product,Mobiles,Acer,11710,16446,459,39,Active
+716,PRD00716,Magnam Product,Home Appliances,Dell,10226,15529,386,37,Active
+717,PRD00717,Quidem Product,Home Appliances,Asus,32790,44654,207,39,Active
+718,PRD00718,Fuga Product,Electronics,Adidas,30566,42132,11,42,Active
+719,PRD00719,Similique Product,Furniture,Dell,45796,71022,267,49,Active
+720,PRD00720,Ea Product,Laptops,Acer,15120,21695,365,24,Active
+721,PRD00721,Eos Product,Laptops,LG,13017,19318,242,46,Active
+722,PRD00722,Commodi Product,Mobiles,Asus,12192,14321,137,37,Active
+723,PRD00723,Ex Product,Sports,Asus,25753,30588,93,11,Active
+724,PRD00724,Architecto Product,Mobiles,Lenovo,5896,7964,425,30,Active
+725,PRD00725,Dolorum Product,Mobiles,Nike,48570,58415,339,35,Active
+726,PRD00726,Vitae Product,Sports,Lenovo,4297,6646,226,17,Active
+727,PRD00727,Recusandae Product,Electronics,Godrej,6230,9549,148,10,Active
+728,PRD00728,Quisquam Product,Electronics,Acer,44632,56134,300,21,Active
+729,PRD00729,Possimus Product,Books,Nike,43641,63054,469,40,Active
+730,PRD00730,Qui Product,Electronics,Boat,14678,21882,280,36,Active
+731,PRD00731,Esse Product,Home Appliances,Samsung,15476,23981,427,47,Active
+732,PRD00732,Aliquam Product,Fashion,Dell,39528,56986,210,35,Active
+733,PRD00733,Nemo Product,Books,Nike,46519,61962,14,31,Active
+734,PRD00734,Repellat Product,Electronics,Asus,23714,27482,28,31,Active
+735,PRD00735,Id Product,Electronics,Godrej,3689,5369,121,12,Active
+736,PRD00736,Quidem Product,Mobiles,LG,27768,39752,34,47,Active
+737,PRD00737,At Product,Fashion,LG,33596,51175,466,37,Active
+738,PRD00738,Magnam Product,Laptops,Lenovo,19832,25587,303,28,Active
+739,PRD00739,Quasi Product,Furniture,Samsung,4925,7534,223,14,Active
+740,PRD00740,Cumque Product,Electronics,Acer,26218,30719,102,48,Active
+741,PRD00741,Quod Product,Electronics,Adidas,42160,62743,214,15,Active
+742,PRD00742,Magni Product,Laptops,Acer,38593,46425,469,29,Active
+743,PRD00743,Facere Product,Home Appliances,Nike,40562,62660,262,43,Active
+744,PRD00744,Temporibus Product,Home Appliances,Apple,17770,25312,438,15,Active
+745,PRD00745,Incidunt Product,Laptops,HP,29985,40452,402,40,Active
+746,PRD00746,Id Product,Fashion,Dell,29037,39127,364,12,Active
+747,PRD00747,Maiores Product,Books,LG,18789,23199,338,22,Active
+748,PRD00748,Adipisci Product,Fashion,JBL,48853,75405,238,32,Active
+749,PRD00749,Sapiente Product,Mobiles,Puma,42746,67232,100,49,Active
+750,PRD00750,Porro Product,Home Appliances,JBL,21618,25370,296,35,Active
+751,PRD00751,Minus Product,Electronics,Samsung,2844,4431,227,41,Active
+752,PRD00752,Minus Product,Books,JBL,19579,27407,194,35,Active
+753,PRD00753,Consectetur Product,Home Appliances,Boat,31431,49603,416,30,Active
+754,PRD00754,Nihil Product,Home Appliances,Sony,5415,8392,348,41,Active
+755,PRD00755,Modi Product,Mobiles,Adidas,19142,23752,10,43,Active
+756,PRD00756,Dolor Product,Books,Godrej,7358,9027,32,11,Active
+757,PRD00757,Vero Product,Laptops,JBL,14097,19336,11,17,Active
+758,PRD00758,Tempore Product,Mobiles,Boat,700,883,453,10,Active
+759,PRD00759,Ipsum Product,Home Appliances,Sony,33450,40758,474,16,Active
+760,PRD00760,Consectetur Product,Electronics,Lenovo,27043,31216,247,32,Active
+761,PRD00761,Tenetur Product,Fashion,HP,32551,47750,463,35,Active
+762,PRD00762,Repellendus Product,Electronics,Adidas,26621,31624,460,35,Active
+763,PRD00763,Consequuntur Product,Electronics,Sony,17587,22697,124,47,Active
+764,PRD00764,Veritatis Product,Sports,Acer,19435,28864,48,37,Active
+765,PRD00765,Similique Product,Mobiles,Adidas,42892,52053,363,38,Active
+766,PRD00766,Magnam Product,Electronics,LG,9166,12320,147,12,Active
+767,PRD00767,Reiciendis Product,Electronics,Acer,11600,17120,444,21,Active
+768,PRD00768,Quisquam Product,Sports,LG,34789,50178,379,31,Active
+769,PRD00769,Placeat Product,Laptops,Acer,38820,47125,281,47,Active
+770,PRD00770,Consequuntur Product,Sports,Puma,21279,28138,138,49,Active
+771,PRD00771,Eligendi Product,Home Appliances,Asus,38257,59449,309,38,Active
+772,PRD00772,Repudiandae Product,Laptops,Godrej,18484,24186,31,21,Active
+773,PRD00773,Unde Product,Books,Nike,15788,22000,53,50,Active
+774,PRD00774,Ipsum Product,Home Appliances,Acer,20405,26254,376,24,Active
+775,PRD00775,Possimus Product,Books,Puma,44384,64540,128,34,Active
+776,PRD00776,Vero Product,Electronics,Godrej,42712,61534,178,38,Active
+777,PRD00777,Iusto Product,Books,Lenovo,22746,28437,166,38,Active
+778,PRD00778,Tempora Product,Laptops,Godrej,26212,39034,376,23,Active
+779,PRD00779,Atque Product,Electronics,Dell,43355,54831,91,28,Active
+780,PRD00780,Asperiores Product,Books,Godrej,39404,48257,489,31,Active
+781,PRD00781,Doloremque Product,Furniture,Nike,10793,16525,380,15,Active
+782,PRD00782,Quas Product,Mobiles,HP,21297,25156,396,37,Active
+783,PRD00783,Voluptatibus Product,Electronics,JBL,32739,43590,277,48,Active
+784,PRD00784,Et Product,Electronics,Nike,27297,31934,494,37,Active
+785,PRD00785,Ut Product,Books,Godrej,21297,29337,356,20,Active
+786,PRD00786,Error Product,Fashion,JBL,46747,60289,225,33,Active
+787,PRD00787,Non Product,Home Appliances,Godrej,36699,44363,428,31,Active
+788,PRD00788,Reiciendis Product,Electronics,Asus,16919,24804,347,29,Active
+789,PRD00789,Occaecati Product,Fashion,Dell,47810,61319,362,24,Active
+790,PRD00790,Cumque Product,Home Appliances,Godrej,38134,53301,462,22,Active
+791,PRD00791,Vero Product,Sports,Lenovo,49422,62478,396,11,Active
+792,PRD00792,Iusto Product,Furniture,Sony,34786,41879,320,43,Active
+793,PRD00793,Veniam Product,Mobiles,Lenovo,26144,41788,374,35,Active
+794,PRD00794,Dolores Product,Mobiles,Asus,22175,35362,294,24,Active
+795,PRD00795,Exercitationem Product,Home Appliances,Dell,5528,7214,255,11,Active
+796,PRD00796,Repudiandae Product,Laptops,Lenovo,31059,48185,31,28,Active
+797,PRD00797,Consectetur Product,Books,Godrej,46733,64822,227,11,Active
+798,PRD00798,Rerum Product,Home Appliances,Puma,5461,7162,132,27,Active
+799,PRD00799,Fugit Product,Mobiles,Lenovo,21388,25274,340,26,Active
+800,PRD00800,Temporibus Product,Laptops,Godrej,23245,29591,116,22,Active
+801,PRD00801,Nihil Product,Laptops,Sony,33017,46290,343,41,Active
+802,PRD00802,A Product,Furniture,Apple,49833,77628,462,32,Active
+803,PRD00803,Repudiandae Product,Furniture,Samsung,2048,2777,279,18,Active
+804,PRD00804,Sit Product,Fashion,JBL,3503,5322,354,13,Active
+805,PRD00805,Mollitia Product,Electronics,Adidas,43122,63386,270,37,Active
+806,PRD00806,Fugiat Product,Fashion,LG,29810,40270,10,12,Active
+807,PRD00807,In Product,Fashion,Adidas,21527,26597,417,50,Active
+808,PRD00808,Ducimus Product,Sports,Acer,41937,65074,40,24,Active
+809,PRD00809,Ad Product,Home Appliances,Samsung,26220,40283,209,14,Active
+810,PRD00810,Libero Product,Furniture,Adidas,18137,22332,153,15,Active
+811,PRD00811,Tenetur Product,Laptops,JBL,23849,35630,232,24,Active
+812,PRD00812,Aspernatur Product,Sports,Nike,10319,14726,372,14,Active
+813,PRD00813,Quod Product,Mobiles,Acer,42525,54171,145,25,Active
+814,PRD00814,Est Product,Fashion,HP,27800,35744,237,43,Active
+815,PRD00815,Et Product,Fashion,Acer,11114,16258,263,40,Active
+816,PRD00816,Voluptatum Product,Sports,HP,13801,16244,143,35,Active
+817,PRD00817,Commodi Product,Furniture,Boat,2432,2884,54,48,Active
+818,PRD00818,Veritatis Product,Electronics,Dell,25262,32536,432,47,Active
+819,PRD00819,Consectetur Product,Home Appliances,Puma,10663,13833,444,31,Active
+820,PRD00820,Ab Product,Sports,JBL,39855,57576,74,38,Active
+821,PRD00821,Consequatur Product,Books,Adidas,34597,43669,255,34,Active
+822,PRD00822,Maxime Product,Mobiles,Samsung,22027,27915,162,40,Active
+823,PRD00823,Quo Product,Laptops,Puma,8456,10801,108,38,Active
+824,PRD00824,Alias Product,Electronics,Boat,18361,26557,75,44,Active
+825,PRD00825,Libero Product,Sports,JBL,42934,64479,192,37,Active
+826,PRD00826,Enim Product,Home Appliances,Puma,22902,28201,351,34,Active
+827,PRD00827,Praesentium Product,Mobiles,Adidas,31870,41841,199,26,Active
+828,PRD00828,Eum Product,Furniture,Dell,22851,33211,129,29,Active
+829,PRD00829,Rerum Product,Home Appliances,Lenovo,38782,55661,239,33,Active
+830,PRD00830,Quod Product,Home Appliances,Nike,41143,53943,346,29,Active
+831,PRD00831,Incidunt Product,Mobiles,Asus,41681,65547,35,47,Active
+832,PRD00832,Numquam Product,Fashion,Sony,17670,23803,463,26,Active
+833,PRD00833,Dolore Product,Fashion,Godrej,32932,50699,458,22,Active
+834,PRD00834,Eos Product,Electronics,HP,40498,58629,493,45,Active
+835,PRD00835,Quia Product,Sports,Boat,48246,69704,363,48,Active
+836,PRD00836,Nemo Product,Electronics,Sony,11272,17197,449,25,Active
+837,PRD00837,Nisi Product,Mobiles,JBL,34017,47388,455,43,Active
+838,PRD00838,Dolorem Product,Fashion,Boat,30039,35393,363,43,Active
+839,PRD00839,Quae Product,Furniture,Samsung,15792,20089,22,18,Active
+840,PRD00840,Facere Product,Books,Puma,38707,55310,377,25,Active
+841,PRD00841,Delectus Product,Furniture,JBL,36486,47178,443,21,Active
+842,PRD00842,Quam Product,Furniture,JBL,18869,22214,464,44,Active
+843,PRD00843,Voluptas Product,Sports,Godrej,985,1266,278,34,Active
+844,PRD00844,Quisquam Product,Electronics,Godrej,46546,68692,374,38,Active
+845,PRD00845,Perferendis Product,Furniture,Asus,26751,33163,99,41,Active
+846,PRD00846,Cupiditate Product,Books,HP,11349,14620,67,32,Active
+847,PRD00847,Natus Product,Home Appliances,Adidas,29691,41491,410,44,Active
+848,PRD00848,Sit Product,Sports,HP,6075,7919,439,35,Active
+849,PRD00849,Tempora Product,Books,Samsung,10779,12711,203,40,Active
+850,PRD00850,Quidem Product,Books,Samsung,6123,7687,42,28,Active
+851,PRD00851,Esse Product,Home Appliances,Puma,1814,2656,48,46,Active
+852,PRD00852,Quo Product,Sports,Nike,45774,70014,222,17,Active
+853,PRD00853,Omnis Product,Sports,Lenovo,28300,34705,380,44,Active
+854,PRD00854,Cum Product,Sports,Adidas,34757,51278,460,35,Active
+855,PRD00855,Architecto Product,Laptops,Godrej,11791,18524,80,21,Active
+856,PRD00856,Fugiat Product,Mobiles,Apple,20948,28468,141,41,Active
+857,PRD00857,Cumque Product,Sports,Adidas,27030,39018,31,39,Active
+858,PRD00858,Optio Product,Books,HP,7217,9574,336,27,Active
+859,PRD00859,Quos Product,Fashion,Adidas,34500,50008,322,19,Active
+860,PRD00860,Corporis Product,Fashion,Acer,22387,30339,98,22,Active
+861,PRD00861,Deserunt Product,Electronics,Dell,21173,33844,411,49,Active
+862,PRD00862,Vel Product,Laptops,Samsung,12893,16522,407,38,Active
+863,PRD00863,Aut Product,Furniture,Apple,16174,20427,156,40,Active
+864,PRD00864,Odit Product,Fashion,Puma,6783,10743,171,43,Active
+865,PRD00865,Adipisci Product,Laptops,Godrej,12669,19457,67,46,Active
+866,PRD00866,Quo Product,Laptops,Boat,22339,26536,319,10,Active
+867,PRD00867,Amet Product,Sports,Adidas,30053,45688,251,37,Active
+868,PRD00868,Dolore Product,Laptops,Samsung,44243,62938,59,35,Active
+869,PRD00869,Aliquid Product,Home Appliances,Samsung,20012,25829,214,28,Active
+870,PRD00870,Quo Product,Electronics,JBL,11074,14473,124,33,Active
+871,PRD00871,Beatae Product,Mobiles,JBL,16544,20835,385,15,Active
+872,PRD00872,Minus Product,Fashion,Sony,2666,3186,367,35,Active
+873,PRD00873,Facilis Product,Laptops,Sony,30066,39006,306,47,Active
+874,PRD00874,Repudiandae Product,Books,Adidas,44312,63028,31,24,Active
+875,PRD00875,Explicabo Product,Books,Dell,6745,9890,194,37,Active
+876,PRD00876,Quasi Product,Mobiles,LG,35421,51221,292,22,Active
+877,PRD00877,Accusamus Product,Furniture,Boat,12729,14873,482,23,Active
+878,PRD00878,Provident Product,Sports,Boat,22110,28477,478,22,Active
+879,PRD00879,Sint Product,Home Appliances,Nike,26455,40837,266,37,Active
+880,PRD00880,Hic Product,Furniture,Asus,15918,21309,169,29,Active
+881,PRD00881,Dolore Product,Laptops,Dell,38481,53045,348,35,Active
+882,PRD00882,Facere Product,Sports,JBL,13213,19663,239,22,Active
+883,PRD00883,Aperiam Product,Electronics,Nike,37497,45477,430,11,Active
+884,PRD00884,Dignissimos Product,Furniture,Apple,18506,22452,325,49,Active
+885,PRD00885,Ducimus Product,Laptops,Lenovo,9684,14432,434,21,Active
+886,PRD00886,Deserunt Product,Home Appliances,Asus,17955,24259,399,50,Active
+887,PRD00887,Autem Product,Books,Godrej,22860,26804,470,20,Active
+888,PRD00888,Quod Product,Home Appliances,Godrej,4416,6222,255,18,Active
+889,PRD00889,Impedit Product,Electronics,Samsung,8276,9868,271,19,Active
+890,PRD00890,Consectetur Product,Home Appliances,Lenovo,47901,67847,397,48,Active
+891,PRD00891,Tenetur Product,Electronics,Boat,3182,3809,351,33,Active
+892,PRD00892,Dolor Product,Furniture,Adidas,41242,53912,228,15,Active
+893,PRD00893,Sit Product,Electronics,Acer,28980,40614,331,34,Active
+894,PRD00894,Fugit Product,Home Appliances,Dell,34110,39755,168,11,Active
+895,PRD00895,Nulla Product,Fashion,Asus,901,1386,366,27,Active
+896,PRD00896,Nihil Product,Laptops,Boat,28027,38799,368,22,Active
+897,PRD00897,Corporis Product,Furniture,Samsung,8266,12556,479,25,Active
+898,PRD00898,Ipsa Product,Fashion,Adidas,27781,31960,144,22,Active
+899,PRD00899,Illum Product,Laptops,HP,12674,15158,475,32,Active
+900,PRD00900,Accusamus Product,Mobiles,Lenovo,17936,25261,51,40,Active
+901,PRD00901,Voluptate Product,Laptops,Lenovo,39509,58510,204,49,Active
+902,PRD00902,Voluptate Product,Laptops,Samsung,43619,51088,204,28,Active
+903,PRD00903,Minus Product,Sports,LG,4809,6590,498,46,Active
+904,PRD00904,Libero Product,Fashion,Lenovo,8943,10357,164,44,Active
+905,PRD00905,Id Product,Sports,Dell,42081,52255,471,46,Active
+906,PRD00906,Alias Product,Laptops,Nike,2288,3547,432,43,Active
+907,PRD00907,Sunt Product,Laptops,LG,1390,1665,467,23,Active
+908,PRD00908,Qui Product,Sports,Sony,49120,65691,117,48,Active
+909,PRD00909,Doloribus Product,Home Appliances,Asus,20120,26432,146,48,Active
+910,PRD00910,Quos Product,Electronics,Dell,32802,40786,445,47,Active
+911,PRD00911,Cupiditate Product,Laptops,LG,27635,32195,110,31,Active
+912,PRD00912,Et Product,Electronics,LG,13702,20715,122,21,Active
+913,PRD00913,Adipisci Product,Mobiles,Puma,23037,36498,167,45,Active
+914,PRD00914,Ad Product,Electronics,JBL,36334,53917,419,29,Active
+915,PRD00915,Excepturi Product,Furniture,Nike,39555,54307,151,45,Active
+916,PRD00916,Neque Product,Fashion,HP,46439,60310,359,35,Active
+917,PRD00917,Fugit Product,Mobiles,Acer,37866,56022,154,12,Active
+918,PRD00918,Quod Product,Books,Boat,22323,34634,415,28,Active
+919,PRD00919,Molestiae Product,Home Appliances,LG,7036,8346,111,46,Active
+920,PRD00920,Assumenda Product,Home Appliances,Godrej,6932,9926,339,47,Active
+921,PRD00921,At Product,Sports,Adidas,5323,7782,235,11,Active
+922,PRD00922,Hic Product,Fashion,Apple,41425,63807,47,42,Active
+923,PRD00923,Iure Product,Sports,Godrej,22275,32396,458,12,Active
+924,PRD00924,Deleniti Product,Home Appliances,Lenovo,17615,25766,143,19,Active
+925,PRD00925,Accusantium Product,Mobiles,LG,39160,45280,406,44,Active
+926,PRD00926,Aliquam Product,Home Appliances,Lenovo,42077,54532,376,44,Active
+927,PRD00927,Eum Product,Electronics,Samsung,3454,4270,241,40,Active
+928,PRD00928,Reprehenderit Product,Mobiles,Dell,14010,20849,198,45,Active
+929,PRD00929,Atque Product,Furniture,Godrej,36870,49194,191,23,Active
+930,PRD00930,Pariatur Product,Furniture,Godrej,45844,53990,244,45,Active
+931,PRD00931,Vel Product,Furniture,Dell,5588,8447,380,47,Active
+932,PRD00932,Asperiores Product,Laptops,Puma,23376,34154,150,10,Active
+933,PRD00933,Odio Product,Laptops,Godrej,21433,25200,61,25,Active
+934,PRD00934,Excepturi Product,Sports,HP,47057,71998,263,12,Active
+935,PRD00935,Expedita Product,Furniture,Godrej,654,763,429,32,Active
+936,PRD00936,Praesentium Product,Laptops,Acer,20450,30218,445,18,Active
+937,PRD00937,Vero Product,Furniture,Godrej,45196,55886,483,16,Active
+938,PRD00938,Nostrum Product,Furniture,Asus,1050,1620,176,20,Active
+939,PRD00939,Ab Product,Home Appliances,Acer,21361,27706,302,34,Active
+940,PRD00940,Pariatur Product,Fashion,Nike,10075,13051,50,27,Active
+941,PRD00941,Delectus Product,Mobiles,Asus,18124,21667,376,46,Active
+942,PRD00942,Laborum Product,Laptops,Puma,36025,48650,440,13,Active
+943,PRD00943,Deserunt Product,Mobiles,HP,40618,50197,180,19,Active
+944,PRD00944,Tempora Product,Books,Boat,39088,49449,230,17,Active
+945,PRD00945,Nulla Product,Furniture,Godrej,7753,9251,129,20,Active
+946,PRD00946,Facilis Product,Electronics,Lenovo,16916,25163,217,31,Active
+947,PRD00947,Eos Product,Sports,JBL,9381,14720,49,18,Active
+948,PRD00948,Fuga Product,Sports,Acer,8590,11378,298,29,Active
+949,PRD00949,Laborum Product,Electronics,Dell,34333,40843,49,14,Active
+950,PRD00950,Aliquid Product,Home Appliances,Acer,11293,16593,21,17,Active
+951,PRD00951,Ipsum Product,Sports,LG,28009,37942,198,50,Active
+952,PRD00952,Ex Product,Home Appliances,Apple,26071,37613,123,45,Active
+953,PRD00953,Reiciendis Product,Home Appliances,Nike,48143,69384,268,29,Active
+954,PRD00954,Vitae Product,Furniture,Sony,7016,8994,211,20,Active
+955,PRD00955,Nihil Product,Electronics,Acer,11982,18103,259,26,Active
+956,PRD00956,Nulla Product,Electronics,LG,43914,62412,112,42,Active
+957,PRD00957,Mollitia Product,Electronics,LG,44666,71381,383,49,Active
+958,PRD00958,Amet Product,Furniture,Apple,24565,28331,278,14,Active
+959,PRD00959,Hic Product,Sports,Apple,29073,40543,179,38,Active
+960,PRD00960,Nulla Product,Electronics,Acer,32732,40280,266,41,Active
+961,PRD00961,Quia Product,Laptops,Dell,12625,17171,436,33,Active
+962,PRD00962,Nihil Product,Fashion,Acer,38707,45898,245,46,Active
+963,PRD00963,Modi Product,Laptops,LG,33853,50321,183,31,Active
+964,PRD00964,Repellendus Product,Fashion,Acer,6468,9044,414,33,Active
+965,PRD00965,Totam Product,Furniture,Samsung,11475,16411,330,30,Active
+966,PRD00966,Ex Product,Books,Samsung,9711,11769,75,45,Active
+967,PRD00967,Dolorem Product,Books,Puma,20520,24905,339,20,Active
+968,PRD00968,Veniam Product,Mobiles,Dell,37627,52325,466,19,Active
+969,PRD00969,Vero Product,Books,Apple,40950,48494,206,30,Active
+970,PRD00970,Pariatur Product,Home Appliances,Acer,7470,10788,144,19,Active
+971,PRD00971,Totam Product,Fashion,JBL,2646,3414,261,43,Active
+972,PRD00972,Optio Product,Home Appliances,HP,49881,59859,158,33,Active
+973,PRD00973,Dicta Product,Fashion,Samsung,25387,30762,41,23,Active
+974,PRD00974,Sequi Product,Furniture,JBL,4462,6905,43,24,Active
+975,PRD00975,Rem Product,Laptops,Samsung,1526,1765,43,28,Active
+976,PRD00976,Dolore Product,Furniture,Apple,28306,36403,52,28,Active
+977,PRD00977,Rem Product,Books,Godrej,16774,22799,357,11,Active
+978,PRD00978,Harum Product,Mobiles,Acer,24834,32311,78,40,Active
+979,PRD00979,Maiores Product,Mobiles,Nike,31580,36651,37,29,Active
+980,PRD00980,Sequi Product,Books,Lenovo,37420,50886,308,43,Active
+981,PRD00981,Sint Product,Fashion,Nike,29983,43868,353,47,Active
+982,PRD00982,Deleniti Product,Furniture,HP,29076,41915,42,23,Active
+983,PRD00983,Recusandae Product,Books,Acer,23284,26938,232,28,Active
+984,PRD00984,Veritatis Product,Books,Apple,41009,58649,368,38,Active
+985,PRD00985,Vero Product,Home Appliances,Lenovo,46804,62309,220,42,Active
+986,PRD00986,Sunt Product,Books,HP,2222,3500,476,16,Active
+987,PRD00987,Velit Product,Books,LG,40867,62878,34,32,Active
+988,PRD00988,Exercitationem Product,Electronics,HP,42115,51919,43,19,Active
+989,PRD00989,Ipsam Product,Electronics,Acer,32192,48820,154,19,Active
+990,PRD00990,Repellendus Product,Fashion,Puma,8927,14107,301,24,Active
+991,PRD00991,Provident Product,Mobiles,Samsung,15931,22972,401,45,Active
+992,PRD00992,Excepturi Product,Home Appliances,Samsung,6117,9259,67,36,Active
+993,PRD00993,Deleniti Product,Sports,Acer,5374,7223,451,49,Active
+994,PRD00994,Cumque Product,Furniture,Puma,44046,60001,459,36,Active
+995,PRD00995,Quam Product,Books,HP,38656,52918,67,48,Active
+996,PRD00996,Dolorem Product,Fashion,Puma,35040,53022,44,17,Active
+997,PRD00997,Est Product,Books,Apple,8213,10812,132,47,Active
+998,PRD00998,Consequuntur Product,Books,HP,4434,6921,174,33,Active
+999,PRD00999,Quasi Product,Mobiles,Nike,34302,45631,164,18,Active
+1000,PRD01000,Animi Product,Mobiles,Acer,14277,19009,440,29,Active

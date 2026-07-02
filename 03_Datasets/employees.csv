@@ -1,0 +1,2001 @@
+employee_id,employee_code,first_name,last_name,gender,department,designation,salary,joining_date,performance_rating,employment_status
+1,EMP00001,Upkaar,Raman,Male,Human Resources,Executive,42029,2019-08-02,3.8,Active
+2,EMP00002,Samuel,Om,Male,Executive,Team Lead,148477,2025-01-31,4.2,Active
+3,EMP00003,Dalaja,Cherian,Male,Finance,Analyst,133433,2023-03-29,3.6,Active
+4,EMP00004,Bhavika,Kade,Female,Human Resources,Assistant Manager,133309,2022-11-04,4.5,Active
+5,EMP00005,Girik,Mitra,Male,Finance,Senior Executive,157321,2020-03-16,4.6,Active
+6,EMP00006,Yug,Kamdar,Female,Human Resources,Executive,117995,2024-09-01,3.3,Active
+7,EMP00007,Akshay,Sastry,Male,Customer Success,Team Lead,104364,2018-10-13,3.1,Active
+8,EMP00008,Panini,Mitter,Male,Sales,Senior Executive,158249,2022-11-22,3.1,Active
+9,EMP00009,Nachiket,Sanghvi,Male,Customer Success,Team Lead,115956,2019-04-16,3.8,Active
+10,EMP00010,Krishna,Nagarajan,Female,Inventory,Manager,154721,2024-05-06,4.3,Active
+11,EMP00011,Pranav,Dave,Male,Inventory,Senior Executive,91881,2018-03-30,3.9,Active
+12,EMP00012,Kalpit,Sampath,Female,Human Resources,Senior Executive,114261,2023-01-06,4.7,Active
+13,EMP00013,Siddharth,Natarajan,Female,Human Resources,Assistant Manager,154009,2023-12-04,4.2,Active
+14,EMP00014,Rushil,Badal,Female,Sales,Analyst,78083,2022-08-06,3.1,Active
+15,EMP00015,Girindra,Gokhale,Female,Sales,Assistant Manager,135771,2023-12-03,3.9,Active
+16,EMP00016,Vanya,Nadig,Female,Executive,Manager,45849,2023-05-24,3.2,Active
+17,EMP00017,Omkaar,Pai,Male,Finance,Team Lead,77797,2020-09-06,4.8,Active
+18,EMP00018,Urvashi,Nagi,Female,Sales,Senior Executive,179418,2019-03-26,3.3,Active
+19,EMP00019,Tristan,Venkatesh,Female,Operations,Analyst,125398,2024-09-16,4.3,Active
+20,EMP00020,Nakul,Sha,Female,Customer Success,Executive,84290,2020-10-14,4.0,Active
+21,EMP00021,Amruta,Lala,Female,Sales,Analyst,162389,2018-02-17,4.0,Active
+22,EMP00022,Wridesh,Dara,Male,Executive,Executive,136027,2025-03-11,3.7,Active
+23,EMP00023,Aayush,Dugar,Male,Executive,Manager,100078,2018-06-17,4.0,Active
+24,EMP00024,Vansha,Bose,Female,Inventory,Senior Executive,170992,2025-03-28,3.6,Active
+25,EMP00025,Mugdha,Bansal,Female,Inventory,Senior Executive,32786,2020-07-22,3.5,Active
+26,EMP00026,Xalak,Bhardwaj,Female,Operations,Senior Executive,143471,2021-09-07,4.3,Active
+27,EMP00027,Veer,Baria,Male,Executive,Analyst,98765,2024-12-15,3.3,Active
+28,EMP00028,Arunima,Krishnan,Male,Inventory,Executive,32592,2020-02-14,3.2,Active
+29,EMP00029,Ryan,Lalla,Female,Inventory,Team Lead,94188,2025-06-09,4.6,Active
+30,EMP00030,Dalaja,Mittal,Female,Finance,Assistant Manager,51681,2022-10-20,4.0,Active
+31,EMP00031,Upadhriti,Edwin,Female,Customer Success,Team Lead,161747,2020-12-29,4.9,Active
+32,EMP00032,Dayamai,Johal,Female,Sales,Team Lead,177316,2025-05-23,4.1,Active
+33,EMP00033,Sanya,Seth,Female,Customer Success,Team Lead,86521,2018-04-09,3.4,Active
+34,EMP00034,Harinakshi,Oza,Male,Customer Success,Executive,150892,2025-01-09,4.8,Active
+35,EMP00035,Qabil,Garde,Female,Sales,Assistant Manager,119726,2019-09-25,3.8,Active
+36,EMP00036,Eshana,Madan,Male,Sales,Assistant Manager,124792,2019-10-14,3.4,Active
+37,EMP00037,Ranveer,Kadakia,Male,Finance,Team Lead,135435,2022-04-10,3.4,Active
+38,EMP00038,Pratyush,Prashad,Male,Inventory,Senior Executive,94457,2022-01-07,4.7,Active
+39,EMP00039,Harsh,Date,Female,Human Resources,Analyst,30843,2020-09-29,3.1,Active
+40,EMP00040,Zaitra,Pradhan,Male,Executive,Analyst,102136,2018-09-04,4.6,Active
+41,EMP00041,Yagnesh,Chand,Female,Finance,Senior Executive,36751,2019-04-27,3.3,Active
+42,EMP00042,Sudiksha,Shroff,Female,Finance,Executive,176388,2021-08-29,3.0,Active
+43,EMP00043,Zarna,Rajan,Female,Finance,Senior Executive,50548,2025-06-13,4.9,Active
+44,EMP00044,Gaurika,Puri,Male,Customer Success,Executive,130796,2023-10-20,3.3,Active
+45,EMP00045,Lajita,Nazareth,Male,Human Resources,Team Lead,62622,2018-05-14,4.1,Active
+46,EMP00046,Yashvi,Deep,Male,Human Resources,Analyst,169116,2021-03-25,4.4,Active
+47,EMP00047,Anirudh,Virk,Male,Inventory,Analyst,146251,2023-06-12,4.2,Active
+48,EMP00048,Rajeshri,Jayaraman,Male,Inventory,Team Lead,69416,2021-01-14,4.7,Active
+49,EMP00049,Upkaar,Mahal,Female,Customer Success,Assistant Manager,115830,2020-08-27,4.1,Active
+50,EMP00050,Quincy,Srinivas,Male,Human Resources,Executive,170452,2019-10-05,4.0,Active
+51,EMP00051,Peter,Sahota,Male,Executive,Team Lead,66197,2022-11-24,4.9,Active
+52,EMP00052,Sanya,Maharaj,Male,Inventory,Analyst,55812,2023-08-29,3.7,Active
+53,EMP00053,Faras,Singh,Female,Human Resources,Assistant Manager,152431,2022-09-12,4.5,Active
+54,EMP00054,Yadavi,Sheth,Male,Human Resources,Analyst,40752,2020-09-25,3.1,Active
+55,EMP00055,Zilmil,Balay,Male,Inventory,Manager,116073,2021-05-27,3.5,Active
+56,EMP00056,Dayamai,Ganguly,Female,Operations,Executive,118757,2018-03-03,4.6,Active
+57,EMP00057,Baljiwan,Lall,Female,Inventory,Team Lead,103852,2024-07-24,4.5,Active
+58,EMP00058,Jagdish,Varghese,Female,Customer Success,Executive,163803,2024-06-01,3.3,Active
+59,EMP00059,Aachal,Kakar,Female,Human Resources,Manager,106147,2018-06-18,3.5,Active
+60,EMP00060,Yashawini,Mall,Female,Sales,Manager,138258,2024-09-05,4.9,Active
+61,EMP00061,Ryan,Varty,Female,Executive,Analyst,85136,2022-02-17,4.7,Active
+62,EMP00062,Samarth,Panchal,Male,Executive,Executive,163113,2019-07-04,4.3,Active
+63,EMP00063,Dalbir,Vohra,Female,Operations,Analyst,108649,2023-01-06,4.5,Active
+64,EMP00064,Arunima,Saraf,Female,Customer Success,Manager,159278,2021-01-17,3.7,Active
+65,EMP00065,Damyanti,Kalla,Male,Human Resources,Analyst,60794,2019-06-01,3.4,Active
+66,EMP00066,Saumya,Pandey,Female,Finance,Analyst,95095,2023-05-31,4.2,Active
+67,EMP00067,Riya,Kapoor,Male,Sales,Manager,46285,2021-03-13,4.7,Active
+68,EMP00068,Arya,Misra,Female,Inventory,Analyst,173502,2021-06-25,4.1,Active
+69,EMP00069,Ati,Bhatia,Female,Operations,Analyst,57662,2022-11-23,3.9,Active
+70,EMP00070,Daniel,Ravi,Male,Customer Success,Team Lead,119369,2022-09-24,4.3,Active
+71,EMP00071,Turvi,Wadhwa,Female,Sales,Senior Executive,116479,2022-01-31,4.2,Active
+72,EMP00072,Harinakshi,Lad,Female,Sales,Senior Executive,148070,2022-11-01,3.9,Active
+73,EMP00073,Hemani,Oza,Male,Operations,Analyst,62486,2019-09-27,4.8,Active
+74,EMP00074,Qarin,Chanda,Male,Operations,Senior Executive,156530,2022-06-16,3.7,Active
+75,EMP00075,Ekiya,Bhalla,Male,Human Resources,Analyst,59668,2025-01-14,3.4,Active
+76,EMP00076,Yashasvi,Pathak,Male,Operations,Assistant Manager,42956,2018-08-17,3.7,Active
+77,EMP00077,Nimrat,Mani,Female,Human Resources,Team Lead,93087,2021-04-01,3.7,Active
+78,EMP00078,Ekalinga,Dhar,Female,Executive,Analyst,144069,2020-02-07,4.9,Active
+79,EMP00079,Faqid,Sant,Female,Inventory,Assistant Manager,86279,2020-04-13,3.7,Active
+80,EMP00080,Yatin,Gour,Female,Customer Success,Manager,138727,2023-09-16,3.1,Active
+81,EMP00081,Priya,Vyas,Female,Executive,Executive,109042,2024-07-05,3.2,Active
+82,EMP00082,Yadavi,Lad,Female,Executive,Assistant Manager,43320,2021-04-18,3.4,Active
+83,EMP00083,Ikshita,Gour,Female,Sales,Analyst,116410,2023-04-16,4.1,Active
+84,EMP00084,Arya,Balakrishnan,Male,Sales,Assistant Manager,149745,2024-07-16,3.5,Active
+85,EMP00085,Arunima,Sood,Female,Inventory,Manager,42117,2024-11-28,4.4,Active
+86,EMP00086,Omaja,Oak,Male,Executive,Executive,140161,2018-05-28,4.0,Active
+87,EMP00087,Lavanya,Seth,Female,Customer Success,Assistant Manager,36407,2018-12-27,3.1,Active
+88,EMP00088,Krishna,Gara,Female,Executive,Team Lead,81617,2024-09-12,3.2,Active
+89,EMP00089,Tristan,Balay,Male,Human Resources,Senior Executive,75406,2018-06-29,3.3,Active
+90,EMP00090,Aditya,Ramanathan,Female,Sales,Executive,79770,2020-08-30,4.4,Active
+91,EMP00091,Ojas,Khanna,Female,Finance,Manager,41158,2020-01-28,4.8,Active
+92,EMP00092,Suhani,Gulati,Male,Inventory,Team Lead,147321,2023-10-26,3.3,Active
+93,EMP00093,Anirudh,Brahmbhatt,Male,Inventory,Team Lead,85379,2023-12-04,3.6,Active
+94,EMP00094,Kashvi,Mohan,Female,Inventory,Executive,138059,2023-01-29,3.9,Active
+95,EMP00095,Baghyawati,Sharaf,Male,Customer Success,Analyst,65419,2018-02-02,4.1,Active
+96,EMP00096,Hamsini,Parsa,Female,Inventory,Assistant Manager,54302,2020-01-31,3.6,Active
+97,EMP00097,Gaurangi,Garde,Female,Operations,Analyst,156021,2021-02-13,3.3,Active
+98,EMP00098,Hamsini,Natt,Female,Human Resources,Analyst,37860,2020-11-21,3.9,Active
+99,EMP00099,Edhitha,Goyal,Male,Executive,Assistant Manager,73634,2023-07-21,4.2,Active
+100,EMP00100,Gabriel,Gala,Female,Operations,Senior Executive,145957,2024-08-29,4.6,Active
+101,EMP00101,Xalak,Purohit,Female,Inventory,Executive,174091,2023-04-28,3.9,Active
+102,EMP00102,Kevin,Parikh,Female,Human Resources,Team Lead,178498,2019-11-23,3.6,Active
+103,EMP00103,Kala,Chaudhuri,Female,Customer Success,Executive,110204,2020-11-19,3.8,Active
+104,EMP00104,Balvan,Kashyap,Male,Executive,Team Lead,117807,2020-10-18,3.2,Active
+105,EMP00105,Farhan,Patla,Female,Human Resources,Manager,135742,2021-06-27,4.3,Active
+106,EMP00106,Girindra,Dhaliwal,Male,Inventory,Analyst,32683,2019-09-18,4.3,Active
+107,EMP00107,Anthony,Bassi,Male,Executive,Team Lead,178202,2022-03-17,3.5,Active
+108,EMP00108,Alexander,Vasa,Female,Operations,Manager,166147,2018-09-19,4.9,Active
+109,EMP00109,Oeshi,Barman,Male,Customer Success,Team Lead,77726,2019-07-24,4.2,Active
+110,EMP00110,Devansh,Wadhwa,Male,Finance,Assistant Manager,65757,2020-12-26,3.8,Active
+111,EMP00111,Falguni,Kanda,Female,Finance,Senior Executive,43750,2020-07-16,3.9,Active
+112,EMP00112,Tarak,Basu,Male,Operations,Assistant Manager,176275,2021-01-10,3.1,Active
+113,EMP00113,Tanvi,Gulati,Female,Customer Success,Assistant Manager,46861,2020-04-14,4.0,Active
+114,EMP00114,Tamanna,Goswami,Female,Human Resources,Assistant Manager,166531,2021-08-31,4.0,Active
+115,EMP00115,Elijah,Kaul,Male,Sales,Analyst,116429,2021-09-04,4.2,Active
+116,EMP00116,Vasudha,Jaggi,Female,Customer Success,Manager,134698,2025-04-23,4.6,Active
+117,EMP00117,Anirudh,Puri,Female,Executive,Manager,161705,2022-04-28,4.1,Active
+118,EMP00118,Wahab,Bhargava,Male,Sales,Analyst,118427,2018-10-02,4.7,Active
+119,EMP00119,Vanya,Chakraborty,Male,Operations,Assistant Manager,155561,2025-04-23,3.8,Active
+120,EMP00120,Meera,Grover,Female,Inventory,Analyst,86317,2022-08-24,4.8,Active
+121,EMP00121,Gopal,Divan,Male,Operations,Executive,126375,2022-08-11,3.2,Active
+122,EMP00122,Neel,Sanghvi,Female,Human Resources,Senior Executive,95879,2020-11-03,3.4,Active
+123,EMP00123,Quincy,Bhasin,Male,Human Resources,Senior Executive,53011,2023-09-21,3.9,Active
+124,EMP00124,Gaurav,Ben,Female,Operations,Assistant Manager,56149,2022-02-19,3.3,Active
+125,EMP00125,Ikshita,Kapadia,Male,Human Resources,Executive,54297,2024-05-30,4.9,Active
+126,EMP00126,Saumya,Tella,Female,Customer Success,Assistant Manager,35689,2021-10-25,3.8,Active
+127,EMP00127,Samuel,Jayaraman,Male,Finance,Senior Executive,112994,2024-02-20,3.6,Active
+128,EMP00128,Zashil,Mahajan,Male,Customer Success,Analyst,79161,2020-01-31,4.7,Active
+129,EMP00129,Kiaan,Krish,Female,Operations,Manager,83690,2020-02-02,4.7,Active
+130,EMP00130,Gopal,Thakkar,Male,Executive,Analyst,63779,2020-04-28,3.4,Active
+131,EMP00131,Chaaya,Sama,Male,Sales,Manager,40631,2023-09-02,4.2,Active
+132,EMP00132,Wridesh,Contractor,Male,Customer Success,Manager,41329,2018-06-06,3.7,Active
+133,EMP00133,Nathan,Saran,Male,Inventory,Executive,168607,2020-12-30,3.7,Active
+134,EMP00134,Krish,Dugal,Female,Inventory,Manager,124856,2024-12-06,4.2,Active
+135,EMP00135,Ikbal,Khare,Female,Executive,Senior Executive,154015,2018-03-19,4.4,Active
+136,EMP00136,Pushti,Rout,Female,Inventory,Team Lead,142516,2019-01-27,4.9,Active
+137,EMP00137,Dakshesh,Goswami,Female,Finance,Analyst,162068,2020-03-04,3.1,Active
+138,EMP00138,Vidhi,Som,Male,Customer Success,Manager,155602,2022-02-09,3.2,Active
+139,EMP00139,Ayushman,Kamdar,Male,Operations,Executive,32841,2024-09-04,4.5,Active
+140,EMP00140,Maya,Gill,Male,Sales,Manager,174116,2024-08-04,3.9,Active
+141,EMP00141,Aadi,Rajagopal,Female,Executive,Senior Executive,150560,2019-03-28,3.6,Active
+142,EMP00142,Nidra,Chaudhary,Female,Finance,Senior Executive,41462,2021-03-06,3.5,Active
+143,EMP00143,Hitesh,Vaidya,Male,Operations,Analyst,95250,2018-12-23,3.4,Active
+144,EMP00144,Gopal,Bhardwaj,Female,Operations,Analyst,134370,2018-06-27,3.4,Active
+145,EMP00145,Yashoda,Parsa,Male,Operations,Executive,138480,2021-12-28,3.7,Active
+146,EMP00146,Matthew,Palla,Male,Operations,Senior Executive,95679,2023-02-02,3.7,Active
+147,EMP00147,Nikita,Sampath,Female,Finance,Manager,149774,2019-07-23,4.8,Active
+148,EMP00148,Ucchal,Grover,Male,Operations,Assistant Manager,154012,2018-08-24,3.3,Active
+149,EMP00149,Arya,Bumb,Female,Sales,Executive,32019,2021-12-30,4.8,Active
+150,EMP00150,Yamini,Ranganathan,Female,Inventory,Manager,40923,2022-10-12,4.2,Active
+151,EMP00151,Ikshita,Banerjee,Female,Operations,Executive,48611,2019-12-30,3.2,Active
+152,EMP00152,Mohammed,Dora,Male,Executive,Manager,148919,2024-09-18,3.4,Active
+153,EMP00153,Upma,Dora,Male,Finance,Analyst,79184,2024-06-10,4.6,Active
+154,EMP00154,Banjeet,Batta,Male,Sales,Assistant Manager,127144,2021-01-21,4.1,Active
+155,EMP00155,Yatin,Om,Female,Sales,Manager,116729,2023-04-22,4.6,Active
+156,EMP00156,Bhanumati,Hayre,Female,Inventory,Analyst,79373,2019-08-19,4.7,Active
+157,EMP00157,Nakul,Tandon,Male,Sales,Senior Executive,101148,2019-12-25,3.8,Active
+158,EMP00158,Manan,Chauhan,Female,Operations,Assistant Manager,168496,2021-10-01,4.3,Active
+159,EMP00159,Quincy,Nagi,Female,Customer Success,Executive,36435,2019-08-08,4.4,Active
+160,EMP00160,Qabil,Sha,Female,Sales,Assistant Manager,46985,2021-08-15,4.4,Active
+161,EMP00161,Amaira,Balan,Male,Executive,Analyst,55828,2018-07-24,4.2,Active
+162,EMP00162,Kamya,Bhakta,Male,Human Resources,Manager,125689,2020-10-12,3.4,Active
+163,EMP00163,Eta,Agrawal,Female,Finance,Senior Executive,31707,2021-07-17,4.0,Active
+164,EMP00164,Dev,Shah,Female,Customer Success,Analyst,80726,2023-03-22,4.4,Active
+165,EMP00165,Rehaan,Shroff,Male,Sales,Team Lead,171625,2021-02-28,3.2,Active
+166,EMP00166,Urvashi,Doshi,Female,Finance,Manager,147695,2018-05-16,4.3,Active
+167,EMP00167,Devansh,D’Alia,Male,Sales,Manager,32811,2021-01-09,3.9,Active
+168,EMP00168,Karan,Bose,Male,Executive,Senior Executive,119393,2024-12-24,3.3,Active
+169,EMP00169,Kiaan,Chaudhuri,Male,Executive,Senior Executive,178215,2023-04-12,3.2,Active
+170,EMP00170,Ekantika,Toor,Female,Operations,Team Lead,58427,2023-02-03,3.8,Active
+171,EMP00171,Odika,Kala,Female,Human Resources,Executive,122957,2024-10-11,3.2,Active
+172,EMP00172,Bhavya,Cherian,Male,Customer Success,Team Lead,92647,2018-05-06,4.5,Active
+173,EMP00173,Falan,Dass,Male,Sales,Assistant Manager,121006,2022-01-27,4.8,Active
+174,EMP00174,Hamsini,Maharaj,Male,Executive,Manager,173706,2020-02-14,3.5,Active
+175,EMP00175,Pushti,Devi,Male,Operations,Team Lead,85543,2022-03-20,3.6,Active
+176,EMP00176,Vritti,Borra,Female,Sales,Team Lead,97554,2021-05-13,3.1,Active
+177,EMP00177,Ijaya,Master,Female,Customer Success,Assistant Manager,107598,2021-12-24,4.7,Active
+178,EMP00178,Yashodhara,Sarin,Female,Inventory,Senior Executive,126628,2023-03-29,3.0,Active
+179,EMP00179,Ryan,Ravel,Female,Executive,Manager,126644,2018-01-28,4.2,Active
+180,EMP00180,Shravya,Kalla,Female,Finance,Executive,152938,2024-01-13,4.8,Active
+181,EMP00181,Omya,Mann,Female,Operations,Senior Executive,77785,2023-01-18,3.2,Active
+182,EMP00182,Yoshita,Mody,Male,Operations,Executive,63730,2025-01-30,4.3,Active
+183,EMP00183,Chakradev,Sibal,Male,Sales,Team Lead,144323,2023-10-01,4.7,Active
+184,EMP00184,Balvan,Bhargava,Male,Customer Success,Executive,36917,2024-10-19,4.8,Active
+185,EMP00185,Vamakshi,Sehgal,Male,Operations,Executive,47826,2024-08-11,3.6,Active
+186,EMP00186,Nirja,Bajaj,Male,Executive,Team Lead,47627,2025-05-01,3.9,Active
+187,EMP00187,Onveer,Sarkar,Male,Executive,Senior Executive,65634,2023-08-09,4.4,Active
+188,EMP00188,Leela,Sahota,Male,Inventory,Executive,120367,2025-06-30,4.3,Active
+189,EMP00189,Maanas,Narang,Female,Operations,Manager,159961,2018-07-23,3.2,Active
+190,EMP00190,Qabil,Seshadri,Female,Finance,Assistant Manager,131108,2023-09-06,3.3,Active
+191,EMP00191,Bachittar,Sarna,Male,Sales,Team Lead,118041,2022-10-15,4.3,Active
+192,EMP00192,Abhiram,Nayak,Female,Human Resources,Manager,37384,2023-07-04,3.9,Active
+193,EMP00193,Bimala,Seshadri,Female,Inventory,Analyst,132326,2024-04-24,4.4,Active
+194,EMP00194,Yamini,Banik,Male,Finance,Executive,122825,2019-05-08,4.9,Active
+195,EMP00195,Unnati,Zacharia,Female,Operations,Senior Executive,179142,2025-06-08,3.9,Active
+196,EMP00196,Madhavi,Saraf,Female,Customer Success,Team Lead,75798,2021-12-11,3.1,Active
+197,EMP00197,Udarsh,Jha,Female,Human Resources,Executive,141258,2023-03-28,4.5,Active
+198,EMP00198,Anthony,Mistry,Female,Customer Success,Manager,79581,2022-01-27,4.1,Active
+199,EMP00199,Rishi,Sekhon,Male,Customer Success,Executive,158467,2023-07-28,3.5,Active
+200,EMP00200,Chanakya,Bath,Female,Human Resources,Manager,148260,2024-10-23,3.5,Active
+201,EMP00201,Yashasvi,Naik,Female,Customer Success,Team Lead,110450,2020-06-04,4.1,Active
+202,EMP00202,Maanas,More,Female,Operations,Team Lead,153122,2019-05-24,3.4,Active
+203,EMP00203,Chandran,Malhotra,Male,Executive,Executive,51038,2024-11-10,3.4,Active
+204,EMP00204,Imaran,Saini,Female,Human Resources,Manager,62266,2019-09-02,3.8,Active
+205,EMP00205,Balvan,Saxena,Female,Sales,Team Lead,53343,2024-05-17,3.8,Active
+206,EMP00206,Timothy,Sampath,Male,Finance,Analyst,92645,2018-06-03,3.4,Active
+207,EMP00207,Kalpit,Bhagat,Male,Finance,Team Lead,155407,2024-03-30,3.4,Active
+208,EMP00208,Anthony,Palla,Female,Customer Success,Manager,169033,2019-06-28,4.0,Active
+209,EMP00209,Aradhana,Tailor,Female,Human Resources,Senior Executive,91714,2021-09-11,4.7,Active
+210,EMP00210,Ekani,Sandal,Male,Operations,Assistant Manager,75000,2018-08-07,3.3,Active
+211,EMP00211,Ekalinga,Bhatnagar,Female,Executive,Team Lead,158702,2020-11-04,4.0,Active
+212,EMP00212,Eta,Pillay,Male,Sales,Senior Executive,176415,2019-10-08,3.8,Active
+213,EMP00213,Vrishti,Doshi,Male,Human Resources,Assistant Manager,126571,2019-05-16,3.9,Active
+214,EMP00214,Praneel,Mittal,Male,Executive,Senior Executive,66030,2024-06-29,3.4,Active
+215,EMP00215,Dhruv,Dhar,Female,Customer Success,Manager,163872,2022-11-03,3.7,Active
+216,EMP00216,Ira,Issac,Male,Executive,Senior Executive,178808,2025-04-20,3.6,Active
+217,EMP00217,Reva,Pal,Female,Human Resources,Assistant Manager,44543,2021-07-19,3.7,Active
+218,EMP00218,Pushti,Andra,Female,Customer Success,Assistant Manager,159747,2023-05-31,4.6,Active
+219,EMP00219,Raghav,Karpe,Male,Operations,Analyst,83435,2018-10-31,4.8,Active
+220,EMP00220,Faris,Rastogi,Female,Finance,Analyst,113693,2020-04-25,3.7,Active
+221,EMP00221,Vansha,More,Male,Sales,Assistant Manager,116619,2023-07-21,3.7,Active
+222,EMP00222,Faraj,Chanda,Male,Operations,Senior Executive,43150,2024-12-10,3.5,Active
+223,EMP00223,Wridesh,Deo,Male,Customer Success,Senior Executive,129754,2024-08-19,4.4,Active
+224,EMP00224,Dhriti,Deol,Female,Operations,Assistant Manager,122363,2022-09-07,3.4,Active
+225,EMP00225,Hitesh,Wali,Female,Finance,Senior Executive,56324,2022-07-25,4.1,Active
+226,EMP00226,Noah,Sridhar,Female,Sales,Team Lead,170799,2021-07-15,3.6,Active
+227,EMP00227,Ranveer,Prakash,Female,Inventory,Analyst,89724,2024-06-30,4.3,Active
+228,EMP00228,Wahab,Dugar,Female,Human Resources,Executive,45844,2018-10-04,3.0,Active
+229,EMP00229,Chandresh,Bhat,Male,Executive,Manager,154241,2020-12-02,4.2,Active
+230,EMP00230,Caleb,Kapadia,Female,Human Resources,Team Lead,69388,2019-04-15,4.8,Active
+231,EMP00231,Vrinda,Nagi,Male,Sales,Team Lead,48613,2023-08-31,4.1,Active
+232,EMP00232,Praneel,Bajaj,Female,Inventory,Team Lead,59785,2020-05-27,4.9,Active
+233,EMP00233,Pushti,Kade,Male,Human Resources,Manager,114137,2020-05-10,4.1,Active
+234,EMP00234,Nimrat,Jaggi,Male,Sales,Executive,115183,2023-08-08,3.1,Active
+235,EMP00235,Gauri,Gole,Male,Human Resources,Manager,126844,2022-06-09,3.1,Active
+236,EMP00236,Yashodhara,Behl,Male,Executive,Manager,105049,2019-10-23,3.8,Active
+237,EMP00237,Finn,Naik,Female,Executive,Analyst,114760,2021-03-08,3.8,Active
+238,EMP00238,Udyati,Sani,Male,Sales,Senior Executive,62359,2020-08-02,3.7,Active
+239,EMP00239,Arunima,Bera,Female,Executive,Manager,74464,2019-08-14,4.3,Active
+240,EMP00240,Udyati,Ganesan,Female,Sales,Manager,51852,2022-12-27,3.5,Active
+241,EMP00241,Vinaya,Radhakrishnan,Female,Finance,Analyst,130904,2022-04-18,4.8,Active
+242,EMP00242,Harshil,Badami,Female,Executive,Analyst,153806,2018-07-23,4.4,Active
+243,EMP00243,Radha,Sethi,Male,Operations,Executive,95492,2024-05-26,4.1,Active
+244,EMP00244,Ekbal,Pradhan,Male,Sales,Manager,123708,2019-03-20,3.8,Active
+245,EMP00245,Sarthak,Patla,Female,Finance,Executive,98094,2025-02-03,4.5,Active
+246,EMP00246,Ekavir,Hans,Male,Customer Success,Senior Executive,30119,2019-11-30,3.3,Active
+247,EMP00247,Ekantika,Apte,Male,Operations,Analyst,134689,2018-10-03,3.8,Active
+248,EMP00248,Chakradhar,Gour,Male,Inventory,Analyst,144326,2020-11-02,4.3,Active
+249,EMP00249,Upkaar,Barman,Male,Inventory,Assistant Manager,118021,2021-01-10,3.2,Active
+250,EMP00250,Saumya,Iyer,Male,Customer Success,Senior Executive,143967,2022-05-25,3.7,Active
+251,EMP00251,Harshil,Kumar,Male,Finance,Team Lead,119271,2024-09-12,4.6,Active
+252,EMP00252,Prisha,Setty,Male,Human Resources,Manager,113753,2024-03-10,3.2,Active
+253,EMP00253,Vedant,Sunder,Male,Customer Success,Analyst,154110,2024-02-26,3.3,Active
+254,EMP00254,Kiaan,Rana,Male,Customer Success,Analyst,76577,2021-05-30,4.2,Active
+255,EMP00255,Anika,Wali,Male,Sales,Team Lead,60446,2025-03-19,4.4,Active
+256,EMP00256,Balvan,Seshadri,Female,Finance,Team Lead,100866,2023-08-26,3.2,Active
+257,EMP00257,Jason,Thaman,Male,Human Resources,Executive,52043,2020-06-05,4.6,Active
+258,EMP00258,Samuel,Gokhale,Female,Customer Success,Assistant Manager,134011,2024-06-22,4.2,Active
+259,EMP00259,Barkha,Sami,Male,Human Resources,Senior Executive,138052,2021-08-09,3.3,Active
+260,EMP00260,Urmi,Narasimhan,Male,Executive,Senior Executive,38002,2019-03-19,3.9,Active
+261,EMP00261,Kavya,Bhardwaj,Male,Finance,Executive,162668,2025-04-02,3.6,Active
+262,EMP00262,Lohit,Prabhu,Female,Operations,Team Lead,161909,2023-10-05,4.9,Active
+263,EMP00263,Shaurya,Master,Female,Operations,Analyst,107934,2024-02-06,3.1,Active
+264,EMP00264,Charles,Deo,Male,Operations,Senior Executive,62669,2020-10-09,4.3,Active
+265,EMP00265,Alka,Patla,Female,Customer Success,Analyst,56681,2022-09-02,3.6,Active
+266,EMP00266,Dev,Zacharia,Female,Customer Success,Assistant Manager,62441,2021-07-07,3.4,Active
+267,EMP00267,Divya,Dalal,Male,Customer Success,Executive,176734,2025-05-05,3.1,Active
+268,EMP00268,Omaja,Bains,Male,Sales,Senior Executive,46157,2023-10-21,3.6,Active
+269,EMP00269,Vaishnavi,Padmanabhan,Male,Finance,Executive,124189,2022-07-08,4.7,Active
+270,EMP00270,Brijesh,Kalita,Male,Finance,Analyst,77980,2024-02-03,3.5,Active
+271,EMP00271,Chakradhar,Walla,Male,Customer Success,Senior Executive,68679,2020-10-28,3.8,Active
+272,EMP00272,Ekta,Tak,Female,Operations,Executive,93621,2019-10-10,3.0,Active
+273,EMP00273,Pushti,Parmer,Male,Human Resources,Senior Executive,96358,2019-10-13,3.5,Active
+274,EMP00274,Zayyan,Parekh,Female,Operations,Executive,147489,2023-04-26,3.8,Active
+275,EMP00275,Jagvi,Chanda,Female,Executive,Senior Executive,81879,2025-04-23,5.0,Active
+276,EMP00276,Omya,Dora,Female,Customer Success,Assistant Manager,141832,2022-06-07,4.8,Active
+277,EMP00277,Qarin,Devan,Female,Sales,Team Lead,160864,2023-06-17,4.7,Active
+278,EMP00278,Chandani,Saxena,Male,Sales,Manager,118615,2020-01-02,4.6,Active
+279,EMP00279,Kamya,Raghavan,Male,Sales,Senior Executive,87321,2018-05-27,4.8,Active
+280,EMP00280,Baghyawati,Edwin,Female,Executive,Executive,34894,2024-09-16,4.4,Active
+281,EMP00281,Tanay,Gole,Female,Finance,Analyst,151097,2019-07-18,3.7,Active
+282,EMP00282,Falguni,Kapur,Male,Operations,Analyst,105848,2018-09-23,3.9,Active
+283,EMP00283,Sanya,Gokhale,Male,Inventory,Senior Executive,157243,2022-11-15,4.5,Active
+284,EMP00284,Pranit,Pandit,Male,Inventory,Team Lead,113640,2020-01-29,3.4,Active
+285,EMP00285,Manan,Sidhu,Male,Executive,Team Lead,74370,2023-09-26,4.2,Active
+286,EMP00286,Bhavani,Bera,Female,Customer Success,Senior Executive,73623,2023-02-25,4.1,Active
+287,EMP00287,Anya,Kalita,Female,Inventory,Executive,155332,2018-06-12,3.5,Active
+288,EMP00288,Farhan,Patel,Male,Human Resources,Manager,90551,2018-11-20,4.0,Active
+289,EMP00289,Faris,Chanda,Female,Inventory,Senior Executive,48553,2018-11-27,4.5,Active
+290,EMP00290,Anirudh,Nanda,Male,Customer Success,Executive,80113,2021-07-29,3.5,Active
+291,EMP00291,Nikita,Varma,Female,Customer Success,Executive,120749,2018-01-29,4.6,Active
+292,EMP00292,Zayyan,Sangha,Male,Operations,Manager,128292,2018-01-26,4.4,Active
+293,EMP00293,Andrew,Dutt,Female,Inventory,Analyst,134726,2020-03-21,4.6,Active
+294,EMP00294,Jeremiah,Bahri,Female,Operations,Team Lead,139090,2022-08-26,3.3,Active
+295,EMP00295,Arjun,Mahajan,Male,Finance,Team Lead,33010,2021-08-25,4.8,Active
+296,EMP00296,Manthan,Shere,Female,Sales,Team Lead,97424,2024-03-12,3.6,Active
+297,EMP00297,Lipika,Naidu,Female,Human Resources,Assistant Manager,74909,2019-10-30,4.8,Active
+298,EMP00298,Ikshita,Gala,Female,Human Resources,Executive,81418,2020-02-13,4.4,Active
+299,EMP00299,Amaira,Dhar,Female,Inventory,Executive,122017,2021-04-19,3.2,Active
+300,EMP00300,Ekaja,Bhasin,Female,Finance,Assistant Manager,122900,2019-03-26,4.8,Active
+301,EMP00301,Forum,Zachariah,Male,Sales,Team Lead,137668,2023-08-02,3.6,Active
+302,EMP00302,Omisha,Murty,Male,Customer Success,Senior Executive,142430,2020-07-28,3.8,Active
+303,EMP00303,Manthan,Sawhney,Female,Customer Success,Team Lead,32573,2021-10-04,4.5,Active
+304,EMP00304,William,Kala,Female,Sales,Manager,92220,2023-07-28,4.8,Active
+305,EMP00305,Joshua,Patla,Male,Finance,Senior Executive,98371,2019-07-05,3.8,Active
+306,EMP00306,Chakrika,Joshi,Female,Executive,Team Lead,152191,2018-06-11,5.0,Active
+307,EMP00307,Rachita,Sangha,Male,Executive,Assistant Manager,75216,2020-06-05,4.3,Active
+308,EMP00308,Radha,Tata,Male,Finance,Team Lead,51018,2022-12-13,3.1,Active
+309,EMP00309,Theodore,Sharma,Male,Human Resources,Analyst,146161,2021-08-04,4.8,Active
+310,EMP00310,Zilmil,Issac,Male,Sales,Senior Executive,145667,2021-07-23,4.9,Active
+311,EMP00311,Udyati,Bakshi,Female,Finance,Manager,87005,2018-10-16,3.2,Active
+312,EMP00312,Ekaja,Shah,Male,Finance,Executive,34233,2024-01-01,4.0,Active
+313,EMP00313,Shaurya,Sastry,Male,Finance,Executive,143242,2021-10-01,4.6,Active
+314,EMP00314,Yashodhara,Grewal,Female,Customer Success,Executive,37012,2020-08-20,4.6,Active
+315,EMP00315,Quincy,Sane,Male,Inventory,Executive,93820,2022-09-07,3.6,Active
+316,EMP00316,Geetika,Shah,Female,Customer Success,Executive,39813,2018-07-02,3.3,Active
+317,EMP00317,Azaan,Lala,Male,Human Resources,Executive,96277,2018-04-08,4.1,Active
+318,EMP00318,Ridhi,Nadig,Female,Sales,Senior Executive,165737,2020-12-08,4.9,Active
+319,EMP00319,Laban,Shukla,Male,Operations,Assistant Manager,174219,2023-04-12,4.1,Active
+320,EMP00320,Samar,Natarajan,Male,Finance,Executive,103806,2024-05-15,4.2,Active
+321,EMP00321,Vanya,Devan,Female,Executive,Executive,84951,2025-06-15,3.3,Active
+322,EMP00322,Ekanta,Sant,Male,Human Resources,Senior Executive,111628,2025-06-13,4.0,Active
+323,EMP00323,Ladli,Bath,Male,Customer Success,Senior Executive,110422,2021-06-05,3.3,Active
+324,EMP00324,Ishwar,Bajwa,Male,Operations,Analyst,47391,2018-07-04,4.6,Active
+325,EMP00325,Bishakha,Kale,Female,Executive,Manager,30509,2018-09-26,3.0,Active
+326,EMP00326,Atharv,Dora,Female,Sales,Senior Executive,61970,2020-08-18,3.7,Active
+327,EMP00327,Kavya,Rastogi,Female,Customer Success,Manager,179743,2021-05-27,3.3,Active
+328,EMP00328,Falguni,Sankar,Female,Executive,Senior Executive,63529,2020-08-08,4.2,Active
+329,EMP00329,Aachal,Ranganathan,Female,Operations,Assistant Manager,151701,2019-06-19,4.3,Active
+330,EMP00330,Upma,Sangha,Female,Operations,Executive,167031,2024-09-23,4.8,Active
+331,EMP00331,Aadi,Kulkarni,Female,Customer Success,Team Lead,149001,2023-07-05,3.8,Active
+332,EMP00332,Ekanta,Sane,Female,Human Resources,Executive,87078,2023-08-11,4.0,Active
+333,EMP00333,Oscar,Hans,Male,Finance,Senior Executive,170783,2018-12-11,4.1,Active
+334,EMP00334,Shivani,Ramakrishnan,Male,Inventory,Manager,72136,2018-06-20,3.6,Active
+335,EMP00335,Urvi,Sane,Female,Finance,Executive,102066,2022-01-19,3.2,Active
+336,EMP00336,Lakshit,Pall,Female,Human Resources,Analyst,161410,2022-08-06,4.9,Active
+337,EMP00337,Veda,Pandey,Male,Customer Success,Assistant Manager,149601,2020-07-03,3.6,Active
+338,EMP00338,Nicholas,Kata,Male,Operations,Team Lead,135575,2021-06-30,4.5,Active
+339,EMP00339,Ekta,Mani,Male,Finance,Assistant Manager,58034,2021-11-25,4.8,Active
+340,EMP00340,Anmol,Barad,Female,Inventory,Analyst,80516,2024-05-18,3.2,Active
+341,EMP00341,Ekbal,Kakar,Female,Finance,Assistant Manager,132576,2019-07-29,3.1,Active
+342,EMP00342,Aachal,Setty,Female,Executive,Analyst,80125,2020-08-22,4.2,Active
+343,EMP00343,Edhitha,Brahmbhatt,Female,Sales,Assistant Manager,177728,2021-07-19,3.5,Active
+344,EMP00344,Maya,Desai,Female,Finance,Team Lead,112316,2022-09-19,4.8,Active
+345,EMP00345,Maanav,Som,Male,Finance,Executive,152751,2025-02-13,3.1,Active
+346,EMP00346,Gagan,Uppal,Female,Finance,Manager,176518,2025-05-13,3.6,Active
+347,EMP00347,Aryan,Bora,Male,Customer Success,Analyst,124120,2025-04-11,3.7,Active
+348,EMP00348,Wakeeta,Mane,Female,Executive,Senior Executive,113783,2020-12-29,3.6,Active
+349,EMP00349,Bhavika,Karan,Male,Operations,Team Lead,138312,2023-02-11,3.9,Active
+350,EMP00350,Jairaj,Madan,Male,Customer Success,Assistant Manager,65500,2019-03-10,4.5,Active
+351,EMP00351,Anya,Mukhopadhyay,Male,Customer Success,Executive,149414,2019-07-27,4.4,Active
+352,EMP00352,Lavanya,Chandran,Male,Human Resources,Executive,111357,2023-07-19,4.5,Active
+353,EMP00353,Amaira,Salvi,Male,Sales,Senior Executive,107344,2022-07-07,3.2,Active
+354,EMP00354,Leela,Murty,Female,Human Resources,Assistant Manager,158917,2024-01-11,4.4,Active
+355,EMP00355,Ladli,Pant,Female,Sales,Executive,111428,2024-03-10,3.9,Active
+356,EMP00356,Bhavya,Bath,Female,Sales,Team Lead,139691,2020-11-19,4.9,Active
+357,EMP00357,Indali,Toor,Male,Operations,Senior Executive,106636,2021-05-16,4.6,Active
+358,EMP00358,Faraj,Butala,Female,Sales,Assistant Manager,97832,2024-04-24,4.1,Active
+359,EMP00359,Bhavini,Bhakta,Female,Sales,Executive,34108,2019-04-27,4.0,Active
+360,EMP00360,Aayush,Badal,Female,Executive,Executive,90537,2020-09-19,3.3,Active
+361,EMP00361,Dipta,Borah,Female,Executive,Executive,104780,2025-05-25,3.6,Active
+362,EMP00362,Vidhi,Shere,Male,Operations,Senior Executive,65285,2021-06-15,4.7,Active
+363,EMP00363,Oscar,Raju,Female,Executive,Team Lead,178450,2024-11-18,4.7,Active
+364,EMP00364,Balveer,Koshy,Female,Inventory,Assistant Manager,45687,2020-05-25,4.3,Active
+365,EMP00365,Daksha,Sur,Male,Human Resources,Senior Executive,164591,2019-02-19,4.6,Active
+366,EMP00366,Sanya,Rege,Female,Inventory,Team Lead,161127,2024-08-13,4.1,Active
+367,EMP00367,Reyansh,Kaur,Female,Operations,Team Lead,72164,2021-03-07,3.9,Active
+368,EMP00368,Netra,Sangha,Female,Executive,Team Lead,61774,2019-03-08,4.9,Active
+369,EMP00369,Odika,Pandit,Male,Sales,Executive,164127,2022-10-11,4.5,Active
+370,EMP00370,Henry,Mahajan,Female,Finance,Senior Executive,94870,2018-12-09,4.6,Active
+371,EMP00371,Anita,Chatterjee,Female,Customer Success,Manager,127408,2019-02-01,4.0,Active
+372,EMP00372,Yadavi,Dayal,Male,Finance,Manager,126260,2024-09-01,3.2,Active
+373,EMP00373,Ayush,Parmar,Female,Sales,Executive,94416,2021-01-15,3.5,Active
+374,EMP00374,Ekantika,Gupta,Female,Human Resources,Senior Executive,70516,2021-12-21,4.8,Active
+375,EMP00375,Rajeshri,Dasgupta,Female,Human Resources,Executive,116665,2020-05-10,3.8,Active
+376,EMP00376,Wishi,Dave,Female,Sales,Assistant Manager,70589,2020-04-21,3.2,Active
+377,EMP00377,Naveen,Pau,Female,Human Resources,Executive,47422,2019-04-11,4.2,Active
+378,EMP00378,Harinakshi,Bava,Male,Customer Success,Senior Executive,37279,2022-04-03,3.0,Active
+379,EMP00379,Nandini,Bala,Male,Finance,Assistant Manager,135384,2025-04-14,4.2,Active
+380,EMP00380,Damini,Seshadri,Male,Executive,Executive,124497,2019-06-11,3.4,Active
+381,EMP00381,Girindra,Pall,Female,Human Resources,Senior Executive,141104,2022-11-28,4.3,Active
+382,EMP00382,Neelima,Hans,Male,Customer Success,Analyst,82472,2024-04-14,3.5,Active
+383,EMP00383,Ishwar,Dixit,Male,Human Resources,Manager,61436,2019-05-22,4.7,Active
+384,EMP00384,Joshua,Edwin,Male,Customer Success,Analyst,179651,2024-11-08,3.6,Active
+385,EMP00385,Ekani,Bhatia,Male,Operations,Assistant Manager,52353,2023-12-28,3.6,Active
+386,EMP00386,Logan,Balasubramanian,Female,Human Resources,Senior Executive,144973,2021-07-21,4.1,Active
+387,EMP00387,Vidhi,Chawla,Male,Operations,Team Lead,63358,2025-03-11,4.2,Active
+388,EMP00388,Gabriel,Karnik,Male,Inventory,Executive,100703,2024-11-11,4.2,Active
+389,EMP00389,Anita,Bhatnagar,Female,Sales,Senior Executive,80201,2019-07-02,3.4,Active
+390,EMP00390,Rudra,Sachar,Female,Inventory,Senior Executive,121177,2023-09-25,3.1,Active
+391,EMP00391,Sai,Raval,Male,Customer Success,Assistant Manager,117361,2025-03-26,3.3,Active
+392,EMP00392,Bhavna,Sahota,Male,Human Resources,Executive,159980,2021-07-18,3.1,Active
+393,EMP00393,Reyansh,Atwal,Female,Customer Success,Assistant Manager,163295,2018-12-27,4.2,Active
+394,EMP00394,Darika,Mukhopadhyay,Female,Executive,Senior Executive,124558,2020-11-27,4.6,Active
+395,EMP00395,Adya,Gokhale,Female,Finance,Analyst,77404,2021-02-22,4.4,Active
+396,EMP00396,Jonathan,Chadha,Female,Operations,Manager,156464,2020-11-02,3.6,Active
+397,EMP00397,Siddharth,Goel,Female,Inventory,Manager,99348,2024-08-02,3.5,Active
+398,EMP00398,Qadim,Prashad,Female,Operations,Analyst,43859,2018-07-19,3.9,Active
+399,EMP00399,Amrita,Choudhary,Female,Inventory,Team Lead,163964,2019-07-10,3.8,Active
+400,EMP00400,Bhavya,Gaba,Female,Finance,Assistant Manager,149924,2022-01-31,4.6,Active
+401,EMP00401,Ojas,Kunda,Male,Operations,Manager,89734,2024-04-22,3.7,Active
+402,EMP00402,Yamini,Manda,Female,Customer Success,Manager,35425,2024-07-15,3.2,Active
+403,EMP00403,Watika,Dhillon,Male,Sales,Analyst,36385,2023-04-01,3.3,Active
+404,EMP00404,Praneel,Prakash,Female,Human Resources,Analyst,81934,2024-10-06,3.9,Active
+405,EMP00405,Avi,Tak,Male,Executive,Manager,45845,2024-06-07,4.7,Active
+406,EMP00406,Kashvi,Narasimhan,Male,Finance,Assistant Manager,96288,2023-04-04,3.1,Active
+407,EMP00407,Ekapad,Reddy,Male,Operations,Senior Executive,124520,2025-06-30,4.9,Active
+408,EMP00408,Vedika,Mody,Male,Customer Success,Manager,107764,2020-04-04,3.2,Active
+409,EMP00409,Rachit,Acharya,Female,Executive,Executive,87044,2019-06-24,3.7,Active
+410,EMP00410,Lakshmi,Karpe,Male,Customer Success,Assistant Manager,107895,2020-10-06,4.3,Active
+411,EMP00411,Qushi,Ratti,Female,Human Resources,Senior Executive,150567,2024-03-30,4.1,Active
+412,EMP00412,Nicholas,Thaker,Male,Customer Success,Senior Executive,142035,2019-01-07,4.6,Active
+413,EMP00413,Devika,Palan,Female,Inventory,Analyst,179398,2022-08-24,4.5,Active
+414,EMP00414,Lohit,Jayaraman,Female,Executive,Analyst,122889,2024-12-27,3.7,Active
+415,EMP00415,Alka,Dutt,Female,Customer Success,Team Lead,60402,2019-12-11,3.9,Active
+416,EMP00416,Samarth,Minhas,Male,Customer Success,Executive,159240,2021-03-25,4.4,Active
+417,EMP00417,Fiyaz,Bera,Male,Operations,Assistant Manager,57910,2023-12-08,3.5,Active
+418,EMP00418,Dev,Bal,Male,Customer Success,Analyst,36204,2019-10-24,3.4,Active
+419,EMP00419,Lipika,Bali,Male,Operations,Assistant Manager,63906,2023-05-03,3.8,Active
+420,EMP00420,Yatin,Dube,Female,Operations,Analyst,37968,2025-06-22,3.6,Active
+421,EMP00421,Eiravati,Jayaraman,Male,Human Resources,Assistant Manager,132089,2021-10-09,4.3,Active
+422,EMP00422,Vasudha,Nadig,Male,Sales,Senior Executive,174816,2022-03-28,3.5,Active
+423,EMP00423,Ikbal,Gera,Male,Sales,Executive,121806,2018-01-27,4.9,Active
+424,EMP00424,Gopal,Kari,Male,Inventory,Assistant Manager,72450,2018-06-05,4.0,Active
+425,EMP00425,Atharv,Walia,Female,Customer Success,Assistant Manager,118738,2024-08-04,3.7,Active
+426,EMP00426,Jagrati,Biswas,Male,Operations,Manager,158547,2023-05-27,4.6,Active
+427,EMP00427,Neelima,Jhaveri,Male,Finance,Team Lead,85101,2021-07-27,4.4,Active
+428,EMP00428,Wakeeta,Suri,Male,Executive,Senior Executive,149749,2020-03-03,4.5,Active
+429,EMP00429,Upma,Lal,Male,Customer Success,Manager,166322,2020-06-03,4.2,Active
+430,EMP00430,Amol,Das,Male,Sales,Analyst,61376,2018-06-18,3.0,Active
+431,EMP00431,Brinda,Wagle,Female,Sales,Manager,145611,2019-11-08,3.1,Active
+432,EMP00432,Charles,Dhingra,Male,Customer Success,Assistant Manager,95898,2023-11-08,3.8,Active
+433,EMP00433,Manya,Tata,Female,Executive,Analyst,86774,2023-07-28,3.1,Active
+434,EMP00434,Naksh,Yadav,Female,Operations,Senior Executive,59202,2018-04-18,3.7,Active
+435,EMP00435,Ijaya,Madan,Male,Inventory,Team Lead,176651,2020-03-07,3.1,Active
+436,EMP00436,Chatura,Khatri,Female,Finance,Executive,178988,2022-01-20,3.1,Active
+437,EMP00437,Madhav,Khare,Male,Executive,Senior Executive,152440,2023-01-15,4.7,Active
+438,EMP00438,Dominic,Raja,Male,Sales,Senior Executive,154868,2020-02-29,4.8,Active
+439,EMP00439,Omkaar,Dixit,Female,Sales,Assistant Manager,111616,2023-10-20,3.7,Active
+440,EMP00440,Rajeshri,De,Male,Customer Success,Assistant Manager,148978,2022-03-09,4.2,Active
+441,EMP00441,Zayan,Nayak,Male,Inventory,Senior Executive,137996,2024-02-07,4.4,Active
+442,EMP00442,Arunima,Gole,Male,Inventory,Executive,153750,2019-09-10,3.3,Active
+443,EMP00443,Oni,Patel,Female,Sales,Senior Executive,61781,2023-11-10,4.2,Active
+444,EMP00444,Jai,Sant,Female,Human Resources,Senior Executive,94306,2024-09-08,5.0,Active
+445,EMP00445,Omisha,Warrior,Female,Inventory,Manager,39909,2019-06-23,3.5,Active
+446,EMP00446,Gopal,Kapur,Male,Executive,Analyst,165291,2023-03-18,4.9,Active
+447,EMP00447,Ansh,Dube,Male,Operations,Analyst,146779,2024-12-18,3.1,Active
+448,EMP00448,Girish,Doshi,Male,Finance,Executive,174388,2023-11-24,4.1,Active
+449,EMP00449,Radha,Garde,Female,Executive,Executive,104189,2018-10-02,3.9,Active
+450,EMP00450,Rishi,Gole,Male,Finance,Assistant Manager,103315,2019-05-14,4.9,Active
+451,EMP00451,Neelima,Sehgal,Male,Sales,Manager,164541,2025-01-05,4.1,Active
+452,EMP00452,Pranav,Grewal,Female,Customer Success,Analyst,165180,2023-06-08,3.6,Active
+453,EMP00453,Meghana,Vohra,Female,Sales,Team Lead,118809,2024-06-13,4.5,Active
+454,EMP00454,Praneel,Varma,Female,Human Resources,Executive,107771,2024-12-08,4.7,Active
+455,EMP00455,Ati,Gupta,Female,Finance,Senior Executive,132452,2022-08-16,4.2,Active
+456,EMP00456,Lohit,Kapadia,Female,Finance,Manager,76656,2023-08-17,3.9,Active
+457,EMP00457,Aarna,Kurian,Female,Sales,Team Lead,62726,2021-03-25,4.5,Active
+458,EMP00458,Theodore,Saha,Male,Sales,Analyst,89235,2025-04-21,4.1,Active
+459,EMP00459,Teerth,Chacko,Female,Sales,Assistant Manager,97960,2022-07-02,3.3,Active
+460,EMP00460,Meghana,Andra,Female,Operations,Analyst,80693,2021-04-26,4.2,Active
+461,EMP00461,Devika,Bakshi,Male,Executive,Team Lead,105113,2019-03-13,3.9,Active
+462,EMP00462,Bachittar,Karnik,Female,Operations,Analyst,38785,2022-12-14,4.1,Active
+463,EMP00463,Tanvi,Sidhu,Female,Inventory,Team Lead,124346,2023-12-23,3.6,Active
+464,EMP00464,Devansh,Ramesh,Female,Inventory,Executive,52555,2018-08-12,3.8,Active
+465,EMP00465,Om,Sangha,Female,Operations,Assistant Manager,69645,2022-10-23,3.6,Active
+466,EMP00466,Ranveer,Kala,Male,Inventory,Manager,91905,2025-04-29,4.2,Active
+467,EMP00467,Tristan,Gulati,Female,Finance,Manager,153917,2018-08-03,3.1,Active
+468,EMP00468,Chaitaly,Kar,Male,Human Resources,Team Lead,85774,2019-03-25,3.9,Active
+469,EMP00469,Darika,Baria,Female,Human Resources,Assistant Manager,166717,2019-08-27,4.9,Active
+470,EMP00470,Nidhi,Kant,Female,Finance,Manager,173283,2018-03-01,3.5,Active
+471,EMP00471,Rudra,Kale,Male,Human Resources,Executive,156477,2025-01-17,4.2,Active
+472,EMP00472,Omya,Basu,Female,Human Resources,Executive,163421,2023-01-06,3.7,Active
+473,EMP00473,Faras,Gera,Male,Operations,Assistant Manager,66585,2018-07-25,4.7,Active
+474,EMP00474,Benjamin,Sanghvi,Male,Customer Success,Assistant Manager,71690,2023-04-08,4.9,Active
+475,EMP00475,Rudra,Dada,Female,Executive,Manager,60883,2019-08-01,3.7,Active
+476,EMP00476,Dalaja,Sangha,Female,Finance,Executive,70448,2020-10-17,3.0,Active
+477,EMP00477,Urmi,Ganguly,Female,Operations,Assistant Manager,162631,2024-06-17,3.7,Active
+478,EMP00478,Chatura,Dua,Male,Human Resources,Senior Executive,67188,2021-06-03,3.4,Active
+479,EMP00479,Naveen,Dey,Female,Operations,Executive,31810,2024-07-05,4.1,Active
+480,EMP00480,Dominic,Sarraf,Male,Executive,Analyst,158740,2024-01-12,3.4,Active
+481,EMP00481,Arya,Pall,Male,Customer Success,Senior Executive,38080,2020-04-08,4.8,Active
+482,EMP00482,Imaran,Balasubramanian,Female,Sales,Senior Executive,136341,2021-10-17,4.3,Active
+483,EMP00483,Barkha,Batra,Male,Inventory,Team Lead,114718,2022-11-12,4.5,Active
+484,EMP00484,Aarav,Pant,Female,Inventory,Assistant Manager,146341,2022-12-13,4.6,Active
+485,EMP00485,Oscar,Bedi,Male,Customer Success,Manager,41405,2022-10-12,3.1,Active
+486,EMP00486,Gayathri,Hans,Female,Human Resources,Manager,56034,2021-02-12,4.6,Active
+487,EMP00487,Garima,Ratta,Male,Executive,Manager,38227,2018-07-28,4.6,Active
+488,EMP00488,Lipika,Ramanathan,Male,Customer Success,Assistant Manager,157978,2021-06-19,4.8,Active
+489,EMP00489,Edhitha,Chakraborty,Female,Finance,Manager,176753,2022-11-28,3.2,Active
+490,EMP00490,Aahana,Chander,Female,Finance,Team Lead,150175,2022-11-24,3.4,Active
+491,EMP00491,Hemangini,Lalla,Male,Human Resources,Manager,158396,2021-05-18,4.7,Active
+492,EMP00492,Yochana,Prasad,Female,Human Resources,Analyst,161489,2022-11-26,3.9,Active
+493,EMP00493,Amara,Yadav,Male,Human Resources,Team Lead,160933,2021-06-13,3.1,Active
+494,EMP00494,Divya,Sodhi,Male,Operations,Team Lead,124777,2020-08-15,4.3,Active
+495,EMP00495,Kabir,Borah,Female,Sales,Assistant Manager,161888,2023-08-13,3.9,Active
+496,EMP00496,Lavanya,Arya,Female,Finance,Assistant Manager,97695,2024-05-31,3.3,Active
+497,EMP00497,Chatura,Shanker,Male,Finance,Senior Executive,87357,2024-06-18,4.7,Active
+498,EMP00498,Ishani,Viswanathan,Male,Sales,Analyst,177636,2018-04-08,3.0,Active
+499,EMP00499,Pavani,Nagi,Male,Finance,Senior Executive,31761,2021-03-31,4.4,Active
+500,EMP00500,Omisha,Nath,Female,Executive,Analyst,140076,2023-02-01,4.8,Active
+501,EMP00501,Guneet,Srivastava,Female,Sales,Analyst,99708,2019-03-29,4.5,Active
+502,EMP00502,Tanvi,Varghese,Female,Customer Success,Assistant Manager,129580,2022-05-19,3.0,Active
+503,EMP00503,Maanas,Dasgupta,Female,Operations,Team Lead,90469,2024-06-20,3.2,Active
+504,EMP00504,Yatan,Parikh,Male,Operations,Assistant Manager,111295,2022-02-26,3.9,Active
+505,EMP00505,Aishani,Bava,Female,Operations,Assistant Manager,147996,2022-06-25,4.9,Active
+506,EMP00506,Fitan,Suresh,Female,Customer Success,Manager,130890,2022-06-30,4.7,Active
+507,EMP00507,Panini,Sama,Female,Operations,Executive,177361,2021-12-16,3.3,Active
+508,EMP00508,Krishna,Ramanathan,Female,Executive,Assistant Manager,66615,2024-07-28,3.9,Active
+509,EMP00509,Ishanvi,Sant,Female,Human Resources,Senior Executive,48509,2023-07-05,3.7,Active
+510,EMP00510,David,Borra,Female,Inventory,Team Lead,170846,2023-10-29,4.0,Active
+511,EMP00511,Laksh,Dewan,Male,Inventory,Team Lead,161407,2023-06-21,5.0,Active
+512,EMP00512,Vedika,D’Alia,Female,Human Resources,Analyst,102318,2019-08-04,3.3,Active
+513,EMP00513,Fitan,Gopal,Female,Sales,Assistant Manager,175230,2022-01-21,4.4,Active
+514,EMP00514,Xalak,Nagi,Female,Inventory,Senior Executive,170564,2023-03-30,4.6,Active
+515,EMP00515,Chakradhar,Rajagopalan,Male,Customer Success,Team Lead,143192,2021-02-02,3.1,Active
+516,EMP00516,Yashica,Shere,Female,Executive,Manager,66619,2021-06-04,3.8,Active
+517,EMP00517,Kabir,Jayaraman,Female,Finance,Team Lead,39810,2020-10-03,3.3,Active
+518,EMP00518,Ekapad,Chaudhuri,Male,Human Resources,Senior Executive,44577,2020-03-05,3.2,Active
+519,EMP00519,Yachana,Chahal,Male,Inventory,Senior Executive,93390,2018-03-23,4.8,Active
+520,EMP00520,Victor,Ben,Male,Sales,Team Lead,98903,2018-03-29,3.8,Active
+521,EMP00521,Ronith,Kala,Female,Inventory,Team Lead,114772,2021-11-06,4.0,Active
+522,EMP00522,Wishi,Ghosh,Female,Human Resources,Senior Executive,105903,2021-12-27,3.3,Active
+523,EMP00523,Michael,Pillay,Female,Sales,Analyst,49613,2021-02-06,3.4,Active
+524,EMP00524,Yatin,Rajan,Female,Human Resources,Analyst,149229,2023-11-14,3.4,Active
+525,EMP00525,Manbir,Badal,Male,Operations,Team Lead,173184,2020-03-29,4.3,Active
+526,EMP00526,Onkar,Prabhakar,Female,Customer Success,Executive,93317,2021-09-06,3.7,Active
+527,EMP00527,Zaitra,Chad,Female,Operations,Team Lead,143253,2020-10-10,4.3,Active
+528,EMP00528,Gunbir,Kala,Male,Executive,Team Lead,123166,2024-01-10,3.9,Active
+529,EMP00529,Nilima,Sarkar,Female,Sales,Manager,169954,2019-07-31,3.7,Active
+530,EMP00530,Chandresh,Sodhi,Female,Sales,Assistant Manager,62156,2024-09-23,4.2,Active
+531,EMP00531,Ayushman,Sundaram,Male,Executive,Assistant Manager,143289,2019-06-13,3.5,Active
+532,EMP00532,Chakradev,Bakshi,Female,Inventory,Analyst,153345,2022-09-21,4.4,Active
+533,EMP00533,Brijesh,Bahri,Male,Inventory,Senior Executive,133110,2024-01-08,3.6,Active
+534,EMP00534,Nihal,Om,Female,Inventory,Analyst,60650,2023-06-11,4.9,Active
+535,EMP00535,Lila,Sarna,Female,Finance,Manager,156192,2024-05-01,4.5,Active
+536,EMP00536,Jatin,Magar,Male,Sales,Executive,64371,2025-05-06,5.0,Active
+537,EMP00537,Anirudh,Bhagat,Female,Executive,Executive,45237,2024-12-15,3.6,Active
+538,EMP00538,Adya,Thaker,Male,Executive,Executive,79249,2024-01-21,4.9,Active
+539,EMP00539,Abdul,Bedi,Female,Finance,Executive,63713,2019-05-24,4.6,Active
+540,EMP00540,Lakshmi,Narang,Female,Customer Success,Executive,179980,2018-06-19,4.3,Active
+541,EMP00541,Anjali,Char,Female,Customer Success,Manager,74963,2021-06-02,4.6,Active
+542,EMP00542,Hardik,Deep,Female,Operations,Assistant Manager,77938,2019-09-09,3.1,Active
+543,EMP00543,Ekansh,Bhandari,Female,Human Resources,Manager,136963,2020-06-08,4.3,Active
+544,EMP00544,Dalbir,Parmer,Male,Inventory,Senior Executive,122486,2018-05-30,4.0,Active
+545,EMP00545,Charita,Balakrishnan,Female,Finance,Assistant Manager,64465,2022-04-19,3.3,Active
+546,EMP00546,Ekansh,Deep,Male,Customer Success,Team Lead,53945,2021-02-06,3.0,Active
+547,EMP00547,Samarth,Arya,Male,Customer Success,Manager,112281,2021-07-07,4.9,Active
+548,EMP00548,Faris,Merchant,Female,Sales,Assistant Manager,101736,2019-10-16,3.1,Active
+549,EMP00549,Rajeshri,Bhatnagar,Female,Inventory,Analyst,79709,2021-11-20,3.1,Active
+550,EMP00550,Chandresh,Dave,Female,Human Resources,Executive,85668,2020-10-07,4.9,Active
+551,EMP00551,Gabriel,Sandhu,Male,Executive,Team Lead,178112,2024-10-26,4.6,Active
+552,EMP00552,Ikbal,Warrior,Male,Finance,Analyst,100734,2018-01-17,3.6,Active
+553,EMP00553,Jyoti,Sabharwal,Male,Sales,Executive,33152,2023-04-02,4.0,Active
+554,EMP00554,Teerth,Kala,Male,Finance,Assistant Manager,116126,2020-09-16,4.9,Active
+555,EMP00555,Vamakshi,Mane,Male,Executive,Manager,154443,2025-01-22,4.3,Active
+556,EMP00556,Megha,Minhas,Female,Operations,Analyst,119954,2020-11-19,3.9,Active
+557,EMP00557,Leela,Bhat,Male,Operations,Senior Executive,146342,2022-01-02,4.0,Active
+558,EMP00558,Raghav,Dhillon,Male,Human Resources,Analyst,111260,2024-04-02,4.9,Active
+559,EMP00559,Chavvi,Khalsa,Female,Operations,Executive,77113,2022-05-15,3.8,Active
+560,EMP00560,Ekanta,Manda,Male,Human Resources,Assistant Manager,94766,2024-07-04,3.4,Active
+561,EMP00561,Jhalak,Kohli,Male,Inventory,Analyst,76984,2023-03-11,4.4,Active
+562,EMP00562,Jairaj,Rama,Male,Sales,Analyst,45432,2025-03-13,3.2,Active
+563,EMP00563,Ranveer,Chand,Female,Executive,Senior Executive,95420,2024-05-21,3.1,Active
+564,EMP00564,Ansh,Ghose,Male,Operations,Team Lead,171451,2024-11-15,4.3,Active
+565,EMP00565,Rudra,Swamy,Female,Inventory,Senior Executive,105503,2023-01-03,3.9,Active
+566,EMP00566,Lila,Balakrishnan,Male,Customer Success,Team Lead,48316,2019-06-24,4.2,Active
+567,EMP00567,Orinder,Ahluwalia,Male,Finance,Manager,59339,2024-09-25,3.2,Active
+568,EMP00568,Faras,Ratti,Female,Human Resources,Team Lead,93549,2024-05-12,4.4,Active
+569,EMP00569,Utkarsh,Chakrabarti,Female,Human Resources,Manager,52946,2021-03-24,4.6,Active
+570,EMP00570,Vinaya,Walla,Male,Executive,Assistant Manager,53480,2022-09-23,4.9,Active
+571,EMP00571,George,Mittal,Male,Finance,Executive,132654,2025-04-30,4.4,Active
+572,EMP00572,Naveen,Mani,Female,Inventory,Executive,42021,2018-01-16,4.4,Active
+573,EMP00573,Theodore,Chokshi,Female,Finance,Manager,95846,2020-06-02,3.8,Active
+574,EMP00574,Nidhi,Thakur,Female,Human Resources,Senior Executive,72039,2024-04-26,4.6,Active
+575,EMP00575,Ayaan,Mody,Female,Inventory,Executive,96291,2019-08-27,3.3,Active
+576,EMP00576,Peter,Sarna,Male,Customer Success,Executive,151474,2025-01-21,3.3,Active
+577,EMP00577,Ikshita,Krishna,Female,Operations,Assistant Manager,161131,2020-09-05,3.6,Active
+578,EMP00578,Tamanna,Bhardwaj,Female,Inventory,Executive,162978,2023-01-01,4.8,Active
+579,EMP00579,Darsh,Purohit,Female,Customer Success,Manager,57898,2018-08-19,4.2,Active
+580,EMP00580,Urvi,Loke,Male,Finance,Team Lead,127552,2020-06-12,3.1,Active
+581,EMP00581,Tarak,Sibal,Male,Inventory,Executive,45727,2025-06-19,3.8,Active
+582,EMP00582,Jeevika,Chauhan,Male,Human Resources,Team Lead,141182,2025-03-28,4.9,Active
+583,EMP00583,Ladli,Bhasin,Female,Human Resources,Analyst,135509,2022-02-23,4.1,Active
+584,EMP00584,Qabil,Singh,Male,Operations,Senior Executive,174897,2025-05-19,3.6,Active
+585,EMP00585,Simon,Nazareth,Female,Customer Success,Executive,93263,2021-03-30,3.5,Active
+586,EMP00586,Isaac,Walla,Female,Customer Success,Senior Executive,87729,2020-01-23,4.4,Active
+587,EMP00587,Zilmil,Deshpande,Female,Human Resources,Assistant Manager,138294,2023-12-05,3.6,Active
+588,EMP00588,Yashawini,Dalal,Male,Human Resources,Analyst,137693,2020-04-02,3.7,Active
+589,EMP00589,Odika,Bajwa,Female,Human Resources,Manager,83480,2021-07-08,4.9,Active
+590,EMP00590,Neha,Brar,Male,Executive,Team Lead,126062,2019-03-20,4.6,Active
+591,EMP00591,Lekha,Narasimhan,Female,Operations,Team Lead,131346,2022-01-10,4.4,Active
+592,EMP00592,Vasudha,Sawhney,Female,Inventory,Manager,115775,2022-08-14,3.0,Active
+593,EMP00593,Adya,Divan,Male,Customer Success,Senior Executive,147362,2021-07-13,3.3,Active
+594,EMP00594,Jyoti,Modi,Female,Customer Success,Analyst,165223,2020-11-15,4.3,Active
+595,EMP00595,Zehaan,Kant,Male,Sales,Team Lead,71879,2020-01-24,4.9,Active
+596,EMP00596,Fitan,Bassi,Male,Human Resources,Executive,99616,2021-10-18,3.7,Active
+597,EMP00597,Harita,Mani,Female,Executive,Assistant Manager,81894,2023-01-31,4.3,Active
+598,EMP00598,Naksh,Purohit,Male,Operations,Manager,138321,2018-07-04,3.5,Active
+599,EMP00599,Orinder,Datta,Female,Finance,Manager,110448,2020-05-26,3.1,Active
+600,EMP00600,Gaurav,Dani,Female,Sales,Team Lead,50310,2020-06-22,4.6,Active
+601,EMP00601,Januja,Sankaran,Male,Finance,Team Lead,176686,2019-08-08,3.2,Active
+602,EMP00602,Ayaan,Barad,Male,Human Resources,Assistant Manager,68955,2021-06-29,4.8,Active
+603,EMP00603,Jhalak,Gara,Male,Inventory,Senior Executive,73567,2024-10-23,4.3,Active
+604,EMP00604,Onveer,Bose,Male,Sales,Assistant Manager,110114,2024-05-14,3.8,Active
+605,EMP00605,Agastya,Hayer,Male,Inventory,Analyst,36704,2023-03-03,4.6,Active
+606,EMP00606,Warda,Varughese,Female,Finance,Team Lead,44269,2024-02-14,3.9,Active
+607,EMP00607,Abeer,Batra,Male,Customer Success,Assistant Manager,107085,2023-08-06,3.8,Active
+608,EMP00608,Sarthak,Mann,Male,Sales,Manager,162587,2019-10-01,3.6,Active
+609,EMP00609,Rishi,Chadha,Female,Operations,Manager,128903,2024-10-24,3.6,Active
+610,EMP00610,Mugdha,Dass,Male,Operations,Assistant Manager,31277,2024-05-03,4.3,Active
+611,EMP00611,Dalbir,Mane,Male,Inventory,Manager,162529,2019-10-13,4.8,Active
+612,EMP00612,Upasna,Bali,Female,Customer Success,Executive,168773,2021-09-01,3.7,Active
+613,EMP00613,Ekavir,Madan,Male,Human Resources,Assistant Manager,141981,2019-11-08,4.1,Active
+614,EMP00614,Gaurika,Vig,Male,Operations,Manager,178259,2019-08-23,3.4,Active
+615,EMP00615,Anita,Nagar,Male,Human Resources,Manager,71638,2023-06-22,3.5,Active
+616,EMP00616,Urvashi,Bhattacharyya,Female,Customer Success,Manager,171635,2024-10-17,4.4,Active
+617,EMP00617,Mohammed,Nadig,Female,Sales,Assistant Manager,100905,2023-03-30,3.4,Active
+618,EMP00618,Tristan,Patla,Male,Human Resources,Assistant Manager,95904,2022-10-30,3.8,Active
+619,EMP00619,Urvi,Agate,Male,Sales,Analyst,56248,2021-05-06,4.2,Active
+620,EMP00620,Aditya,Tiwari,Female,Sales,Team Lead,42634,2022-03-31,4.7,Active
+621,EMP00621,Zansi,Loke,Female,Finance,Team Lead,173890,2022-05-01,4.5,Active
+622,EMP00622,Ishwar,Chaudry,Female,Inventory,Senior Executive,101260,2020-10-23,4.2,Active
+623,EMP00623,Charvi,Devi,Female,Sales,Senior Executive,124431,2018-12-08,4.0,Active
+624,EMP00624,Saksham,Luthra,Female,Inventory,Assistant Manager,114937,2022-09-05,4.6,Active
+625,EMP00625,Yatan,Thakur,Male,Customer Success,Analyst,101584,2018-07-12,4.7,Active
+626,EMP00626,Jack,Kar,Male,Customer Success,Assistant Manager,91691,2019-02-20,4.1,Active
+627,EMP00627,Eta,Sha,Male,Sales,Manager,79968,2021-01-02,3.9,Active
+628,EMP00628,Chaaya,Sankar,Male,Executive,Senior Executive,83343,2023-07-17,4.9,Active
+629,EMP00629,Ekanta,Sengupta,Male,Customer Success,Team Lead,174450,2018-01-10,3.2,Active
+630,EMP00630,Pranav,Cheema,Male,Finance,Executive,50127,2022-04-29,3.4,Active
+631,EMP00631,Onkar,Kibe,Female,Finance,Executive,31547,2025-01-12,3.3,Active
+632,EMP00632,Hitesh,Baria,Male,Human Resources,Senior Executive,86688,2018-10-27,4.9,Active
+633,EMP00633,Sai,Warrior,Male,Executive,Manager,86846,2018-09-30,3.6,Active
+634,EMP00634,Vrishti,Sarin,Male,Inventory,Team Lead,76513,2018-11-22,3.3,Active
+635,EMP00635,Siya,Khatri,Male,Finance,Senior Executive,62032,2024-02-28,4.2,Active
+636,EMP00636,Rudra,Nagar,Female,Operations,Senior Executive,39165,2019-04-06,3.4,Active
+637,EMP00637,Vrishti,Magar,Female,Inventory,Executive,94195,2019-02-05,4.3,Active
+638,EMP00638,Dakshesh,Chakraborty,Female,Operations,Assistant Manager,113938,2022-06-22,4.8,Active
+639,EMP00639,Bhavya,Gulati,Male,Sales,Assistant Manager,31495,2019-03-07,4.3,Active
+640,EMP00640,Rohan,Mann,Male,Operations,Manager,119850,2020-05-20,4.6,Active
+641,EMP00641,Lakshmi,Puri,Male,Human Resources,Analyst,168831,2020-09-03,3.5,Active
+642,EMP00642,Indrajit,Yohannan,Male,Executive,Team Lead,156080,2019-04-11,3.7,Active
+643,EMP00643,Radha,Roy,Male,Human Resources,Analyst,159187,2021-06-01,3.9,Active
+644,EMP00644,Advika,Chada,Male,Sales,Manager,45357,2024-03-12,3.9,Active
+645,EMP00645,Tarak,Naik,Male,Operations,Senior Executive,169732,2020-02-03,4.8,Active
+646,EMP00646,Lila,Krishna,Female,Sales,Executive,92237,2025-05-14,5.0,Active
+647,EMP00647,Rachit,Kumer,Male,Executive,Team Lead,82980,2021-03-05,4.3,Active
+648,EMP00648,Maanav,Chopra,Male,Finance,Senior Executive,73969,2019-04-09,3.8,Active
+649,EMP00649,Chatresh,Hari,Male,Sales,Analyst,86280,2019-12-30,3.5,Active
+650,EMP00650,Ikbal,Nagy,Male,Inventory,Senior Executive,66394,2021-12-05,3.4,Active
+651,EMP00651,Anusha,Ravel,Female,Operations,Senior Executive,124619,2019-08-28,4.3,Active
+652,EMP00652,Varenya,Oommen,Male,Finance,Executive,87735,2019-04-03,3.2,Active
+653,EMP00653,Qushi,Trivedi,Female,Inventory,Analyst,106056,2019-11-10,4.1,Active
+654,EMP00654,Widisha,Yogi,Male,Finance,Manager,159527,2018-04-19,3.2,Active
+655,EMP00655,Aahana,Purohit,Male,Operations,Manager,162523,2019-03-30,3.2,Active
+656,EMP00656,Gaurang,Raval,Female,Operations,Assistant Manager,170775,2022-08-13,4.5,Active
+657,EMP00657,Warinder,Lanka,Male,Finance,Analyst,55126,2021-09-26,3.4,Active
+658,EMP00658,Maanav,Sahni,Female,Executive,Analyst,74377,2022-11-06,3.9,Active
+659,EMP00659,Jatin,Krishna,Male,Finance,Senior Executive,40694,2024-11-23,4.1,Active
+660,EMP00660,Tanvi,Narayan,Male,Operations,Assistant Manager,118606,2020-05-04,4.3,Active
+661,EMP00661,Owen,Iyengar,Male,Human Resources,Assistant Manager,33126,2022-01-18,4.6,Active
+662,EMP00662,Jagdish,Anand,Male,Inventory,Team Lead,103665,2018-11-01,3.1,Active
+663,EMP00663,Dayita,Nath,Female,Sales,Manager,114502,2021-08-02,3.0,Active
+664,EMP00664,Aarnav,Bora,Female,Inventory,Analyst,72943,2024-02-22,3.6,Active
+665,EMP00665,Caleb,Barman,Female,Operations,Executive,90996,2023-07-27,4.0,Active
+666,EMP00666,Aayush,Krishnamurthy,Female,Operations,Team Lead,159010,2018-07-22,4.5,Active
+667,EMP00667,Aahana,Bhalla,Male,Sales,Assistant Manager,147835,2022-05-28,3.5,Active
+668,EMP00668,Vidhi,De,Female,Executive,Executive,119061,2023-09-20,3.5,Active
+669,EMP00669,Damini,Chana,Female,Customer Success,Executive,52075,2023-07-31,4.8,Active
+670,EMP00670,Anya,Sachar,Female,Finance,Manager,146048,2020-09-19,4.9,Active
+671,EMP00671,Samarth,Bhagat,Male,Inventory,Senior Executive,178034,2018-04-16,3.2,Active
+672,EMP00672,Upasna,Saini,Male,Finance,Executive,124635,2019-03-19,3.2,Active
+673,EMP00673,Priya,Yadav,Male,Sales,Senior Executive,97008,2018-04-24,3.9,Active
+674,EMP00674,Dhriti,Grewal,Male,Executive,Manager,170027,2018-05-08,3.1,Active
+675,EMP00675,Wyatt,Badal,Male,Human Resources,Executive,76863,2021-05-25,3.1,Active
+676,EMP00676,Vivaan,Puri,Female,Sales,Executive,152962,2025-02-26,4.4,Active
+677,EMP00677,Anthony,Vasa,Female,Executive,Manager,50352,2018-12-30,3.9,Active
+678,EMP00678,Oviya,Reddy,Female,Human Resources,Team Lead,122181,2022-12-07,4.1,Active
+679,EMP00679,Neha,Ganesh,Female,Finance,Assistant Manager,53478,2019-11-01,4.8,Active
+680,EMP00680,Sai,Sane,Female,Executive,Executive,147396,2025-05-28,4.2,Active
+681,EMP00681,Nicholas,Jayaraman,Female,Customer Success,Analyst,172350,2018-11-25,4.9,Active
+682,EMP00682,Priya,Kannan,Male,Inventory,Executive,62583,2019-02-13,5.0,Active
+683,EMP00683,Max,Pillay,Female,Executive,Analyst,136659,2023-08-10,4.6,Active
+684,EMP00684,Rushil,Bhakta,Female,Operations,Manager,139076,2018-10-19,4.2,Active
+685,EMP00685,Balendra,Varty,Female,Finance,Analyst,177978,2022-06-23,4.5,Active
+686,EMP00686,Dakshesh,Iyengar,Male,Operations,Executive,178961,2019-09-20,4.6,Active
+687,EMP00687,Bhavna,Nadig,Female,Operations,Analyst,116797,2018-11-04,4.9,Active
+688,EMP00688,Wyatt,Khurana,Female,Executive,Manager,40517,2019-06-13,4.8,Active
+689,EMP00689,Brijesh,Pall,Male,Inventory,Executive,95950,2021-12-04,4.9,Active
+690,EMP00690,Krish,Ramakrishnan,Female,Operations,Team Lead,72510,2022-12-09,3.9,Active
+691,EMP00691,Azad,Kunda,Male,Human Resources,Senior Executive,68998,2018-08-31,4.2,Active
+692,EMP00692,Jasmit,Wali,Female,Customer Success,Team Lead,77863,2023-12-20,3.5,Active
+693,EMP00693,Andrew,Butala,Female,Executive,Senior Executive,124571,2023-08-19,4.0,Active
+694,EMP00694,Ekavir,Vala,Female,Finance,Team Lead,79853,2020-05-30,4.3,Active
+695,EMP00695,Arin,Sarin,Female,Customer Success,Manager,34167,2019-11-01,4.4,Active
+696,EMP00696,Hitesh,Kalita,Female,Sales,Team Lead,93616,2024-06-14,4.0,Active
+697,EMP00697,Nathaniel,Sibal,Female,Finance,Assistant Manager,168545,2021-06-16,4.5,Active
+698,EMP00698,Thomas,Parmar,Female,Inventory,Analyst,99878,2019-07-09,4.4,Active
+699,EMP00699,Hemani,Sachdeva,Male,Inventory,Team Lead,90953,2021-07-31,4.4,Active
+700,EMP00700,Rushil,Sharaf,Female,Executive,Assistant Manager,120912,2019-06-21,4.4,Active
+701,EMP00701,Chavvi,Parsa,Male,Inventory,Assistant Manager,174928,2022-09-02,4.3,Active
+702,EMP00702,Wakeeta,Gala,Female,Finance,Senior Executive,154078,2020-10-16,3.7,Active
+703,EMP00703,Nihal,Prakash,Male,Executive,Senior Executive,111720,2018-01-13,4.9,Active
+704,EMP00704,Inaya,Gandhi,Male,Sales,Executive,137744,2022-10-04,3.4,Active
+705,EMP00705,Jyoti,Kothari,Female,Executive,Executive,60589,2020-12-08,4.4,Active
+706,EMP00706,Vihaan,Sidhu,Male,Sales,Analyst,134427,2020-03-14,3.5,Active
+707,EMP00707,Jasmit,Choudhry,Female,Finance,Manager,85516,2022-07-02,3.3,Active
+708,EMP00708,Baljiwan,Warrior,Female,Finance,Senior Executive,81107,2022-02-01,3.9,Active
+709,EMP00709,Vrinda,Sha,Female,Human Resources,Analyst,125369,2022-01-27,4.6,Active
+710,EMP00710,Naksh,Sahota,Male,Customer Success,Assistant Manager,110342,2020-04-13,3.5,Active
+711,EMP00711,Pushti,Desai,Female,Finance,Executive,50315,2019-03-08,3.9,Active
+712,EMP00712,Sai,Char,Female,Inventory,Analyst,106815,2024-05-14,3.7,Active
+713,EMP00713,Ekbal,Saini,Female,Finance,Executive,175283,2023-12-17,4.4,Active
+714,EMP00714,Quincy,Ravi,Male,Executive,Assistant Manager,108710,2022-03-31,3.5,Active
+715,EMP00715,Charles,Badal,Male,Human Resources,Executive,72315,2024-12-31,3.2,Active
+716,EMP00716,Vyanjana,Bal,Female,Human Resources,Manager,75518,2020-10-27,4.3,Active
+717,EMP00717,Qushi,Uppal,Female,Finance,Team Lead,161362,2022-12-17,3.3,Active
+718,EMP00718,Peter,Lad,Female,Customer Success,Senior Executive,114727,2020-05-28,4.3,Active
+719,EMP00719,Gauri,Ramanathan,Female,Human Resources,Assistant Manager,179400,2019-04-30,3.7,Active
+720,EMP00720,Rajeshri,Golla,Male,Sales,Manager,112859,2019-05-04,3.5,Active
+721,EMP00721,Ekaraj,Dash,Male,Executive,Team Lead,87734,2021-02-12,4.0,Active
+722,EMP00722,Yashvi,Aggarwal,Male,Customer Success,Senior Executive,42770,2021-10-23,4.9,Active
+723,EMP00723,Jason,Bail,Male,Human Resources,Analyst,81529,2018-11-09,3.1,Active
+724,EMP00724,Sai,Kurian,Male,Finance,Analyst,136037,2021-05-13,4.8,Active
+725,EMP00725,Aryan,Dalal,Male,Customer Success,Manager,170266,2025-03-06,4.4,Active
+726,EMP00726,Udant,Balay,Female,Finance,Analyst,83893,2018-07-14,5.0,Active
+727,EMP00727,Netra,Lall,Male,Human Resources,Assistant Manager,138989,2018-02-24,3.9,Active
+728,EMP00728,Finn,Handa,Female,Sales,Assistant Manager,36942,2022-03-27,4.6,Active
+729,EMP00729,Logan,Kurian,Female,Finance,Assistant Manager,146883,2021-06-21,4.2,Active
+730,EMP00730,Xalak,Chaudhari,Male,Executive,Executive,166019,2023-07-05,4.2,Active
+731,EMP00731,Aarnav,Rastogi,Male,Operations,Analyst,32347,2022-10-06,3.2,Active
+732,EMP00732,Lopa,Kar,Female,Operations,Executive,121749,2024-07-09,3.0,Active
+733,EMP00733,Widisha,Patla,Male,Finance,Analyst,30583,2019-07-23,4.5,Active
+734,EMP00734,Libni,Sule,Male,Sales,Manager,41560,2018-01-07,4.8,Active
+735,EMP00735,Kashvi,Krishnan,Male,Finance,Manager,73268,2024-04-04,4.9,Active
+736,EMP00736,Bhavani,Kala,Female,Executive,Team Lead,89463,2025-03-01,3.3,Active
+737,EMP00737,Chaman,Sami,Male,Sales,Team Lead,132527,2018-11-24,3.5,Active
+738,EMP00738,Rehaan,Pandya,Female,Finance,Analyst,39617,2023-03-08,4.2,Active
+739,EMP00739,Tanveer,Kumar,Female,Inventory,Team Lead,148661,2023-09-01,4.8,Active
+740,EMP00740,Charles,Bansal,Male,Sales,Executive,47681,2021-03-17,3.2,Active
+741,EMP00741,Indrajit,Balay,Female,Finance,Analyst,132827,2018-02-26,4.3,Active
+742,EMP00742,Ojas,Kaul,Male,Executive,Manager,74454,2020-10-07,4.4,Active
+743,EMP00743,Vasatika,Sarkar,Female,Sales,Assistant Manager,122789,2024-06-28,3.7,Active
+744,EMP00744,Aayush,Guha,Female,Customer Success,Team Lead,101633,2023-02-15,5.0,Active
+745,EMP00745,Darika,Ganesan,Female,Customer Success,Manager,85925,2023-06-30,4.4,Active
+746,EMP00746,Devika,Parmer,Male,Inventory,Senior Executive,37527,2021-10-24,3.6,Active
+747,EMP00747,Anita,Chowdhury,Female,Inventory,Manager,170153,2020-05-05,3.8,Active
+748,EMP00748,Hredhaan,Saini,Female,Sales,Manager,111758,2025-01-07,3.2,Active
+749,EMP00749,Oviya,Kurian,Female,Inventory,Senior Executive,101458,2024-01-03,3.2,Active
+750,EMP00750,Sai,Sachdev,Male,Executive,Analyst,90263,2024-05-22,3.1,Active
+751,EMP00751,Om,Batra,Male,Human Resources,Manager,36662,2019-07-01,4.1,Active
+752,EMP00752,Nilima,Sarkar,Female,Inventory,Assistant Manager,130418,2022-10-09,4.4,Active
+753,EMP00753,Anusha,Pillai,Female,Finance,Analyst,110544,2023-04-01,4.8,Active
+754,EMP00754,Nitara,Dayal,Female,Sales,Manager,115630,2018-12-02,4.6,Active
+755,EMP00755,Brijesh,Nadig,Male,Sales,Executive,161179,2021-04-06,3.3,Active
+756,EMP00756,Nathan,Devi,Male,Customer Success,Senior Executive,129533,2021-06-27,4.7,Active
+757,EMP00757,Avni,Gour,Female,Sales,Team Lead,36118,2019-06-20,4.7,Active
+758,EMP00758,Vrinda,Baral,Female,Inventory,Analyst,45960,2023-08-18,3.7,Active
+759,EMP00759,Chaitanya,Choudhary,Male,Human Resources,Manager,127911,2020-09-11,3.7,Active
+760,EMP00760,Michael,Soni,Female,Customer Success,Senior Executive,153372,2023-01-31,4.5,Active
+761,EMP00761,Onkar,Roy,Female,Sales,Manager,139407,2022-01-24,4.5,Active
+762,EMP00762,Chandani,Bhatnagar,Female,Operations,Senior Executive,157360,2020-10-29,4.1,Active
+763,EMP00763,Dev,Konda,Female,Customer Success,Assistant Manager,70556,2021-09-14,3.2,Active
+764,EMP00764,Warjas,Prashad,Male,Human Resources,Assistant Manager,174391,2021-04-04,3.8,Active
+765,EMP00765,Triveni,Saran,Male,Sales,Assistant Manager,158915,2021-08-22,4.5,Active
+766,EMP00766,Mekhala,Sridhar,Male,Executive,Manager,75916,2024-12-19,3.5,Active
+767,EMP00767,Tripti,Guha,Female,Human Resources,Senior Executive,84794,2024-12-31,3.8,Active
+768,EMP00768,Qushi,Munshi,Female,Customer Success,Team Lead,177780,2024-11-30,3.1,Active
+769,EMP00769,Victor,Saxena,Male,Executive,Senior Executive,165530,2021-10-22,3.5,Active
+770,EMP00770,Owen,Swamy,Female,Sales,Executive,176871,2020-12-10,4.5,Active
+771,EMP00771,Benjamin,Chhabra,Female,Inventory,Assistant Manager,51534,2019-06-12,3.6,Active
+772,EMP00772,Rachit,Varkey,Female,Inventory,Assistant Manager,113854,2023-04-09,4.8,Active
+773,EMP00773,Adweta,Nagarajan,Male,Executive,Assistant Manager,172437,2021-10-27,3.1,Active
+774,EMP00774,Pushti,Chowdhury,Male,Customer Success,Team Lead,156372,2022-03-17,4.4,Active
+775,EMP00775,Triya,Agate,Female,Finance,Team Lead,104532,2022-09-05,3.1,Active
+776,EMP00776,Bakhshi,Sachar,Male,Customer Success,Manager,73929,2018-03-31,3.5,Active
+777,EMP00777,Patrick,Hans,Female,Finance,Executive,134299,2020-10-04,3.4,Active
+778,EMP00778,Aahana,Karpe,Female,Sales,Executive,168204,2024-09-18,4.0,Active
+779,EMP00779,Chandran,Garg,Female,Finance,Manager,67728,2023-11-06,3.4,Active
+780,EMP00780,Ekalinga,Golla,Female,Human Resources,Team Lead,79438,2025-05-23,3.4,Active
+781,EMP00781,Fitan,Tak,Male,Human Resources,Executive,47290,2023-05-25,3.2,Active
+782,EMP00782,Jatin,Mitra,Female,Sales,Senior Executive,83040,2020-08-05,3.1,Active
+783,EMP00783,Ridhi,Sankar,Female,Human Resources,Analyst,52763,2023-12-08,4.3,Active
+784,EMP00784,Geetika,Tandon,Male,Operations,Assistant Manager,142691,2018-08-11,4.3,Active
+785,EMP00785,Raghav,D’Alia,Male,Customer Success,Team Lead,82223,2018-12-24,3.4,Active
+786,EMP00786,Faras,Parmar,Male,Customer Success,Senior Executive,47514,2018-05-09,4.2,Active
+787,EMP00787,Xiti,Pant,Female,Operations,Assistant Manager,138316,2023-08-05,4.9,Active
+788,EMP00788,Victor,Savant,Female,Operations,Senior Executive,139061,2021-11-02,4.5,Active
+789,EMP00789,Andrew,Chander,Female,Operations,Analyst,123606,2021-11-28,3.6,Active
+790,EMP00790,Kiaan,Mittal,Male,Finance,Analyst,162189,2019-03-30,4.2,Active
+791,EMP00791,Azad,Deshpande,Female,Finance,Analyst,59108,2019-03-18,4.8,Active
+792,EMP00792,Pushti,Kale,Male,Operations,Team Lead,83560,2024-06-09,3.6,Active
+793,EMP00793,Zayyan,Handa,Male,Finance,Executive,170864,2024-12-07,4.5,Active
+794,EMP00794,Quincy,Parikh,Male,Finance,Assistant Manager,95402,2020-02-12,4.3,Active
+795,EMP00795,Yashawini,Seshadri,Male,Finance,Analyst,48306,2021-06-29,4.9,Active
+796,EMP00796,Shivansh,Sabharwal,Female,Human Resources,Assistant Manager,37468,2023-03-18,3.0,Active
+797,EMP00797,Yashoda,Zachariah,Female,Human Resources,Executive,143289,2019-07-22,4.6,Active
+798,EMP00798,Samar,Gera,Female,Sales,Manager,145347,2021-02-26,4.4,Active
+799,EMP00799,Bakhshi,Ramakrishnan,Female,Customer Success,Executive,107844,2021-06-06,4.6,Active
+800,EMP00800,Sachi,Yogi,Female,Operations,Senior Executive,58144,2022-09-17,4.9,Active
+801,EMP00801,Yashvi,Salvi,Male,Customer Success,Analyst,65601,2023-01-31,4.4,Active
+802,EMP00802,Pooja,Arya,Female,Finance,Executive,75682,2024-07-16,3.6,Active
+803,EMP00803,Arya,Baral,Female,Inventory,Analyst,155301,2019-11-23,3.7,Active
+804,EMP00804,Yug,Kara,Male,Finance,Senior Executive,124692,2023-09-09,4.2,Active
+805,EMP00805,Yuvraj,Hayer,Female,Operations,Executive,72154,2022-03-13,4.1,Active
+806,EMP00806,Maanav,Naidu,Female,Inventory,Team Lead,52185,2024-08-20,4.3,Active
+807,EMP00807,George,Kale,Female,Executive,Team Lead,123909,2018-12-05,3.8,Active
+808,EMP00808,Aarav,Mammen,Female,Inventory,Team Lead,47621,2024-07-19,3.6,Active
+809,EMP00809,Finn,Dada,Female,Customer Success,Analyst,108257,2022-11-07,3.5,Active
+810,EMP00810,Aahana,Chandran,Female,Finance,Senior Executive,31547,2018-05-04,3.5,Active
+811,EMP00811,Hema,Ben,Female,Finance,Analyst,70949,2023-11-26,3.8,Active
+812,EMP00812,Ekiya,Chaudry,Female,Human Resources,Analyst,159423,2018-02-08,4.6,Active
+813,EMP00813,Hemani,Edwin,Female,Executive,Manager,120872,2018-07-04,3.2,Active
+814,EMP00814,Zayan,Bath,Female,Operations,Manager,41400,2024-11-28,4.4,Active
+815,EMP00815,Udarsh,Dhar,Male,Operations,Manager,67552,2025-03-13,4.9,Active
+816,EMP00816,Yashodhara,Patla,Male,Customer Success,Senior Executive,161991,2018-04-25,3.1,Active
+817,EMP00817,Bhavika,Rao,Female,Customer Success,Executive,150960,2023-06-04,4.8,Active
+818,EMP00818,Qarin,Sood,Male,Executive,Assistant Manager,159836,2020-09-15,3.5,Active
+819,EMP00819,Aditya,Tiwari,Female,Sales,Assistant Manager,95061,2019-03-10,3.8,Active
+820,EMP00820,Ekta,Prabhakar,Male,Customer Success,Analyst,33296,2023-06-20,4.2,Active
+821,EMP00821,Shivansh,Choudhary,Male,Executive,Assistant Manager,53016,2022-04-28,4.8,Active
+822,EMP00822,Noah,Sawhney,Female,Operations,Analyst,76527,2023-06-22,3.7,Active
+823,EMP00823,Omaja,Bhardwaj,Male,Customer Success,Team Lead,82748,2019-05-30,4.5,Active
+824,EMP00824,Geetika,Balay,Female,Operations,Assistant Manager,161628,2021-10-18,4.8,Active
+825,EMP00825,Lila,Anne,Female,Customer Success,Executive,140861,2022-05-22,4.0,Active
+826,EMP00826,Zayan,Buch,Male,Human Resources,Analyst,152708,2019-03-26,4.4,Active
+827,EMP00827,Damyanti,Babu,Female,Executive,Manager,139156,2018-11-28,4.7,Active
+828,EMP00828,Deepa,Mandal,Female,Inventory,Team Lead,109040,2018-06-26,4.1,Active
+829,EMP00829,Krish,Tella,Female,Customer Success,Senior Executive,131714,2020-10-24,3.8,Active
+830,EMP00830,Manya,Venkataraman,Male,Human Resources,Team Lead,127123,2021-07-08,3.2,Active
+831,EMP00831,Jagvi,Shanker,Female,Sales,Executive,87431,2020-04-28,4.2,Active
+832,EMP00832,Neelima,Khosla,Female,Finance,Senior Executive,64524,2020-12-04,4.8,Active
+833,EMP00833,Ishita,Rege,Male,Inventory,Senior Executive,127830,2022-06-06,4.2,Active
+834,EMP00834,Faras,Ratta,Male,Inventory,Senior Executive,51371,2019-08-19,4.3,Active
+835,EMP00835,Chavvi,Das,Female,Inventory,Manager,111760,2024-04-04,4.7,Active
+836,EMP00836,Anya,Ramakrishnan,Female,Inventory,Manager,175082,2021-05-30,4.1,Active
+837,EMP00837,Tanish,Pandey,Female,Customer Success,Senior Executive,52354,2024-05-30,3.8,Active
+838,EMP00838,Eesha,Gour,Male,Sales,Analyst,72476,2023-07-20,4.3,Active
+839,EMP00839,Yashoda,Om,Female,Customer Success,Senior Executive,131890,2024-05-26,4.8,Active
+840,EMP00840,Warjas,Thaman,Male,Finance,Analyst,177691,2018-11-18,3.8,Active
+841,EMP00841,Jalsa,Dara,Male,Finance,Executive,61588,2019-07-04,4.0,Active
+842,EMP00842,Amrita,Parmer,Female,Inventory,Assistant Manager,32616,2019-03-30,4.0,Active
+843,EMP00843,Ria,Sama,Male,Sales,Team Lead,53717,2024-05-26,4.7,Active
+844,EMP00844,Harrison,Acharya,Female,Finance,Manager,34451,2023-11-17,3.7,Active
+845,EMP00845,Alexander,Chakrabarti,Female,Finance,Manager,31161,2022-09-17,4.6,Active
+846,EMP00846,Qadim,Trivedi,Male,Finance,Executive,138325,2020-02-12,3.7,Active
+847,EMP00847,Owen,Randhawa,Female,Finance,Assistant Manager,122480,2023-07-02,3.9,Active
+848,EMP00848,Turvi,Kara,Female,Inventory,Assistant Manager,105846,2019-11-12,4.5,Active
+849,EMP00849,Veda,Sachdev,Female,Executive,Executive,30489,2021-05-05,4.8,Active
+850,EMP00850,Oeshi,Randhawa,Male,Finance,Assistant Manager,71771,2023-04-05,3.4,Active
+851,EMP00851,Samuel,Soman,Male,Executive,Senior Executive,110881,2023-11-16,3.3,Active
+852,EMP00852,Tamanna,Chaudhari,Female,Human Resources,Assistant Manager,129860,2020-04-27,4.5,Active
+853,EMP00853,Madhavi,Sethi,Female,Finance,Assistant Manager,90101,2021-10-30,4.7,Active
+854,EMP00854,Gunbir,Ramanathan,Male,Sales,Team Lead,164965,2019-09-12,3.0,Active
+855,EMP00855,Vasatika,Srinivas,Male,Executive,Team Lead,30866,2022-10-25,4.7,Active
+856,EMP00856,William,Dhingra,Female,Inventory,Assistant Manager,138286,2019-07-23,4.3,Active
+857,EMP00857,Darika,Ramanathan,Female,Finance,Assistant Manager,46796,2019-02-26,3.2,Active
+858,EMP00858,Jackson,Sanghvi,Male,Inventory,Executive,152324,2023-06-08,4.6,Active
+859,EMP00859,Bhavya,Loke,Male,Executive,Senior Executive,132578,2022-10-03,3.8,Active
+860,EMP00860,Anthony,Mishra,Male,Operations,Assistant Manager,109617,2023-05-21,3.4,Active
+861,EMP00861,Bhavna,Soman,Male,Customer Success,Senior Executive,71514,2022-08-24,4.9,Active
+862,EMP00862,Inaya,Roy,Female,Inventory,Team Lead,103369,2021-10-09,3.0,Active
+863,EMP00863,Meera,Date,Male,Customer Success,Manager,42910,2019-12-10,4.3,Active
+864,EMP00864,Qasim,Hayer,Female,Sales,Senior Executive,158599,2022-01-19,3.4,Active
+865,EMP00865,Gaurika,Bains,Male,Customer Success,Assistant Manager,58221,2025-05-27,3.4,Active
+866,EMP00866,Sara,Soni,Female,Customer Success,Analyst,63067,2023-01-10,4.9,Active
+867,EMP00867,Mahika,Chander,Female,Operations,Manager,55727,2024-07-12,4.3,Active
+868,EMP00868,Udant,Biswas,Male,Executive,Assistant Manager,95411,2018-08-12,3.7,Active
+869,EMP00869,Bhavna,Singhal,Female,Inventory,Executive,149558,2018-10-02,3.3,Active
+870,EMP00870,Teerth,Mangat,Female,Human Resources,Senior Executive,104459,2024-12-25,3.6,Active
+871,EMP00871,Amrita,Sibal,Male,Inventory,Analyst,71936,2024-09-21,4.9,Active
+872,EMP00872,Ojasvi,Joshi,Male,Inventory,Team Lead,74367,2018-01-17,4.8,Active
+873,EMP00873,Tanish,Balakrishnan,Male,Human Resources,Executive,102492,2024-08-01,3.9,Active
+874,EMP00874,Arjun,Dash,Female,Operations,Analyst,53397,2020-10-04,3.8,Active
+875,EMP00875,Gavin,Sen,Male,Operations,Analyst,145464,2022-08-23,4.7,Active
+876,EMP00876,Lohit,Talwar,Male,Inventory,Senior Executive,65095,2022-05-04,3.2,Active
+877,EMP00877,Shivansh,Krishnan,Female,Customer Success,Analyst,177732,2025-06-22,4.6,Active
+878,EMP00878,Qushi,Prabhakar,Male,Inventory,Analyst,177298,2020-12-15,4.2,Active
+879,EMP00879,Pahal,Khatri,Female,Finance,Assistant Manager,97115,2021-08-03,3.9,Active
+880,EMP00880,Wazir,Dewan,Female,Executive,Manager,50139,2020-08-31,4.8,Active
+881,EMP00881,Timothy,Sanghvi,Female,Human Resources,Assistant Manager,119112,2018-03-09,4.6,Active
+882,EMP00882,Alka,Garg,Male,Customer Success,Team Lead,53698,2022-02-14,4.2,Active
+883,EMP00883,Hredhaan,Sawhney,Female,Customer Success,Manager,165153,2020-02-08,3.3,Active
+884,EMP00884,Finn,Dara,Male,Inventory,Assistant Manager,125576,2024-08-18,4.5,Active
+885,EMP00885,Tamanna,Dada,Female,Executive,Executive,60676,2024-06-30,4.6,Active
+886,EMP00886,Tanmayi,Modi,Male,Finance,Assistant Manager,150500,2018-05-06,3.8,Active
+887,EMP00887,Dayita,Tailor,Male,Inventory,Analyst,90225,2022-08-06,3.1,Active
+888,EMP00888,Naveen,Sangha,Female,Inventory,Executive,144908,2019-07-11,3.0,Active
+889,EMP00889,Yutika,Dyal,Male,Sales,Senior Executive,86272,2024-03-05,4.9,Active
+890,EMP00890,Anamika,Kapur,Male,Sales,Senior Executive,32990,2024-06-24,4.2,Active
+891,EMP00891,Thomas,Devan,Female,Executive,Manager,142357,2020-06-19,3.9,Active
+892,EMP00892,Lavanya,Verma,Male,Finance,Assistant Manager,146339,2020-07-04,3.6,Active
+893,EMP00893,Chaitaly,Ram,Female,Inventory,Senior Executive,128391,2022-01-21,3.8,Active
+894,EMP00894,Vasudha,Chakrabarti,Male,Operations,Assistant Manager,56382,2024-06-30,4.3,Active
+895,EMP00895,Nicholas,Srinivasan,Male,Human Resources,Manager,115452,2023-07-02,4.6,Active
+896,EMP00896,Chanakya,Uppal,Male,Inventory,Manager,158219,2023-05-14,3.1,Active
+897,EMP00897,Eiravati,Gaba,Female,Operations,Manager,82750,2024-09-27,3.5,Active
+898,EMP00898,Yoshita,Sengupta,Female,Human Resources,Assistant Manager,31477,2024-08-15,4.9,Active
+899,EMP00899,Hemani,Kalita,Female,Human Resources,Manager,174114,2025-05-01,4.1,Active
+900,EMP00900,Andrew,Bhat,Male,Customer Success,Assistant Manager,43127,2021-12-20,4.0,Active
+901,EMP00901,Bimala,Deep,Female,Inventory,Executive,45239,2019-10-21,3.7,Active
+902,EMP00902,Chasmum,Natarajan,Male,Finance,Team Lead,76162,2022-09-27,4.7,Active
+903,EMP00903,Ekavir,Sule,Female,Finance,Analyst,101335,2023-07-22,4.6,Active
+904,EMP00904,Vedant,Jhaveri,Male,Customer Success,Executive,177731,2021-09-04,4.0,Active
+905,EMP00905,Fiyaz,Radhakrishnan,Female,Sales,Executive,107039,2022-05-01,3.2,Active
+906,EMP00906,Shivansh,Maharaj,Female,Inventory,Manager,33406,2018-06-17,3.1,Active
+907,EMP00907,Vansha,Bhandari,Male,Sales,Manager,84954,2023-10-28,4.0,Active
+908,EMP00908,Veda,Dutta,Female,Human Resources,Manager,145612,2020-08-07,4.3,Active
+909,EMP00909,Krish,Keer,Female,Human Resources,Senior Executive,135351,2024-06-02,3.5,Active
+910,EMP00910,Matthew,Chopra,Male,Inventory,Team Lead,102428,2019-03-05,3.4,Active
+911,EMP00911,David,Pillay,Female,Inventory,Manager,160498,2018-10-05,4.0,Active
+912,EMP00912,Riya,Sood,Male,Sales,Senior Executive,33479,2021-12-05,3.6,Active
+913,EMP00913,Logan,Devi,Female,Customer Success,Assistant Manager,75912,2022-01-08,4.3,Active
+914,EMP00914,Aarush,Brar,Male,Sales,Team Lead,40970,2020-03-15,4.5,Active
+915,EMP00915,Harinakshi,Krish,Female,Executive,Assistant Manager,33775,2024-06-24,3.6,Active
+916,EMP00916,Kamala,Saraf,Female,Sales,Senior Executive,112185,2024-05-02,3.9,Active
+917,EMP00917,Noah,Balakrishnan,Male,Customer Success,Assistant Manager,89839,2019-07-26,3.5,Active
+918,EMP00918,Sara,More,Female,Customer Success,Manager,152751,2022-05-14,4.7,Active
+919,EMP00919,Triveni,Rege,Male,Customer Success,Manager,73337,2023-11-15,4.2,Active
+920,EMP00920,Warda,Sur,Female,Executive,Executive,82956,2021-06-22,3.0,Active
+921,EMP00921,Ayush,Ahuja,Male,Inventory,Team Lead,153308,2024-03-03,3.4,Active
+922,EMP00922,Simon,Krish,Female,Human Resources,Analyst,80967,2018-03-29,4.1,Active
+923,EMP00923,Wridesh,Borra,Male,Operations,Senior Executive,72226,2024-05-17,4.3,Active
+924,EMP00924,Ira,Datta,Female,Customer Success,Executive,77280,2022-04-26,4.5,Active
+925,EMP00925,Zashil,Date,Male,Inventory,Senior Executive,31157,2023-04-17,3.2,Active
+926,EMP00926,Sachi,Arya,Female,Inventory,Executive,174423,2021-08-27,3.2,Active
+927,EMP00927,Oscar,D’Alia,Male,Executive,Executive,50363,2023-04-09,4.0,Active
+928,EMP00928,Manan,Swaminathan,Male,Human Resources,Manager,147722,2022-07-21,4.7,Active
+929,EMP00929,Unnati,Badal,Female,Sales,Team Lead,65807,2025-06-16,4.1,Active
+930,EMP00930,Wazir,Chada,Male,Executive,Executive,89682,2018-08-30,4.8,Active
+931,EMP00931,Dalaja,Balakrishnan,Female,Human Resources,Manager,100730,2018-05-18,3.7,Active
+932,EMP00932,Zilmil,Mukherjee,Male,Finance,Assistant Manager,33391,2020-05-06,3.8,Active
+933,EMP00933,Damyanti,Bajaj,Female,Operations,Manager,168900,2023-05-29,3.2,Active
+934,EMP00934,Ansh,Setty,Male,Human Resources,Team Lead,153771,2025-06-06,4.9,Active
+935,EMP00935,Radha,Iyengar,Female,Human Resources,Analyst,151984,2018-09-20,3.4,Active
+936,EMP00936,Fariq,Bail,Female,Human Resources,Team Lead,138581,2023-05-07,4.9,Active
+937,EMP00937,Shravya,Dubey,Female,Sales,Assistant Manager,111048,2021-07-19,3.5,Active
+938,EMP00938,Xiti,Biswas,Female,Executive,Senior Executive,123177,2022-12-22,4.4,Active
+939,EMP00939,Vedika,Grewal,Female,Customer Success,Team Lead,169419,2019-08-22,5.0,Active
+940,EMP00940,Kamya,Saha,Female,Finance,Assistant Manager,139906,2025-05-05,4.7,Active
+941,EMP00941,Ekbal,Yohannan,Male,Customer Success,Executive,166478,2022-02-05,4.9,Active
+942,EMP00942,Lipika,Palla,Male,Executive,Executive,112489,2022-11-08,4.0,Active
+943,EMP00943,Bhavya,Bansal,Male,Executive,Senior Executive,172461,2021-11-11,3.1,Active
+944,EMP00944,Zayan,Khalsa,Female,Operations,Analyst,140221,2023-07-19,5.0,Active
+945,EMP00945,Kalpit,Naidu,Female,Sales,Assistant Manager,138451,2023-12-20,3.0,Active
+946,EMP00946,Jack,Vig,Male,Inventory,Assistant Manager,84924,2018-10-05,4.7,Active
+947,EMP00947,Aishani,Sehgal,Male,Human Resources,Manager,114832,2018-09-05,3.4,Active
+948,EMP00948,Kashvi,Apte,Female,Human Resources,Team Lead,142283,2018-07-31,3.5,Active
+949,EMP00949,Omaja,Dada,Female,Customer Success,Assistant Manager,120204,2022-03-24,3.4,Active
+950,EMP00950,Wyatt,Vora,Male,Executive,Senior Executive,171683,2024-06-25,3.3,Active
+951,EMP00951,Charvi,Buch,Female,Inventory,Analyst,66282,2021-02-16,4.5,Active
+952,EMP00952,Anya,Srinivas,Female,Sales,Analyst,50219,2021-07-21,4.7,Active
+953,EMP00953,Radha,Dani,Female,Customer Success,Manager,169058,2025-02-26,3.3,Active
+954,EMP00954,Deepa,Vyas,Male,Inventory,Team Lead,31980,2025-03-05,3.4,Active
+955,EMP00955,Reva,Venkataraman,Male,Human Resources,Assistant Manager,68101,2023-03-16,3.2,Active
+956,EMP00956,Anvi,Dhar,Male,Customer Success,Team Lead,132153,2019-10-21,4.4,Active
+957,EMP00957,Ranveer,Deol,Female,Inventory,Manager,95781,2023-05-26,3.8,Active
+958,EMP00958,Ria,Shukla,Male,Finance,Assistant Manager,153048,2018-04-11,3.4,Active
+959,EMP00959,Harsh,Merchant,Female,Customer Success,Analyst,153098,2024-04-13,4.5,Active
+960,EMP00960,Arjun,Mani,Male,Operations,Team Lead,55161,2024-05-26,5.0,Active
+961,EMP00961,Jason,Borah,Male,Sales,Team Lead,70636,2020-01-03,4.4,Active
+962,EMP00962,Vrishti,Kaul,Female,Sales,Assistant Manager,76058,2020-07-02,3.3,Active
+963,EMP00963,Garima,Jha,Male,Executive,Manager,78609,2021-11-28,3.5,Active
+964,EMP00964,Hritik,Sur,Female,Executive,Assistant Manager,54849,2023-08-18,3.7,Active
+965,EMP00965,Jyoti,Venkataraman,Female,Human Resources,Analyst,46888,2024-01-18,4.2,Active
+966,EMP00966,Om,Balakrishnan,Female,Inventory,Team Lead,92661,2018-12-17,3.5,Active
+967,EMP00967,Aarna,Pillay,Male,Sales,Senior Executive,121004,2022-07-06,3.4,Active
+968,EMP00968,Vanya,Choudhury,Male,Finance,Team Lead,69495,2022-11-01,3.9,Active
+969,EMP00969,Yutika,Pillay,Female,Customer Success,Analyst,32378,2021-06-17,5.0,Active
+970,EMP00970,Xavier,Borah,Female,Human Resources,Manager,56283,2022-10-14,4.7,Active
+971,EMP00971,Chakradhar,Sane,Female,Customer Success,Senior Executive,54216,2020-03-08,3.3,Active
+972,EMP00972,Zaid,Iyengar,Female,Sales,Team Lead,139530,2019-12-09,4.7,Active
+973,EMP00973,Warhi,Narasimhan,Female,Inventory,Analyst,131170,2021-04-11,4.9,Active
+974,EMP00974,Aadi,Baria,Male,Human Resources,Manager,131345,2018-07-27,4.4,Active
+975,EMP00975,Jeremiah,Kumer,Male,Finance,Executive,74564,2022-01-20,4.1,Active
+976,EMP00976,Pratyush,Dey,Male,Inventory,Team Lead,105885,2022-06-07,3.9,Active
+977,EMP00977,Xavier,Baria,Male,Operations,Senior Executive,50456,2022-06-13,3.4,Active
+978,EMP00978,Dipta,Kumar,Male,Executive,Team Lead,106942,2022-05-06,3.1,Active
+979,EMP00979,Dev,Solanki,Female,Finance,Assistant Manager,133319,2019-09-16,4.0,Active
+980,EMP00980,Pranav,Bahri,Male,Finance,Senior Executive,136227,2021-06-30,4.2,Active
+981,EMP00981,Daksha,Palan,Female,Executive,Assistant Manager,160969,2021-02-26,4.1,Active
+982,EMP00982,Kevin,Bhagat,Male,Operations,Senior Executive,96617,2025-04-24,4.4,Active
+983,EMP00983,Devika,Dhaliwal,Male,Finance,Executive,46007,2019-02-06,3.8,Active
+984,EMP00984,Michael,Parekh,Male,Executive,Manager,143123,2020-01-03,5.0,Active
+985,EMP00985,Anusha,Kumar,Male,Inventory,Analyst,125114,2021-07-27,3.6,Active
+986,EMP00986,Libni,Parikh,Female,Executive,Executive,169833,2025-02-16,3.7,Active
+987,EMP00987,Samarth,Chacko,Female,Finance,Senior Executive,122273,2018-11-08,4.5,Active
+988,EMP00988,Qarin,Bhat,Male,Customer Success,Executive,164073,2021-07-02,4.1,Active
+989,EMP00989,David,Naik,Male,Sales,Manager,138677,2018-06-29,4.5,Active
+990,EMP00990,Aarna,Mangal,Male,Finance,Manager,31606,2021-04-28,3.8,Active
+991,EMP00991,Hitesh,Palla,Male,Customer Success,Executive,145919,2020-12-08,4.2,Active
+992,EMP00992,Farhan,Narasimhan,Female,Finance,Team Lead,57774,2022-04-05,4.8,Active
+993,EMP00993,Robert,Savant,Male,Human Resources,Analyst,49029,2018-04-08,3.8,Active
+994,EMP00994,Rachana,Kalla,Female,Inventory,Team Lead,105468,2021-08-01,5.0,Active
+995,EMP00995,Anita,Purohit,Male,Executive,Senior Executive,49963,2022-10-30,3.7,Active
+996,EMP00996,Abdul,Maharaj,Male,Customer Success,Analyst,70075,2020-05-16,4.5,Active
+997,EMP00997,Yahvi,Mohan,Male,Human Resources,Analyst,96648,2018-02-27,3.9,Active
+998,EMP00998,Maanav,Sant,Male,Customer Success,Executive,151649,2019-12-04,4.2,Active
+999,EMP00999,Udarsh,Edwin,Female,Sales,Senior Executive,93932,2025-06-01,4.3,Active
+1000,EMP01000,Lekha,Sankaran,Female,Customer Success,Assistant Manager,37977,2022-10-10,3.9,Active
+1001,EMP01001,Vedant,Sandal,Male,Human Resources,Team Lead,119081,2020-08-16,4.9,Active
+1002,EMP01002,Lavanya,Kant,Male,Executive,Executive,160971,2018-11-27,3.5,Active
+1003,EMP01003,Devansh,Ravel,Female,Human Resources,Analyst,47298,2019-12-01,4.1,Active
+1004,EMP01004,Zashil,Kulkarni,Male,Human Resources,Team Lead,76602,2019-10-04,3.0,Active
+1005,EMP01005,Laksh,Tank,Male,Inventory,Assistant Manager,173884,2018-10-23,3.7,Active
+1006,EMP01006,Anmol,Devan,Male,Sales,Team Lead,122855,2019-07-23,3.2,Active
+1007,EMP01007,Xiti,Gole,Female,Executive,Manager,173535,2018-01-15,3.2,Active
+1008,EMP01008,Oliver,Balasubramanian,Male,Operations,Team Lead,142751,2019-11-12,3.7,Active
+1009,EMP01009,Karan,Sarraf,Male,Executive,Analyst,44954,2023-05-09,4.5,Active
+1010,EMP01010,Chaitaly,Buch,Male,Human Resources,Assistant Manager,46608,2020-08-06,4.8,Active
+1011,EMP01011,Chakradhar,Sundaram,Female,Finance,Executive,94766,2019-11-23,3.7,Active
+1012,EMP01012,Michael,Seth,Male,Operations,Analyst,134184,2019-09-15,4.6,Active
+1013,EMP01013,Lipika,Buch,Male,Inventory,Senior Executive,162599,2021-02-27,3.6,Active
+1014,EMP01014,Ekaraj,Pathak,Male,Operations,Assistant Manager,133018,2021-12-24,3.5,Active
+1015,EMP01015,Jackson,Ganesan,Female,Finance,Assistant Manager,177362,2021-12-30,4.5,Active
+1016,EMP01016,Frado,Murthy,Male,Finance,Senior Executive,36894,2023-11-12,3.8,Active
+1017,EMP01017,Dalbir,Sibal,Female,Executive,Executive,105361,2024-03-29,3.8,Active
+1018,EMP01018,Ranbir,Tak,Male,Executive,Senior Executive,42270,2023-10-12,3.6,Active
+1019,EMP01019,Wridesh,Seshadri,Male,Human Resources,Executive,101403,2023-09-25,4.7,Active
+1020,EMP01020,Kevin,Bath,Male,Human Resources,Team Lead,37269,2021-07-14,3.2,Active
+1021,EMP01021,Rehaan,Acharya,Male,Finance,Manager,157985,2019-11-29,3.2,Active
+1022,EMP01022,Benjamin,D’Alia,Male,Operations,Analyst,105743,2020-11-19,3.9,Active
+1023,EMP01023,Aarna,Bhasin,Male,Inventory,Executive,48801,2023-04-16,3.2,Active
+1024,EMP01024,Anjali,Balay,Female,Executive,Assistant Manager,32591,2018-05-02,3.4,Active
+1025,EMP01025,Chaaya,Bhatt,Female,Human Resources,Manager,168378,2023-08-27,4.4,Active
+1026,EMP01026,Udyati,Peri,Female,Human Resources,Assistant Manager,157602,2020-05-02,4.0,Active
+1027,EMP01027,Bishakha,Raman,Female,Inventory,Manager,136131,2022-03-25,4.9,Active
+1028,EMP01028,Forum,Nigam,Female,Finance,Senior Executive,133221,2022-03-31,4.5,Active
+1029,EMP01029,Urishilla,Ben,Female,Executive,Manager,99026,2019-03-01,3.3,Active
+1030,EMP01030,Alka,Bhatt,Male,Inventory,Executive,80583,2022-11-23,4.0,Active
+1031,EMP01031,Advaith,Amble,Male,Inventory,Assistant Manager,70330,2021-12-27,4.7,Active
+1032,EMP01032,Zarna,Bali,Male,Executive,Team Lead,103934,2018-01-20,3.6,Active
+1033,EMP01033,Lipika,Agate,Male,Executive,Analyst,60662,2022-07-06,3.0,Active
+1034,EMP01034,Victor,Muni,Female,Inventory,Assistant Manager,116142,2023-06-02,4.9,Active
+1035,EMP01035,Warinder,Goda,Female,Finance,Assistant Manager,142868,2022-09-12,4.1,Active
+1036,EMP01036,Tanmayi,Das,Male,Finance,Assistant Manager,55859,2022-10-17,3.4,Active
+1037,EMP01037,Yashodhara,Bawa,Female,Inventory,Executive,150568,2021-07-14,3.3,Active
+1038,EMP01038,Udarsh,Basu,Male,Finance,Analyst,93990,2023-06-20,3.8,Active
+1039,EMP01039,Praneel,Bahl,Female,Finance,Team Lead,165041,2020-07-31,4.5,Active
+1040,EMP01040,Zinal,Goyal,Male,Sales,Senior Executive,123820,2020-09-11,4.2,Active
+1041,EMP01041,Lucky,Jaggi,Male,Customer Success,Assistant Manager,134105,2018-06-21,4.0,Active
+1042,EMP01042,Saanvi,Jhaveri,Female,Finance,Senior Executive,176500,2023-04-01,4.8,Active
+1043,EMP01043,Lakshmi,Rao,Female,Customer Success,Executive,54377,2018-12-11,3.5,Active
+1044,EMP01044,Baljiwan,Luthra,Female,Executive,Assistant Manager,109843,2023-02-08,5.0,Active
+1045,EMP01045,Siya,Bera,Female,Customer Success,Manager,82875,2025-05-03,3.9,Active
+1046,EMP01046,Brijesh,Gopal,Female,Sales,Analyst,40446,2024-06-16,5.0,Active
+1047,EMP01047,Aadi,Raman,Female,Inventory,Executive,111272,2022-02-02,4.6,Active
+1048,EMP01048,Utkarsh,Subramanian,Female,Executive,Analyst,155639,2023-01-21,3.5,Active
+1049,EMP01049,Udarsh,Kala,Female,Sales,Executive,82578,2020-10-24,3.0,Active
+1050,EMP01050,Harita,Merchant,Female,Finance,Manager,171933,2024-07-05,3.2,Active
+1051,EMP01051,Azad,Mittal,Male,Inventory,Assistant Manager,35289,2021-04-16,4.6,Active
+1052,EMP01052,Thomas,Murthy,Female,Human Resources,Manager,102853,2020-05-28,3.1,Active
+1053,EMP01053,Maanav,Dutta,Male,Executive,Executive,161821,2025-05-28,4.6,Active
+1054,EMP01054,Jacob,Sandhu,Female,Customer Success,Manager,47918,2022-10-05,4.9,Active
+1055,EMP01055,Harshil,Taneja,Male,Operations,Analyst,162723,2023-03-10,3.4,Active
+1056,EMP01056,Zayyan,Varkey,Female,Finance,Analyst,48387,2019-05-02,3.1,Active
+1057,EMP01057,Qadim,Varughese,Female,Operations,Team Lead,139990,2023-01-15,4.9,Active
+1058,EMP01058,Jhalak,Koshy,Male,Finance,Manager,115902,2023-05-09,4.4,Active
+1059,EMP01059,Sneha,Gade,Male,Inventory,Senior Executive,60846,2019-11-12,4.7,Active
+1060,EMP01060,Tristan,Hora,Female,Customer Success,Senior Executive,97699,2024-06-23,4.9,Active
+1061,EMP01061,Dayamai,Handa,Male,Inventory,Manager,36771,2025-02-26,4.1,Active
+1062,EMP01062,Aashi,Sood,Male,Customer Success,Assistant Manager,121140,2024-04-13,4.6,Active
+1063,EMP01063,Darsh,Divan,Female,Finance,Manager,89483,2018-09-10,4.4,Active
+1064,EMP01064,Akshay,Bhagat,Female,Finance,Manager,139137,2020-04-12,3.2,Active
+1065,EMP01065,Balendra,Master,Female,Human Resources,Team Lead,135790,2023-07-17,3.0,Active
+1066,EMP01066,Unni,Kara,Male,Operations,Team Lead,96965,2020-11-11,4.1,Active
+1067,EMP01067,Wazir,Vasa,Male,Human Resources,Assistant Manager,110065,2018-01-10,3.0,Active
+1068,EMP01068,Hemani,Raj,Female,Sales,Manager,126886,2022-08-08,3.1,Active
+1069,EMP01069,Tarak,Mander,Male,Executive,Executive,43347,2022-09-28,3.6,Active
+1070,EMP01070,Umang,Gulati,Male,Operations,Team Lead,157472,2019-10-13,4.2,Active
+1071,EMP01071,Amaira,Sodhi,Male,Finance,Assistant Manager,177276,2023-08-24,4.3,Active
+1072,EMP01072,Kritika,Goel,Female,Customer Success,Analyst,70335,2023-02-01,4.8,Active
+1073,EMP01073,Charan,Vala,Female,Human Resources,Team Lead,157250,2024-06-16,4.6,Active
+1074,EMP01074,Jacob,Kadakia,Male,Executive,Analyst,60122,2025-03-14,4.8,Active
+1075,EMP01075,Libni,Pingle,Female,Customer Success,Senior Executive,137753,2022-07-29,4.3,Active
+1076,EMP01076,Zilmil,Mandal,Female,Human Resources,Manager,126003,2023-09-15,4.8,Active
+1077,EMP01077,Zehaan,Tella,Female,Executive,Team Lead,93802,2025-06-24,4.0,Active
+1078,EMP01078,Vasudha,Mohanty,Male,Sales,Assistant Manager,114571,2020-02-08,4.9,Active
+1079,EMP01079,Tanay,Sidhu,Male,Human Resources,Assistant Manager,44455,2022-10-28,4.4,Active
+1080,EMP01080,Jonathan,Morar,Female,Operations,Executive,176340,2021-08-19,3.4,Active
+1081,EMP01081,Ikbal,Sarin,Female,Sales,Assistant Manager,58001,2023-05-02,3.6,Active
+1082,EMP01082,Jagdish,Ramanathan,Male,Customer Success,Executive,97419,2018-09-08,4.9,Active
+1083,EMP01083,Kevin,Butala,Male,Human Resources,Manager,45433,2018-07-11,3.6,Active
+1084,EMP01084,Viraj,Shukla,Male,Sales,Manager,134030,2023-07-18,3.9,Active
+1085,EMP01085,Viraj,Sura,Male,Operations,Executive,144771,2019-03-29,5.0,Active
+1086,EMP01086,Frado,Dayal,Female,Inventory,Assistant Manager,152870,2019-02-25,3.9,Active
+1087,EMP01087,Aarush,Devan,Male,Customer Success,Analyst,32430,2022-08-09,4.7,Active
+1088,EMP01088,Gabriel,Sridhar,Female,Finance,Assistant Manager,150198,2019-10-07,4.1,Active
+1089,EMP01089,Upasna,Walia,Male,Customer Success,Analyst,85223,2023-09-28,4.1,Active
+1090,EMP01090,Charan,Madan,Male,Operations,Assistant Manager,136745,2023-03-07,3.8,Active
+1091,EMP01091,Triveni,Sabharwal,Male,Executive,Manager,39082,2019-08-13,4.5,Active
+1092,EMP01092,Vanya,Sandhu,Female,Finance,Executive,133878,2025-03-07,5.0,Active
+1093,EMP01093,Pranit,Parmer,Male,Inventory,Executive,113510,2023-09-22,3.6,Active
+1094,EMP01094,Chavvi,Buch,Female,Human Resources,Manager,63059,2021-10-06,3.8,Active
+1095,EMP01095,Zinal,Memon,Female,Operations,Manager,164315,2019-10-08,5.0,Active
+1096,EMP01096,Banjeet,Ramesh,Male,Customer Success,Senior Executive,144252,2024-12-15,3.0,Active
+1097,EMP01097,Harish,Korpal,Male,Human Resources,Assistant Manager,121991,2018-05-15,4.3,Active
+1098,EMP01098,Neel,Thakkar,Male,Operations,Executive,92274,2020-11-20,3.1,Active
+1099,EMP01099,Triveni,Narain,Female,Finance,Executive,65406,2019-09-26,4.6,Active
+1100,EMP01100,Krish,Sethi,Male,Executive,Assistant Manager,143235,2022-04-22,3.9,Active
+1101,EMP01101,Isaac,Magar,Female,Human Resources,Analyst,31115,2021-08-21,3.5,Active
+1102,EMP01102,Harrison,Shere,Male,Human Resources,Senior Executive,59863,2022-08-15,5.0,Active
+1103,EMP01103,Girik,Sagar,Female,Finance,Analyst,88632,2019-11-14,4.9,Active
+1104,EMP01104,Aashi,Chokshi,Female,Sales,Manager,174218,2025-06-19,3.0,Active
+1105,EMP01105,Ekansh,Aggarwal,Male,Finance,Team Lead,38394,2021-09-25,3.9,Active
+1106,EMP01106,Chanchal,Datta,Male,Sales,Senior Executive,129133,2022-12-22,4.7,Active
+1107,EMP01107,Chanchal,Bhandari,Female,Human Resources,Analyst,117096,2022-03-05,3.3,Active
+1108,EMP01108,Omya,Hayre,Male,Human Resources,Executive,37909,2022-12-10,3.0,Active
+1109,EMP01109,Tarak,Kadakia,Female,Customer Success,Analyst,160475,2018-02-04,3.7,Active
+1110,EMP01110,Jeevika,Kala,Male,Inventory,Analyst,39468,2024-04-21,3.8,Active
+1111,EMP01111,Devika,Bala,Female,Executive,Analyst,105836,2019-01-15,3.3,Active
+1112,EMP01112,Luke,Misra,Male,Human Resources,Assistant Manager,173173,2024-08-10,3.9,Active
+1113,EMP01113,Yug,Nagy,Male,Human Resources,Team Lead,134109,2024-09-10,3.3,Active
+1114,EMP01114,Baljiwan,Goswami,Female,Finance,Analyst,142954,2018-04-13,3.1,Active
+1115,EMP01115,Bhavani,Bail,Male,Human Resources,Assistant Manager,120659,2018-09-15,3.7,Active
+1116,EMP01116,David,Sanghvi,Female,Executive,Team Lead,147109,2022-01-27,3.2,Active
+1117,EMP01117,Urishilla,Kata,Male,Operations,Team Lead,95657,2024-08-05,3.7,Active
+1118,EMP01118,Fariq,Parikh,Male,Executive,Senior Executive,149103,2020-03-21,3.5,Active
+1119,EMP01119,Inaya,Khosla,Female,Executive,Analyst,168925,2025-04-01,3.0,Active
+1120,EMP01120,Netra,Sangha,Male,Inventory,Manager,140915,2019-10-16,3.2,Active
+1121,EMP01121,Kevin,Goel,Female,Operations,Executive,133995,2021-02-09,4.4,Active
+1122,EMP01122,Nitara,Sarin,Male,Human Resources,Senior Executive,143123,2021-10-05,3.5,Active
+1123,EMP01123,Rehaan,Padmanabhan,Male,Finance,Assistant Manager,98605,2023-01-16,3.1,Active
+1124,EMP01124,Tanay,Sibal,Male,Sales,Executive,100719,2023-12-03,4.4,Active
+1125,EMP01125,Rushil,Bath,Male,Inventory,Assistant Manager,146058,2018-10-24,4.2,Active
+1126,EMP01126,Brinda,Vala,Female,Sales,Team Lead,95816,2020-10-05,3.9,Active
+1127,EMP01127,Vasudha,Swamy,Female,Inventory,Assistant Manager,61296,2019-07-11,4.8,Active
+1128,EMP01128,Chakradev,Taneja,Male,Operations,Team Lead,95467,2018-02-03,4.5,Active
+1129,EMP01129,Isaac,Minhas,Male,Human Resources,Team Lead,172040,2024-08-24,4.2,Active
+1130,EMP01130,Tristan,Chopra,Male,Human Resources,Assistant Manager,163134,2018-06-21,4.1,Active
+1131,EMP01131,Jasmit,Deshpande,Female,Sales,Senior Executive,86788,2021-03-03,4.4,Active
+1132,EMP01132,Dalaja,Venkataraman,Male,Human Resources,Executive,174930,2019-04-06,4.4,Active
+1133,EMP01133,Robert,Sha,Male,Human Resources,Manager,88027,2021-10-29,4.9,Active
+1134,EMP01134,Oscar,Dutt,Female,Executive,Team Lead,39971,2025-02-12,3.4,Active
+1135,EMP01135,Tripti,Vasa,Male,Executive,Senior Executive,47953,2019-02-03,3.8,Active
+1136,EMP01136,Warda,Pillai,Female,Inventory,Analyst,139581,2018-04-01,4.8,Active
+1137,EMP01137,Bhanumati,Singhal,Male,Finance,Analyst,142765,2023-01-10,4.7,Active
+1138,EMP01138,Maya,Goyal,Female,Finance,Team Lead,60081,2019-09-03,4.4,Active
+1139,EMP01139,Sai,Rege,Female,Inventory,Team Lead,79845,2022-06-13,4.6,Active
+1140,EMP01140,Dhriti,Parekh,Male,Operations,Analyst,163496,2024-04-12,4.6,Active
+1141,EMP01141,Vedika,More,Female,Inventory,Assistant Manager,114156,2024-09-18,3.1,Active
+1142,EMP01142,Siya,Chawla,Male,Operations,Executive,68963,2018-01-02,3.5,Active
+1143,EMP01143,Viraj,Singhal,Male,Customer Success,Analyst,143439,2022-02-22,3.8,Active
+1144,EMP01144,Advik,Datta,Female,Operations,Assistant Manager,61452,2022-09-15,3.8,Active
+1145,EMP01145,Anay,Talwar,Female,Executive,Team Lead,55310,2020-05-14,3.0,Active
+1146,EMP01146,Ekansh,Prabhakar,Female,Executive,Executive,109483,2020-08-21,4.9,Active
+1147,EMP01147,Samesh,Chaudhry,Female,Human Resources,Assistant Manager,56326,2022-06-18,3.5,Active
+1148,EMP01148,Abha,Mammen,Male,Inventory,Manager,67792,2024-04-27,4.8,Active
+1149,EMP01149,Vasana,Murty,Male,Executive,Senior Executive,63312,2020-07-15,3.0,Active
+1150,EMP01150,Onkar,Thaker,Male,Human Resources,Assistant Manager,174856,2023-06-27,3.8,Active
+1151,EMP01151,Watika,Deo,Male,Finance,Manager,55883,2020-06-10,4.3,Active
+1152,EMP01152,Jatin,Goda,Female,Executive,Analyst,158452,2020-10-26,3.6,Active
+1153,EMP01153,Divya,Bala,Female,Sales,Team Lead,33492,2021-08-15,4.7,Active
+1154,EMP01154,Forum,Pall,Male,Inventory,Senior Executive,111865,2018-05-29,4.0,Active
+1155,EMP01155,Dalaja,Bhardwaj,Female,Human Resources,Assistant Manager,103204,2019-07-31,4.4,Active
+1156,EMP01156,Teerth,Sunder,Female,Inventory,Team Lead,122502,2024-05-01,4.1,Active
+1157,EMP01157,Neha,Dewan,Male,Inventory,Senior Executive,33978,2022-11-11,4.2,Active
+1158,EMP01158,Frado,Kuruvilla,Female,Operations,Team Lead,81418,2019-12-30,3.7,Active
+1159,EMP01159,Jonathan,Chaudry,Female,Executive,Senior Executive,150188,2022-11-20,4.4,Active
+1160,EMP01160,Jeet,Bains,Male,Finance,Manager,171262,2020-08-24,3.2,Active
+1161,EMP01161,Samaksh,Hans,Male,Operations,Analyst,90475,2020-11-07,3.2,Active
+1162,EMP01162,Balhaar,Kala,Male,Inventory,Assistant Manager,120279,2021-10-21,4.3,Active
+1163,EMP01163,Chasmum,Chaudhry,Female,Executive,Team Lead,38576,2019-10-22,4.8,Active
+1164,EMP01164,Zaid,Anne,Male,Inventory,Executive,53050,2023-02-05,4.0,Active
+1165,EMP01165,Vedika,Varty,Male,Operations,Senior Executive,177856,2021-04-28,3.7,Active
+1166,EMP01166,Anthony,Thaman,Male,Finance,Assistant Manager,131338,2025-05-29,4.5,Active
+1167,EMP01167,Siya,Bhatia,Female,Human Resources,Manager,88513,2022-02-03,4.3,Active
+1168,EMP01168,Vasana,Pillai,Female,Sales,Assistant Manager,103891,2020-10-07,4.2,Active
+1169,EMP01169,Yashvi,Manda,Male,Customer Success,Senior Executive,78831,2020-09-03,4.5,Active
+1170,EMP01170,Sachi,Kaul,Male,Executive,Team Lead,143032,2025-06-08,4.5,Active
+1171,EMP01171,Christopher,Gupta,Female,Executive,Team Lead,43090,2022-10-05,3.8,Active
+1172,EMP01172,Arjun,More,Female,Customer Success,Analyst,153389,2023-05-29,4.3,Active
+1173,EMP01173,Jeevika,Loyal,Male,Executive,Executive,55583,2018-11-22,4.3,Active
+1174,EMP01174,Utkarsh,Shenoy,Male,Human Resources,Executive,174521,2020-08-01,4.0,Active
+1175,EMP01175,Diya,Nair,Male,Customer Success,Manager,176226,2019-12-12,3.8,Active
+1176,EMP01176,Samaksh,Shere,Male,Customer Success,Team Lead,147169,2023-04-05,4.4,Active
+1177,EMP01177,Upkaar,Ratti,Female,Customer Success,Senior Executive,79385,2021-03-03,3.3,Active
+1178,EMP01178,Gautam,Mitter,Female,Finance,Team Lead,89238,2024-11-27,3.3,Active
+1179,EMP01179,Anthony,Mody,Female,Finance,Analyst,159116,2023-05-08,3.9,Active
+1180,EMP01180,Jeet,Nanda,Male,Operations,Manager,96126,2022-01-23,3.9,Active
+1181,EMP01181,Ikbal,Modi,Female,Sales,Senior Executive,57957,2025-05-20,4.6,Active
+1182,EMP01182,Girish,Seth,Female,Finance,Executive,56163,2021-02-28,4.1,Active
+1183,EMP01183,Vanya,Virk,Female,Sales,Senior Executive,129211,2020-02-16,4.1,Active
+1184,EMP01184,Rushil,Ganesh,Female,Customer Success,Team Lead,158237,2024-01-30,4.7,Active
+1185,EMP01185,Gautam,Sengupta,Female,Finance,Executive,104805,2023-03-08,3.7,Active
+1186,EMP01186,Vasana,Nagi,Male,Human Resources,Assistant Manager,161850,2024-08-30,3.6,Active
+1187,EMP01187,Rehaan,Rau,Female,Sales,Manager,94078,2024-08-12,3.4,Active
+1188,EMP01188,Kai,Gupta,Female,Finance,Senior Executive,44305,2019-09-08,5.0,Active
+1189,EMP01189,Ojas,Rajagopal,Female,Human Resources,Manager,51289,2022-09-16,4.4,Active
+1190,EMP01190,Ria,Bhalla,Female,Inventory,Analyst,137874,2022-12-29,4.3,Active
+1191,EMP01191,Ijaya,Swamy,Male,Inventory,Team Lead,165470,2022-11-15,3.4,Active
+1192,EMP01192,Avi,Sani,Female,Customer Success,Executive,88936,2024-06-09,3.7,Active
+1193,EMP01193,Yachana,Sant,Female,Executive,Assistant Manager,115990,2024-07-27,3.3,Active
+1194,EMP01194,Harini,Master,Male,Sales,Assistant Manager,176872,2021-10-05,4.5,Active
+1195,EMP01195,Raagini,Sur,Male,Finance,Assistant Manager,117081,2025-01-25,3.1,Active
+1196,EMP01196,Max,Kothari,Female,Operations,Senior Executive,159585,2023-06-20,4.1,Active
+1197,EMP01197,Oscar,Borah,Male,Operations,Assistant Manager,81564,2023-09-01,4.8,Active
+1198,EMP01198,Vivaan,Nair,Female,Executive,Analyst,106561,2024-04-23,4.9,Active
+1199,EMP01199,Sathvik,Iyer,Female,Customer Success,Manager,179472,2018-12-18,4.4,Active
+1200,EMP01200,Raghav,Golla,Male,Executive,Senior Executive,35328,2018-06-30,4.1,Active
+1201,EMP01201,Advik,Sharma,Male,Sales,Executive,55537,2020-11-12,3.4,Active
+1202,EMP01202,Tarak,Venkatesh,Female,Customer Success,Manager,45127,2022-06-07,3.4,Active
+1203,EMP01203,Anirudh,Bhardwaj,Male,Human Resources,Manager,114767,2024-07-28,3.7,Active
+1204,EMP01204,Chandani,Peri,Female,Executive,Team Lead,41205,2024-05-03,4.4,Active
+1205,EMP01205,Shravya,Ray,Female,Sales,Assistant Manager,33675,2025-06-11,4.0,Active
+1206,EMP01206,Manthan,Maharaj,Male,Customer Success,Analyst,122546,2023-10-10,4.4,Active
+1207,EMP01207,Jason,Chhabra,Male,Human Resources,Senior Executive,75742,2023-06-05,4.7,Active
+1208,EMP01208,Krish,Gola,Female,Customer Success,Assistant Manager,133305,2022-10-01,3.7,Active
+1209,EMP01209,Mugdha,Rege,Male,Inventory,Analyst,165338,2020-03-23,4.7,Active
+1210,EMP01210,Fitan,Chauhan,Female,Sales,Manager,62583,2024-07-29,3.9,Active
+1211,EMP01211,Harinakshi,Dubey,Female,Sales,Senior Executive,86922,2020-11-14,3.4,Active
+1212,EMP01212,Indira,Panchal,Male,Human Resources,Senior Executive,143251,2023-03-13,3.7,Active
+1213,EMP01213,Faris,Khalsa,Female,Customer Success,Manager,160470,2022-12-25,3.4,Active
+1214,EMP01214,Jasmit,Dugar,Male,Operations,Analyst,169469,2023-05-29,3.6,Active
+1215,EMP01215,Chakradhar,Krishna,Male,Customer Success,Executive,32378,2021-05-11,4.4,Active
+1216,EMP01216,Sudiksha,Parikh,Female,Inventory,Executive,97308,2018-01-05,3.9,Active
+1217,EMP01217,Bhavani,Talwar,Female,Sales,Assistant Manager,77796,2023-09-20,3.1,Active
+1218,EMP01218,Siddharth,Batta,Female,Sales,Assistant Manager,39235,2023-05-26,4.7,Active
+1219,EMP01219,Simon,Sagar,Female,Operations,Assistant Manager,138082,2024-10-10,4.5,Active
+1220,EMP01220,Varenya,Mangal,Female,Operations,Senior Executive,53619,2023-02-25,3.2,Active
+1221,EMP01221,Zaid,Rao,Male,Human Resources,Senior Executive,126535,2022-05-17,3.8,Active
+1222,EMP01222,Vanya,Parmer,Male,Executive,Assistant Manager,43216,2020-06-12,3.3,Active
+1223,EMP01223,Suhani,Mann,Male,Operations,Team Lead,127442,2019-08-15,4.8,Active
+1224,EMP01224,Rushil,Raja,Female,Inventory,Manager,129551,2023-06-29,3.4,Active
+1225,EMP01225,Meera,Sharaf,Male,Operations,Team Lead,54541,2018-08-15,4.3,Active
+1226,EMP01226,Ansh,Comar,Male,Inventory,Assistant Manager,88719,2025-04-26,4.2,Active
+1227,EMP01227,Jeremiah,Naik,Female,Executive,Manager,100262,2022-08-28,4.5,Active
+1228,EMP01228,Wriddhish,Chatterjee,Male,Finance,Assistant Manager,129320,2018-12-28,3.5,Active
+1229,EMP01229,Abha,Sem,Male,Customer Success,Manager,92006,2019-03-16,4.5,Active
+1230,EMP01230,Pratyush,Roy,Female,Finance,Manager,117489,2022-06-04,4.4,Active
+1231,EMP01231,George,Bhatia,Female,Finance,Team Lead,40026,2024-07-16,3.6,Active
+1232,EMP01232,Dakshesh,Kumar,Female,Operations,Manager,87071,2018-03-09,3.1,Active
+1233,EMP01233,Girindra,Kale,Female,Finance,Manager,68035,2019-04-29,4.6,Active
+1234,EMP01234,Maya,Mitra,Male,Human Resources,Assistant Manager,50242,2022-05-12,3.5,Active
+1235,EMP01235,Ucchal,Narayan,Female,Inventory,Manager,44541,2021-05-15,4.7,Active
+1236,EMP01236,Karan,Dewan,Male,Sales,Senior Executive,125406,2020-03-11,4.7,Active
+1237,EMP01237,Vrinda,Pingle,Female,Customer Success,Assistant Manager,94576,2024-10-11,3.8,Active
+1238,EMP01238,Warinder,Sant,Male,Operations,Assistant Manager,72778,2024-09-05,3.6,Active
+1239,EMP01239,Amruta,Arora,Female,Operations,Manager,152896,2018-09-08,3.7,Active
+1240,EMP01240,Indira,Saraf,Female,Inventory,Team Lead,39681,2023-04-27,3.2,Active
+1241,EMP01241,Yochana,Parmar,Male,Customer Success,Team Lead,130710,2024-10-30,4.5,Active
+1242,EMP01242,Harita,Talwar,Male,Human Resources,Analyst,173941,2020-01-20,4.9,Active
+1243,EMP01243,Chaaya,Hora,Female,Sales,Executive,63368,2024-06-08,3.5,Active
+1244,EMP01244,Hredhaan,Palla,Male,Finance,Senior Executive,132523,2023-09-18,4.1,Active
+1245,EMP01245,Banjeet,Kaur,Female,Executive,Analyst,140282,2018-03-22,3.3,Active
+1246,EMP01246,Brinda,Menon,Male,Operations,Team Lead,170442,2021-03-22,3.2,Active
+1247,EMP01247,Gaurika,Bahri,Female,Operations,Executive,65496,2024-10-24,5.0,Active
+1248,EMP01248,Urvi,Subramanian,Female,Finance,Assistant Manager,128149,2018-09-16,4.4,Active
+1249,EMP01249,Mekhala,Issac,Female,Executive,Manager,52275,2023-04-22,3.9,Active
+1250,EMP01250,Udyati,Virk,Female,Human Resources,Team Lead,71028,2019-09-28,3.4,Active
+1251,EMP01251,Lopa,Barad,Female,Human Resources,Senior Executive,173339,2021-08-16,4.1,Active
+1252,EMP01252,Ethan,Thakkar,Male,Executive,Manager,81107,2018-01-24,4.6,Active
+1253,EMP01253,Arya,Upadhyay,Male,Executive,Senior Executive,173376,2019-12-28,4.2,Active
+1254,EMP01254,Yachana,Ravi,Male,Executive,Senior Executive,123536,2019-08-12,4.1,Active
+1255,EMP01255,Hredhaan,Agarwal,Female,Inventory,Team Lead,160509,2019-03-02,3.7,Active
+1256,EMP01256,Anvi,Seth,Male,Human Resources,Team Lead,137463,2021-05-15,4.0,Active
+1257,EMP01257,Jonathan,Varughese,Male,Operations,Team Lead,111212,2023-08-06,3.5,Active
+1258,EMP01258,Lekha,Anne,Female,Customer Success,Analyst,114137,2018-05-19,3.9,Active
+1259,EMP01259,Abeer,Bera,Male,Inventory,Senior Executive,56924,2018-02-10,4.8,Active
+1260,EMP01260,Brijesh,Venkatesh,Male,Inventory,Analyst,42918,2023-11-26,4.1,Active
+1261,EMP01261,Radha,Kala,Female,Human Resources,Manager,111395,2021-12-07,4.5,Active
+1262,EMP01262,Mohini,Kar,Female,Inventory,Executive,33139,2021-08-03,4.1,Active
+1263,EMP01263,Ira,Sabharwal,Male,Sales,Team Lead,175767,2022-09-19,4.0,Active
+1264,EMP01264,Chaitanya,Hayre,Female,Executive,Analyst,96489,2023-08-09,3.9,Active
+1265,EMP01265,Jasmit,Pall,Male,Operations,Team Lead,173668,2022-10-15,3.8,Active
+1266,EMP01266,Chakradhar,Nadig,Female,Executive,Assistant Manager,107510,2022-05-11,4.5,Active
+1267,EMP01267,Kiaan,Patla,Male,Finance,Senior Executive,108734,2022-12-25,3.9,Active
+1268,EMP01268,Ekbal,Dutt,Female,Finance,Senior Executive,155701,2024-06-22,4.8,Active
+1269,EMP01269,Qadim,Kala,Male,Finance,Assistant Manager,142827,2019-11-29,4.0,Active
+1270,EMP01270,Nitara,Seth,Male,Human Resources,Executive,77531,2020-06-14,4.0,Active
+1271,EMP01271,Chanchal,Gala,Male,Inventory,Assistant Manager,160740,2020-09-30,3.6,Active
+1272,EMP01272,Neha,Varty,Female,Sales,Analyst,73146,2019-04-18,4.2,Active
+1273,EMP01273,Sanya,Nair,Male,Human Resources,Assistant Manager,31023,2020-10-31,3.9,Active
+1274,EMP01274,Ranveer,Randhawa,Female,Sales,Team Lead,155357,2025-03-12,4.1,Active
+1275,EMP01275,Chaitanya,Thaman,Male,Inventory,Executive,100695,2021-12-26,4.9,Active
+1276,EMP01276,David,Merchant,Female,Operations,Senior Executive,137397,2022-03-27,3.0,Active
+1277,EMP01277,Zansi,Chopra,Female,Inventory,Executive,175922,2019-01-17,3.9,Active
+1278,EMP01278,Ekanta,Saran,Female,Operations,Assistant Manager,90777,2022-05-12,3.9,Active
+1279,EMP01279,Zarna,Goel,Male,Inventory,Manager,168600,2023-11-30,3.7,Active
+1280,EMP01280,Devansh,Rattan,Female,Executive,Analyst,162635,2024-09-05,4.4,Active
+1281,EMP01281,Mugdha,Varkey,Female,Customer Success,Analyst,148668,2019-04-23,3.5,Active
+1282,EMP01282,Dalaja,Dara,Female,Human Resources,Analyst,132315,2018-09-22,4.8,Active
+1283,EMP01283,Zaid,Ben,Male,Executive,Team Lead,113920,2020-01-12,3.7,Active
+1284,EMP01284,Arunima,Batra,Female,Operations,Manager,156713,2021-02-11,3.5,Active
+1285,EMP01285,Diya,Om,Male,Sales,Senior Executive,88264,2023-09-11,3.5,Active
+1286,EMP01286,Jyoti,Sarma,Female,Operations,Analyst,130529,2018-10-25,4.6,Active
+1287,EMP01287,Gagan,Karpe,Male,Inventory,Team Lead,166092,2023-04-06,3.7,Active
+1288,EMP01288,Yash,Palla,Female,Inventory,Assistant Manager,170998,2020-06-23,3.3,Active
+1289,EMP01289,Bahadurjit,Karpe,Male,Executive,Team Lead,40614,2025-03-03,4.6,Active
+1290,EMP01290,Adweta,Madan,Male,Human Resources,Team Lead,33223,2021-08-02,3.6,Active
+1291,EMP01291,Sara,Ganguly,Male,Operations,Senior Executive,129558,2021-08-12,4.1,Active
+1292,EMP01292,Rachana,Gaba,Female,Sales,Analyst,178707,2018-10-03,4.1,Active
+1293,EMP01293,Maanas,Kadakia,Female,Human Resources,Senior Executive,106139,2022-08-02,3.3,Active
+1294,EMP01294,Lucky,Gour,Female,Sales,Senior Executive,79399,2024-11-03,3.5,Active
+1295,EMP01295,Ekanta,Shukla,Male,Executive,Manager,118141,2020-08-27,3.4,Active
+1296,EMP01296,Inaya,Lanka,Male,Customer Success,Analyst,153811,2021-07-09,4.9,Active
+1297,EMP01297,Indira,Chaudhuri,Male,Inventory,Manager,71007,2023-08-26,3.4,Active
+1298,EMP01298,Vinaya,Setty,Male,Inventory,Manager,30024,2023-11-22,4.0,Active
+1299,EMP01299,Gavin,Mutti,Female,Executive,Assistant Manager,115253,2025-02-05,3.9,Active
+1300,EMP01300,Prisha,Hari,Male,Executive,Assistant Manager,154804,2020-02-19,3.9,Active
+1301,EMP01301,Kritika,Barman,Female,Finance,Executive,152909,2023-02-10,3.4,Active
+1302,EMP01302,Chandran,Dalal,Male,Executive,Manager,130878,2022-08-15,3.1,Active
+1303,EMP01303,Ekantika,Hora,Female,Customer Success,Team Lead,160702,2023-08-24,4.6,Active
+1304,EMP01304,Raksha,Majumdar,Female,Sales,Executive,106634,2021-02-10,5.0,Active
+1305,EMP01305,Rushil,Sawhney,Male,Operations,Assistant Manager,66830,2024-09-26,3.8,Active
+1306,EMP01306,Darika,Bahl,Male,Customer Success,Executive,34513,2022-12-14,4.2,Active
+1307,EMP01307,Anirudh,Iyengar,Male,Customer Success,Senior Executive,136105,2021-12-27,3.3,Active
+1308,EMP01308,Irya,Misra,Male,Human Resources,Analyst,131138,2020-08-31,3.0,Active
+1309,EMP01309,Ikshita,Manne,Female,Customer Success,Executive,122072,2022-10-09,4.0,Active
+1310,EMP01310,Saumya,Datta,Male,Operations,Manager,113751,2020-04-12,4.2,Active
+1311,EMP01311,Yasti,Dewan,Female,Finance,Analyst,112767,2024-03-17,3.2,Active
+1312,EMP01312,Yash,Prakash,Female,Customer Success,Executive,162650,2023-08-14,3.6,Active
+1313,EMP01313,Omkaar,Shere,Female,Human Resources,Assistant Manager,112686,2020-04-01,4.4,Active
+1314,EMP01314,Yuvraj,Dhingra,Male,Human Resources,Senior Executive,132729,2021-10-19,4.2,Active
+1315,EMP01315,Leela,Pant,Female,Finance,Manager,166727,2020-06-07,4.7,Active
+1316,EMP01316,Janaki,Golla,Female,Sales,Manager,36300,2021-12-01,3.2,Active
+1317,EMP01317,Rushil,Jayaraman,Male,Executive,Executive,137150,2024-10-18,3.8,Active
+1318,EMP01318,Robert,Saha,Male,Sales,Senior Executive,170176,2019-03-14,3.6,Active
+1319,EMP01319,Umang,Shankar,Male,Inventory,Manager,37364,2020-01-21,4.0,Active
+1320,EMP01320,Sai,Nazareth,Female,Finance,Manager,179202,2024-03-30,4.5,Active
+1321,EMP01321,Ira,Comar,Male,Human Resources,Assistant Manager,74734,2021-06-24,3.2,Active
+1322,EMP01322,Gunbir,Patel,Female,Sales,Manager,93264,2018-01-11,4.7,Active
+1323,EMP01323,Darika,Gulati,Female,Customer Success,Senior Executive,178467,2018-05-25,4.7,Active
+1324,EMP01324,William,Kaul,Female,Inventory,Senior Executive,38739,2022-07-30,4.1,Active
+1325,EMP01325,Yoshita,Ramanathan,Male,Executive,Manager,165237,2019-05-22,3.8,Active
+1326,EMP01326,Siya,Sama,Male,Finance,Team Lead,133459,2022-10-10,3.7,Active
+1327,EMP01327,Hritik,Bath,Female,Sales,Manager,154466,2023-05-24,3.7,Active
+1328,EMP01328,Zehaan,Gaba,Female,Inventory,Analyst,147677,2020-09-24,4.5,Active
+1329,EMP01329,Darsh,Modi,Female,Human Resources,Executive,30787,2021-07-28,4.9,Active
+1330,EMP01330,Ladli,Issac,Female,Operations,Assistant Manager,64298,2021-12-20,5.0,Active
+1331,EMP01331,Jyoti,Kuruvilla,Female,Sales,Senior Executive,116038,2023-12-24,4.3,Active
+1332,EMP01332,Upkaar,Sodhi,Male,Sales,Assistant Manager,171709,2021-08-04,4.6,Active
+1333,EMP01333,Qushi,Aurora,Female,Finance,Senior Executive,119813,2023-06-08,4.0,Active
+1334,EMP01334,Lopa,Borra,Female,Executive,Manager,69053,2018-07-10,4.1,Active
+1335,EMP01335,Niharika,Raman,Male,Human Resources,Executive,34303,2021-03-18,3.2,Active
+1336,EMP01336,Teerth,De,Male,Executive,Manager,109423,2024-07-03,3.5,Active
+1337,EMP01337,Vansha,Dhawan,Female,Operations,Executive,167100,2019-05-02,3.9,Active
+1338,EMP01338,Frado,Kanda,Male,Sales,Analyst,126134,2025-01-23,3.8,Active
+1339,EMP01339,Jack,Patla,Female,Sales,Senior Executive,104588,2018-03-10,4.4,Active
+1340,EMP01340,Vincent,Chad,Female,Customer Success,Assistant Manager,123400,2018-07-04,3.1,Active
+1341,EMP01341,Pallavi,Dixit,Female,Human Resources,Team Lead,108871,2018-05-19,4.9,Active
+1342,EMP01342,Oliver,Chaudry,Male,Finance,Assistant Manager,155188,2018-04-05,3.8,Active
+1343,EMP01343,Lavanya,Khosla,Male,Customer Success,Manager,111308,2024-10-22,4.6,Active
+1344,EMP01344,Lohit,Mital,Male,Human Resources,Manager,121300,2025-04-14,4.6,Active
+1345,EMP01345,Aachal,Mane,Male,Customer Success,Senior Executive,133216,2020-05-14,4.1,Active
+1346,EMP01346,Bina,Misra,Female,Human Resources,Manager,66727,2019-11-06,3.6,Active
+1347,EMP01347,Krishna,Minhas,Female,Executive,Team Lead,55501,2023-06-08,3.1,Active
+1348,EMP01348,Yachana,Upadhyay,Male,Finance,Analyst,46940,2021-04-30,4.7,Active
+1349,EMP01349,Jeet,Jain,Male,Human Resources,Analyst,136685,2022-07-03,4.4,Active
+1350,EMP01350,Kashish,Vala,Male,Executive,Executive,39139,2020-11-30,3.7,Active
+1351,EMP01351,Xalak,Mitra,Male,Human Resources,Assistant Manager,174215,2024-02-06,4.6,Active
+1352,EMP01352,Thomas,Gade,Female,Operations,Assistant Manager,73441,2021-07-19,3.2,Active
+1353,EMP01353,Ishita,Mandal,Male,Customer Success,Team Lead,128691,2019-03-25,4.5,Active
+1354,EMP01354,Parth,Sastry,Male,Inventory,Team Lead,161586,2023-01-09,3.4,Active
+1355,EMP01355,Riya,Sankaran,Female,Executive,Executive,161356,2019-04-19,4.8,Active
+1356,EMP01356,Bimala,Dhillon,Female,Inventory,Team Lead,56908,2020-07-01,4.8,Active
+1357,EMP01357,Tanay,Padmanabhan,Male,Executive,Assistant Manager,173018,2021-04-19,3.8,Active
+1358,EMP01358,Dayamai,Rege,Male,Customer Success,Senior Executive,174052,2019-01-28,3.7,Active
+1359,EMP01359,Radhika,Verma,Male,Operations,Analyst,115331,2020-12-05,4.9,Active
+1360,EMP01360,Tanveer,Bajwa,Female,Finance,Analyst,145131,2020-08-06,3.2,Active
+1361,EMP01361,Nisha,Atwal,Female,Finance,Manager,58312,2019-06-06,3.9,Active
+1362,EMP01362,Aashi,Tiwari,Female,Operations,Senior Executive,72414,2024-07-20,3.7,Active
+1363,EMP01363,Ladli,Dutt,Female,Executive,Assistant Manager,111023,2023-06-24,3.6,Active
+1364,EMP01364,Sanya,Padmanabhan,Male,Inventory,Executive,177867,2025-04-06,4.0,Active
+1365,EMP01365,Anvi,Dani,Female,Sales,Manager,90696,2025-04-24,3.4,Active
+1366,EMP01366,Upasna,Sagar,Female,Executive,Manager,54654,2022-10-04,3.1,Active
+1367,EMP01367,Jacob,Maharaj,Female,Finance,Manager,51623,2020-12-21,4.7,Active
+1368,EMP01368,Kevin,Sane,Female,Operations,Executive,139416,2021-09-25,3.1,Active
+1369,EMP01369,Yuvraj,Ravel,Female,Human Resources,Executive,126987,2020-01-30,3.9,Active
+1370,EMP01370,Aahana,Shanker,Female,Human Resources,Assistant Manager,161131,2025-02-05,3.3,Active
+1371,EMP01371,Chavvi,Bali,Female,Customer Success,Team Lead,104922,2022-02-20,3.5,Active
+1372,EMP01372,Aryan,Gole,Male,Executive,Senior Executive,151348,2024-04-03,3.1,Active
+1373,EMP01373,Vritti,Sarraf,Female,Executive,Manager,65399,2018-03-27,4.2,Active
+1374,EMP01374,Chandran,Ravel,Male,Operations,Senior Executive,132806,2021-08-25,4.5,Active
+1375,EMP01375,Chatura,Sahota,Female,Finance,Manager,139286,2018-01-10,4.4,Active
+1376,EMP01376,Ayaan,Dayal,Female,Human Resources,Assistant Manager,61736,2021-06-27,3.9,Active
+1377,EMP01377,Rudra,Kibe,Female,Sales,Senior Executive,144119,2019-05-23,3.4,Active
+1378,EMP01378,Hamsini,Panchal,Male,Human Resources,Senior Executive,115340,2021-12-17,3.7,Active
+1379,EMP01379,Chaaya,Parmer,Male,Inventory,Senior Executive,67585,2022-10-29,4.4,Active
+1380,EMP01380,Nikita,Mallick,Male,Finance,Team Lead,97064,2019-05-19,4.7,Active
+1381,EMP01381,Chakradhar,Randhawa,Female,Human Resources,Executive,32331,2024-06-15,4.3,Active
+1382,EMP01382,Chandani,Joshi,Female,Finance,Assistant Manager,124903,2019-08-03,4.7,Active
+1383,EMP01383,Yashica,Atwal,Female,Sales,Analyst,135372,2024-01-26,4.0,Active
+1384,EMP01384,Rachita,Dara,Male,Inventory,Analyst,167780,2019-12-06,4.4,Active
+1385,EMP01385,Forum,Ganesh,Female,Finance,Manager,48827,2019-09-12,3.8,Active
+1386,EMP01386,Jagrati,Pau,Male,Human Resources,Executive,78321,2025-05-13,4.2,Active
+1387,EMP01387,Rayaan,Bhardwaj,Female,Inventory,Executive,95072,2019-09-13,3.8,Active
+1388,EMP01388,Oviya,Dixit,Male,Operations,Senior Executive,93921,2019-09-26,4.8,Active
+1389,EMP01389,Vihaan,Char,Male,Operations,Manager,142602,2022-12-04,3.6,Active
+1390,EMP01390,Ati,Raghavan,Female,Inventory,Team Lead,62406,2024-07-06,4.3,Active
+1391,EMP01391,Libni,Rajan,Female,Executive,Manager,170883,2023-01-03,4.3,Active
+1392,EMP01392,Girish,Warrior,Female,Executive,Analyst,69596,2024-06-13,3.6,Active
+1393,EMP01393,Reyansh,Doshi,Male,Executive,Executive,82757,2022-09-05,4.0,Active
+1394,EMP01394,Brinda,Deol,Female,Finance,Assistant Manager,135719,2022-08-02,4.0,Active
+1395,EMP01395,Januja,Devi,Male,Customer Success,Analyst,90269,2022-07-15,4.3,Active
+1396,EMP01396,Unnati,Varghese,Female,Customer Success,Team Lead,84850,2020-02-04,3.1,Active
+1397,EMP01397,Yug,Kala,Male,Operations,Executive,84104,2019-03-16,4.0,Active
+1398,EMP01398,Rajata,Ranganathan,Male,Human Resources,Senior Executive,109274,2018-06-18,4.8,Active
+1399,EMP01399,Aadi,Pandit,Male,Finance,Senior Executive,56688,2025-05-03,3.6,Active
+1400,EMP01400,Yutika,Shanker,Male,Inventory,Executive,57630,2022-06-19,3.8,Active
+1401,EMP01401,Ayushman,Golla,Male,Finance,Senior Executive,140985,2019-07-08,4.1,Active
+1402,EMP01402,Rajeshri,Morar,Male,Executive,Team Lead,88217,2023-08-14,4.1,Active
+1403,EMP01403,Osha,Lal,Female,Finance,Executive,58927,2021-12-19,3.6,Active
+1404,EMP01404,Rachita,Sarma,Male,Inventory,Manager,172652,2019-01-22,3.7,Active
+1405,EMP01405,Megha,Prasad,Male,Human Resources,Executive,113236,2024-07-02,4.6,Active
+1406,EMP01406,Falguni,Keer,Male,Customer Success,Manager,141753,2018-02-20,4.0,Active
+1407,EMP01407,Nidhi,Ramachandran,Male,Finance,Assistant Manager,129629,2021-12-17,3.1,Active
+1408,EMP01408,Dayamai,Yadav,Female,Sales,Senior Executive,137583,2025-04-28,3.3,Active
+1409,EMP01409,Vihaan,Deep,Male,Human Resources,Manager,174754,2025-03-02,4.2,Active
+1410,EMP01410,Ojas,Lall,Male,Human Resources,Executive,174247,2019-08-23,4.7,Active
+1411,EMP01411,Daksh,Joshi,Female,Customer Success,Executive,94150,2021-10-13,3.1,Active
+1412,EMP01412,Adweta,Dayal,Female,Finance,Executive,45819,2023-12-09,3.6,Active
+1413,EMP01413,Alexander,Thaman,Male,Human Resources,Manager,160133,2025-04-22,3.0,Active
+1414,EMP01414,Madhav,Gour,Male,Customer Success,Team Lead,167220,2018-09-21,3.1,Active
+1415,EMP01415,Farhan,Singh,Female,Customer Success,Analyst,78217,2022-09-28,4.1,Active
+1416,EMP01416,Abeer,Suri,Female,Human Resources,Executive,169827,2020-05-28,3.8,Active
+1417,EMP01417,Jairaj,Vig,Male,Executive,Manager,176054,2019-11-03,3.2,Active
+1418,EMP01418,Lakshmi,Date,Male,Operations,Senior Executive,153481,2020-03-13,3.1,Active
+1419,EMP01419,Jhalak,Handa,Female,Sales,Analyst,81821,2024-06-27,3.0,Active
+1420,EMP01420,Fiyaz,Dutt,Male,Inventory,Senior Executive,36859,2018-08-02,3.7,Active
+1421,EMP01421,Ekiya,Thakkar,Female,Finance,Manager,40371,2023-05-30,3.0,Active
+1422,EMP01422,Aarnav,Vig,Male,Customer Success,Analyst,159089,2021-03-15,4.0,Active
+1423,EMP01423,Riya,Lal,Female,Customer Success,Manager,167215,2023-12-29,4.7,Active
+1424,EMP01424,Inaya,Cherian,Male,Sales,Senior Executive,74102,2023-03-07,3.5,Active
+1425,EMP01425,Jonathan,Bawa,Male,Human Resources,Senior Executive,70023,2024-09-07,4.6,Active
+1426,EMP01426,Umang,Jayaraman,Male,Finance,Senior Executive,148885,2019-12-17,4.9,Active
+1427,EMP01427,Vidhi,Kibe,Female,Human Resources,Executive,59395,2021-04-30,4.2,Active
+1428,EMP01428,Vedant,Doctor,Male,Inventory,Assistant Manager,107526,2023-06-28,4.5,Active
+1429,EMP01429,Jeevika,Prakash,Female,Human Resources,Senior Executive,52365,2023-09-04,4.1,Active
+1430,EMP01430,Saksham,Devan,Female,Human Resources,Team Lead,100324,2023-02-05,4.1,Active
+1431,EMP01431,Osha,Bali,Male,Operations,Assistant Manager,75534,2021-01-09,4.5,Active
+1432,EMP01432,Ekansh,Raghavan,Male,Operations,Manager,167164,2020-09-18,4.0,Active
+1433,EMP01433,Yashvi,Hayer,Female,Human Resources,Assistant Manager,125814,2025-04-09,3.0,Active
+1434,EMP01434,Azaan,Badal,Female,Inventory,Senior Executive,171469,2023-07-12,3.7,Active
+1435,EMP01435,Abdul,Borra,Male,Executive,Assistant Manager,161019,2023-03-19,4.9,Active
+1436,EMP01436,Arin,Parmar,Male,Customer Success,Senior Executive,60295,2022-12-23,4.6,Active
+1437,EMP01437,Unnati,Muni,Male,Customer Success,Executive,89512,2022-01-25,5.0,Active
+1438,EMP01438,Anusha,Ram,Male,Human Resources,Senior Executive,84913,2020-08-26,3.2,Active
+1439,EMP01439,Oviya,Dhar,Female,Customer Success,Manager,140237,2020-12-19,3.0,Active
+1440,EMP01440,Samuel,Mahal,Male,Sales,Analyst,136353,2018-05-07,3.2,Active
+1441,EMP01441,Rishi,De,Male,Finance,Analyst,78651,2018-01-30,4.7,Active
+1442,EMP01442,Wazir,Sarma,Female,Finance,Senior Executive,130458,2018-08-12,4.4,Active
+1443,EMP01443,Oscar,Mistry,Male,Sales,Manager,102437,2019-06-19,4.5,Active
+1444,EMP01444,Gunbir,Kothari,Female,Executive,Senior Executive,90582,2019-04-25,3.8,Active
+1445,EMP01445,Ishani,Ravel,Female,Sales,Team Lead,70937,2020-02-19,3.2,Active
+1446,EMP01446,Omya,Dhar,Male,Operations,Executive,147670,2019-05-11,4.2,Active
+1447,EMP01447,Nisha,Bhandari,Female,Human Resources,Manager,95548,2018-07-09,3.7,Active
+1448,EMP01448,Qadim,Bhagat,Male,Inventory,Assistant Manager,124890,2018-04-29,4.1,Active
+1449,EMP01449,Azaan,Samra,Male,Sales,Analyst,138283,2022-12-12,4.6,Active
+1450,EMP01450,Tripti,Subramanian,Male,Customer Success,Analyst,71234,2022-09-05,5.0,Active
+1451,EMP01451,Gunbir,Grewal,Female,Inventory,Analyst,52813,2023-04-17,4.6,Active
+1452,EMP01452,Teerth,Behl,Male,Human Resources,Senior Executive,99136,2019-03-25,3.5,Active
+1453,EMP01453,Yutika,Sridhar,Male,Finance,Assistant Manager,78685,2023-11-30,4.6,Active
+1454,EMP01454,Akshay,Lala,Female,Operations,Executive,44240,2022-06-14,3.8,Active
+1455,EMP01455,Anita,Basak,Female,Sales,Senior Executive,107293,2024-07-08,3.3,Active
+1456,EMP01456,Anya,Bath,Male,Human Resources,Manager,145422,2022-12-23,3.6,Active
+1457,EMP01457,Wahab,Kalita,Female,Inventory,Executive,126261,2023-04-13,3.2,Active
+1458,EMP01458,Tamanna,Barad,Female,Finance,Senior Executive,63686,2023-07-25,4.7,Active
+1459,EMP01459,Jeevika,Sarraf,Female,Customer Success,Assistant Manager,121193,2019-10-31,3.8,Active
+1460,EMP01460,Ria,Tara,Male,Human Resources,Team Lead,151789,2023-11-11,4.2,Active
+1461,EMP01461,Jacob,Viswanathan,Male,Operations,Assistant Manager,175185,2020-10-18,3.2,Active
+1462,EMP01462,Chaaya,Balakrishnan,Male,Human Resources,Executive,54540,2018-10-01,3.5,Active
+1463,EMP01463,Sathvik,Dube,Female,Sales,Senior Executive,106745,2023-08-14,3.6,Active
+1464,EMP01464,Ojas,Jani,Female,Human Resources,Manager,145238,2020-06-07,3.1,Active
+1465,EMP01465,Gunbir,Vig,Male,Operations,Executive,153197,2020-12-16,3.2,Active
+1466,EMP01466,Rajata,Wagle,Male,Customer Success,Manager,135457,2024-09-11,3.6,Active
+1467,EMP01467,Pavani,Lall,Female,Customer Success,Executive,172278,2021-12-12,4.0,Active
+1468,EMP01468,Victor,Khurana,Male,Finance,Analyst,31950,2019-05-16,4.3,Active
+1469,EMP01469,Urishilla,Chad,Male,Operations,Manager,53418,2023-03-06,3.1,Active
+1470,EMP01470,Rudra,Buch,Male,Finance,Assistant Manager,39639,2019-04-10,3.2,Active
+1471,EMP01471,Kamala,Pillay,Male,Operations,Senior Executive,169528,2020-06-26,4.7,Active
+1472,EMP01472,Jai,Dhar,Male,Operations,Senior Executive,37762,2020-09-28,4.9,Active
+1473,EMP01473,Vedhika,Mukhopadhyay,Female,Inventory,Manager,123757,2022-09-25,3.5,Active
+1474,EMP01474,Charan,Bail,Male,Sales,Team Lead,46731,2025-06-19,4.5,Active
+1475,EMP01475,Saksham,Loke,Female,Human Resources,Senior Executive,134545,2018-08-23,4.4,Active
+1476,EMP01476,Aashi,Das,Female,Inventory,Senior Executive,106259,2018-11-04,3.2,Active
+1477,EMP01477,Faris,Sant,Female,Finance,Analyst,75227,2021-05-25,4.9,Active
+1478,EMP01478,Nidra,Rao,Male,Executive,Executive,96447,2023-04-22,3.6,Active
+1479,EMP01479,Azad,Tata,Female,Customer Success,Manager,144425,2019-08-15,3.5,Active
+1480,EMP01480,Yashawini,Barman,Male,Finance,Senior Executive,46370,2025-03-23,3.9,Active
+1481,EMP01481,Omisha,Mishra,Female,Finance,Assistant Manager,49211,2018-11-21,3.8,Active
+1482,EMP01482,Alka,Rout,Female,Operations,Executive,88803,2023-10-25,4.6,Active
+1483,EMP01483,David,Kamdar,Female,Sales,Assistant Manager,118588,2024-11-17,3.3,Active
+1484,EMP01484,Yuvraj,Oak,Female,Customer Success,Manager,132474,2021-07-28,3.3,Active
+1485,EMP01485,Harsh,Palla,Female,Human Resources,Manager,97402,2021-08-23,3.4,Active
+1486,EMP01486,Amaira,Rege,Male,Sales,Manager,100867,2024-07-05,4.6,Active
+1487,EMP01487,Oviya,Solanki,Male,Operations,Executive,114824,2025-03-29,4.6,Active
+1488,EMP01488,Harshil,Batta,Male,Sales,Assistant Manager,85887,2023-05-03,5.0,Active
+1489,EMP01489,Abhiram,Upadhyay,Male,Finance,Assistant Manager,106179,2025-03-09,3.9,Active
+1490,EMP01490,Baghyawati,Kunda,Male,Customer Success,Executive,33114,2023-07-27,4.1,Active
+1491,EMP01491,Sudiksha,Comar,Male,Customer Success,Manager,170385,2022-10-21,4.2,Active
+1492,EMP01492,Girindra,Bhatnagar,Female,Operations,Assistant Manager,128498,2018-08-08,3.2,Active
+1493,EMP01493,Utkarsh,Sarma,Male,Sales,Analyst,57912,2021-08-14,4.3,Active
+1494,EMP01494,Advika,Gopal,Female,Customer Success,Analyst,158045,2021-06-09,4.7,Active
+1495,EMP01495,Veda,Sinha,Male,Finance,Analyst,88430,2022-03-01,5.0,Active
+1496,EMP01496,Tristan,Shanker,Female,Finance,Manager,155256,2018-05-22,3.2,Active
+1497,EMP01497,Caleb,Ravel,Female,Inventory,Analyst,70956,2022-01-26,4.7,Active
+1498,EMP01498,Chatura,Chakraborty,Male,Customer Success,Assistant Manager,156795,2021-08-02,3.1,Active
+1499,EMP01499,Jonathan,Koshy,Male,Executive,Team Lead,86168,2023-04-25,3.0,Active
+1500,EMP01500,Logan,Andra,Male,Inventory,Analyst,134288,2024-03-31,4.1,Active
+1501,EMP01501,Chanakya,Kuruvilla,Female,Human Resources,Assistant Manager,34679,2024-12-15,3.7,Active
+1502,EMP01502,Omaja,Grover,Male,Human Resources,Assistant Manager,122879,2018-05-14,4.2,Active
+1503,EMP01503,Patrick,Tara,Female,Inventory,Senior Executive,161646,2018-10-04,4.1,Active
+1504,EMP01504,Aradhana,Venkatesh,Female,Customer Success,Senior Executive,132385,2022-06-20,4.0,Active
+1505,EMP01505,Dayita,Tata,Female,Finance,Assistant Manager,75065,2021-03-25,3.2,Active
+1506,EMP01506,Devika,Shan,Male,Sales,Team Lead,120788,2021-01-08,3.1,Active
+1507,EMP01507,Forum,Babu,Female,Finance,Assistant Manager,157917,2023-10-02,4.3,Active
+1508,EMP01508,Simon,Agrawal,Male,Inventory,Team Lead,44136,2022-06-01,4.0,Active
+1509,EMP01509,Reva,Desai,Male,Sales,Executive,69345,2025-06-28,4.6,Active
+1510,EMP01510,Sanya,Manne,Female,Inventory,Analyst,66580,2024-03-20,3.3,Active
+1511,EMP01511,Lakshmi,Bhat,Male,Finance,Senior Executive,51315,2020-01-30,3.7,Active
+1512,EMP01512,Eta,Yadav,Female,Operations,Senior Executive,120758,2018-01-10,4.6,Active
+1513,EMP01513,Daniel,Kala,Male,Inventory,Analyst,142438,2019-05-20,3.8,Active
+1514,EMP01514,Janani,Bala,Female,Customer Success,Executive,98473,2019-01-12,3.4,Active
+1515,EMP01515,Samar,Gola,Male,Operations,Assistant Manager,159646,2020-02-12,3.3,Active
+1516,EMP01516,Yash,Kant,Female,Customer Success,Manager,90954,2023-07-01,4.7,Active
+1517,EMP01517,Chakrika,Sandhu,Male,Executive,Executive,111138,2019-09-11,3.0,Active
+1518,EMP01518,Garima,Mangat,Female,Finance,Executive,145156,2024-08-29,3.5,Active
+1519,EMP01519,Urishilla,Atwal,Female,Human Resources,Executive,126892,2025-04-14,4.0,Active
+1520,EMP01520,Eesha,Bobal,Male,Inventory,Assistant Manager,105363,2019-08-11,3.7,Active
+1521,EMP01521,Yadavi,Kashyap,Female,Inventory,Senior Executive,116509,2020-07-15,4.9,Active
+1522,EMP01522,Yashvi,Seth,Male,Executive,Team Lead,125456,2022-01-10,4.4,Active
+1523,EMP01523,Mohini,Borra,Female,Operations,Team Lead,88651,2022-06-08,3.6,Active
+1524,EMP01524,Yutika,D’Alia,Male,Operations,Senior Executive,150673,2024-07-24,3.7,Active
+1525,EMP01525,Amol,Khare,Male,Finance,Team Lead,56095,2022-09-26,4.9,Active
+1526,EMP01526,Ira,Parekh,Male,Finance,Team Lead,68951,2018-12-15,3.5,Active
+1527,EMP01527,Ishaan,Menon,Male,Sales,Assistant Manager,49307,2020-09-07,4.3,Active
+1528,EMP01528,Turvi,Biswas,Male,Sales,Executive,154629,2021-09-06,3.4,Active
+1529,EMP01529,Isaac,Vora,Male,Finance,Analyst,136169,2024-06-20,3.6,Active
+1530,EMP01530,Upma,Sane,Female,Customer Success,Assistant Manager,57154,2019-11-30,3.4,Active
+1531,EMP01531,Chaaya,Dyal,Male,Finance,Senior Executive,74597,2018-05-17,4.1,Active
+1532,EMP01532,Advay,Sur,Male,Inventory,Analyst,154390,2018-08-31,4.9,Active
+1533,EMP01533,Pranit,Varma,Female,Finance,Team Lead,57479,2020-10-15,4.0,Active
+1534,EMP01534,George,Pal,Female,Inventory,Manager,166099,2020-04-20,4.0,Active
+1535,EMP01535,Mason,Madan,Male,Sales,Senior Executive,59256,2022-10-04,4.6,Active
+1536,EMP01536,Advaith,Basu,Male,Finance,Manager,44177,2023-10-14,3.0,Active
+1537,EMP01537,Alka,Barman,Male,Operations,Executive,127616,2019-03-14,4.2,Active
+1538,EMP01538,Inaya,Dayal,Male,Operations,Team Lead,109061,2021-01-10,4.4,Active
+1539,EMP01539,Zashil,Bail,Male,Inventory,Executive,81732,2022-12-25,4.3,Active
+1540,EMP01540,Gavin,Subramaniam,Female,Customer Success,Senior Executive,172535,2019-05-21,3.2,Active
+1541,EMP01541,Wazir,Bahri,Male,Operations,Executive,95590,2024-06-12,3.5,Active
+1542,EMP01542,Sanaya,Natarajan,Male,Human Resources,Analyst,112092,2021-06-17,3.1,Active
+1543,EMP01543,Aarini,Virk,Female,Sales,Executive,114114,2020-08-10,4.8,Active
+1544,EMP01544,Jagat,Borde,Female,Customer Success,Team Lead,165996,2019-06-18,4.7,Active
+1545,EMP01545,Vansha,Dewan,Female,Inventory,Assistant Manager,56507,2025-06-25,3.2,Active
+1546,EMP01546,Sathvik,Nori,Male,Customer Success,Team Lead,76975,2024-05-01,4.3,Active
+1547,EMP01547,Riya,Walia,Male,Inventory,Analyst,45193,2019-07-13,4.5,Active
+1548,EMP01548,Yashoda,Deol,Female,Operations,Manager,175053,2019-11-11,4.9,Active
+1549,EMP01549,Warjas,Sane,Female,Customer Success,Analyst,87457,2023-03-18,3.1,Active
+1550,EMP01550,Yashawini,Dhar,Female,Operations,Analyst,56296,2021-08-08,4.8,Active
+1551,EMP01551,Odika,Bhakta,Male,Finance,Assistant Manager,38734,2023-01-02,4.5,Active
+1552,EMP01552,Devansh,Mangal,Female,Operations,Manager,159346,2018-09-07,4.3,Active
+1553,EMP01553,Maya,Ramaswamy,Female,Finance,Senior Executive,53753,2019-02-14,4.1,Active
+1554,EMP01554,Nihal,Rai,Male,Customer Success,Manager,54457,2019-03-04,5.0,Active
+1555,EMP01555,Chakradev,Deshpande,Female,Human Resources,Assistant Manager,87728,2018-04-15,4.2,Active
+1556,EMP01556,Oni,Taneja,Female,Finance,Assistant Manager,59907,2020-02-19,3.5,Active
+1557,EMP01557,Lakshit,Parikh,Male,Finance,Manager,159209,2024-12-25,3.2,Active
+1558,EMP01558,Upma,Bajaj,Female,Sales,Senior Executive,157309,2024-06-01,4.3,Active
+1559,EMP01559,Pranit,Sahni,Male,Sales,Manager,55564,2024-01-15,4.2,Active
+1560,EMP01560,Kiaan,Basak,Male,Sales,Analyst,127273,2023-10-21,3.3,Active
+1561,EMP01561,Rajeshri,Mohanty,Female,Finance,Executive,132538,2020-01-18,4.7,Active
+1562,EMP01562,Maya,Bedi,Female,Customer Success,Analyst,63286,2021-05-07,3.9,Active
+1563,EMP01563,Harshil,Sarna,Female,Operations,Senior Executive,68648,2022-01-15,4.8,Active
+1564,EMP01564,Unnati,Bawa,Female,Sales,Manager,116107,2019-07-05,4.2,Active
+1565,EMP01565,Barkha,Sodhi,Male,Human Resources,Assistant Manager,87368,2022-04-25,4.6,Active
+1566,EMP01566,Zarna,Bhattacharyya,Female,Inventory,Assistant Manager,61364,2019-06-14,3.0,Active
+1567,EMP01567,Ekta,Palan,Female,Finance,Assistant Manager,38966,2024-12-20,3.7,Active
+1568,EMP01568,Chasmum,Sama,Male,Executive,Senior Executive,112254,2021-08-07,3.0,Active
+1569,EMP01569,Veda,Bains,Male,Inventory,Team Lead,138635,2024-01-20,4.7,Active
+1570,EMP01570,Hitesh,Goswami,Female,Human Resources,Analyst,144146,2021-08-30,4.9,Active
+1571,EMP01571,Kamala,Tata,Female,Customer Success,Assistant Manager,171198,2018-11-22,4.6,Active
+1572,EMP01572,Anmol,Bail,Female,Human Resources,Analyst,78614,2018-05-18,4.9,Active
+1573,EMP01573,Indali,Solanki,Female,Sales,Assistant Manager,124781,2018-12-14,4.9,Active
+1574,EMP01574,Kala,Andra,Female,Customer Success,Assistant Manager,115414,2022-09-16,4.0,Active
+1575,EMP01575,Simon,Savant,Female,Sales,Team Lead,75688,2018-07-18,3.2,Active
+1576,EMP01576,Prisha,Lad,Female,Customer Success,Manager,112826,2024-09-29,4.5,Active
+1577,EMP01577,Aahana,Trivedi,Male,Sales,Executive,48757,2020-07-06,4.8,Active
+1578,EMP01578,Utkarsh,Som,Male,Human Resources,Executive,121518,2025-01-20,4.1,Active
+1579,EMP01579,Nitara,Chanda,Female,Customer Success,Manager,35008,2024-05-27,3.1,Active
+1580,EMP01580,Bhavini,Dugar,Female,Executive,Analyst,143611,2022-01-11,3.6,Active
+1581,EMP01581,Maya,Thakkar,Female,Sales,Executive,33552,2018-06-14,4.8,Active
+1582,EMP01582,Sachi,Aggarwal,Male,Sales,Analyst,138093,2020-11-09,4.7,Active
+1583,EMP01583,Balhaar,Sunder,Female,Inventory,Manager,130936,2023-12-05,4.6,Active
+1584,EMP01584,Bhavika,Kade,Female,Customer Success,Team Lead,145532,2021-12-08,3.3,Active
+1585,EMP01585,Oscar,Prabhu,Female,Sales,Analyst,174597,2024-07-07,4.2,Active
+1586,EMP01586,Aadi,Dhingra,Female,Operations,Manager,65271,2021-07-19,3.9,Active
+1587,EMP01587,Aayush,Muni,Male,Sales,Senior Executive,169026,2018-06-11,4.4,Active
+1588,EMP01588,Bhavya,Tiwari,Female,Customer Success,Executive,53377,2023-09-09,3.2,Active
+1589,EMP01589,Samuel,Pal,Male,Executive,Manager,122511,2019-12-26,4.4,Active
+1590,EMP01590,Samaksh,Raja,Female,Sales,Team Lead,60802,2022-02-16,4.1,Active
+1591,EMP01591,Balveer,Pillai,Male,Human Resources,Senior Executive,58534,2021-10-17,4.9,Active
+1592,EMP01592,Bhanumati,Das,Female,Executive,Executive,160353,2020-11-17,3.1,Active
+1593,EMP01593,Lajita,Agarwal,Female,Customer Success,Analyst,156098,2023-06-07,4.7,Active
+1594,EMP01594,Kritika,Bhavsar,Female,Finance,Executive,40451,2020-07-25,4.6,Active
+1595,EMP01595,Qarin,Kala,Male,Customer Success,Senior Executive,61887,2024-07-19,3.9,Active
+1596,EMP01596,Abeer,Gokhale,Female,Sales,Senior Executive,124954,2021-06-12,4.9,Active
+1597,EMP01597,Arjun,Wali,Male,Operations,Team Lead,96579,2021-04-13,3.6,Active
+1598,EMP01598,Bhavini,Master,Female,Human Resources,Analyst,162402,2024-10-22,4.8,Active
+1599,EMP01599,Bhavika,Dar,Male,Human Resources,Assistant Manager,110821,2018-12-11,4.9,Active
+1600,EMP01600,Bimala,Bahl,Male,Finance,Team Lead,47645,2018-12-27,4.7,Active
+1601,EMP01601,Champak,Din,Male,Executive,Manager,63291,2021-01-18,4.9,Active
+1602,EMP01602,Anya,Kumer,Female,Executive,Manager,71187,2024-06-26,3.9,Active
+1603,EMP01603,Unni,Setty,Female,Inventory,Executive,99770,2021-05-11,4.9,Active
+1604,EMP01604,Diya,Ramesh,Female,Sales,Executive,111143,2022-04-24,3.7,Active
+1605,EMP01605,Zashil,Lall,Female,Operations,Senior Executive,70545,2025-03-24,4.5,Active
+1606,EMP01606,Vidhi,Prabhakar,Female,Inventory,Executive,154935,2020-09-26,4.0,Active
+1607,EMP01607,Hritik,Borde,Female,Operations,Analyst,179990,2023-04-10,4.9,Active
+1608,EMP01608,Omisha,Setty,Female,Inventory,Executive,114313,2020-10-13,3.5,Active
+1609,EMP01609,Vedant,Upadhyay,Male,Human Resources,Executive,177561,2019-02-13,4.7,Active
+1610,EMP01610,Zinal,Singhal,Female,Sales,Manager,63238,2024-01-14,4.1,Active
+1611,EMP01611,Nicholas,Kadakia,Female,Operations,Manager,149991,2022-11-07,3.9,Active
+1612,EMP01612,Thomas,Parsa,Female,Executive,Executive,51394,2024-08-06,3.2,Active
+1613,EMP01613,Caleb,Tank,Male,Human Resources,Senior Executive,129758,2020-11-02,3.3,Active
+1614,EMP01614,Turvi,Rao,Male,Sales,Manager,144092,2024-07-01,4.0,Active
+1615,EMP01615,Manya,Sharma,Male,Inventory,Analyst,140221,2023-01-07,3.6,Active
+1616,EMP01616,Kashvi,Bhagat,Male,Sales,Assistant Manager,128243,2025-04-27,3.9,Active
+1617,EMP01617,Devansh,Taneja,Male,Executive,Assistant Manager,138965,2023-06-10,3.1,Active
+1618,EMP01618,Saanvi,Walla,Female,Executive,Analyst,146741,2023-05-10,4.9,Active
+1619,EMP01619,Hemal,Garg,Male,Human Resources,Executive,123175,2023-01-19,4.7,Active
+1620,EMP01620,Christopher,Bandi,Female,Sales,Senior Executive,125732,2018-03-16,4.4,Active
+1621,EMP01621,Nathan,Devan,Female,Human Resources,Analyst,97121,2024-12-05,3.6,Active
+1622,EMP01622,Tarak,Goyal,Female,Operations,Analyst,64651,2022-02-25,3.8,Active
+1623,EMP01623,Udant,Halder,Male,Operations,Analyst,100022,2024-03-01,3.5,Active
+1624,EMP01624,Veda,Lata,Female,Customer Success,Analyst,154098,2022-05-18,4.9,Active
+1625,EMP01625,Tejas,Tripathi,Female,Finance,Senior Executive,118673,2021-01-17,4.9,Active
+1626,EMP01626,Kabir,Mahajan,Male,Customer Success,Analyst,36916,2024-05-04,4.8,Active
+1627,EMP01627,Bina,Subramanian,Male,Executive,Executive,147785,2019-10-20,3.9,Active
+1628,EMP01628,Deepa,Gala,Female,Finance,Team Lead,67463,2023-04-29,3.8,Active
+1629,EMP01629,Diya,Merchant,Female,Customer Success,Team Lead,175833,2023-08-02,3.1,Active
+1630,EMP01630,Upadhriti,Bath,Female,Executive,Senior Executive,141772,2022-07-10,3.0,Active
+1631,EMP01631,Onkar,Deo,Female,Operations,Team Lead,171638,2018-05-08,4.6,Active
+1632,EMP01632,Balhaar,Mitter,Male,Executive,Manager,144079,2021-06-08,3.5,Active
+1633,EMP01633,Adya,Agarwal,Male,Customer Success,Team Lead,104834,2020-03-16,4.4,Active
+1634,EMP01634,Zashil,Pant,Male,Sales,Manager,134360,2019-02-25,3.9,Active
+1635,EMP01635,Vrishti,Pall,Male,Operations,Manager,152430,2023-11-23,3.5,Active
+1636,EMP01636,Bhanumati,Kant,Female,Operations,Executive,140120,2021-03-25,4.1,Active
+1637,EMP01637,Pranav,Shere,Male,Inventory,Executive,132128,2020-03-01,4.9,Active
+1638,EMP01638,Radhika,Khosla,Female,Inventory,Analyst,35690,2023-04-13,4.6,Active
+1639,EMP01639,Isaac,Pant,Female,Inventory,Senior Executive,120247,2018-05-28,3.2,Active
+1640,EMP01640,Samesh,Aggarwal,Male,Human Resources,Manager,154893,2023-12-12,3.1,Active
+1641,EMP01641,Triveni,Mann,Male,Finance,Executive,155370,2018-07-08,3.0,Active
+1642,EMP01642,Sathvik,Borde,Male,Finance,Senior Executive,110707,2024-07-01,3.0,Active
+1643,EMP01643,Januja,Bhatt,Male,Executive,Manager,108551,2020-08-07,3.4,Active
+1644,EMP01644,Veer,Majumdar,Female,Inventory,Assistant Manager,76029,2021-02-15,4.2,Active
+1645,EMP01645,Lakshit,Srivastava,Male,Inventory,Executive,53668,2022-04-03,4.3,Active
+1646,EMP01646,Owen,Mani,Female,Inventory,Team Lead,60886,2019-04-29,4.3,Active
+1647,EMP01647,Siya,Handa,Male,Inventory,Analyst,140239,2020-12-12,3.1,Active
+1648,EMP01648,Shravya,Tandon,Male,Sales,Team Lead,70813,2024-03-16,3.9,Active
+1649,EMP01649,Ganga,Hayre,Male,Human Resources,Manager,123645,2024-08-14,3.7,Active
+1650,EMP01650,Prisha,Uppal,Male,Customer Success,Senior Executive,37207,2020-02-12,4.7,Active
+1651,EMP01651,Aahana,Jain,Male,Human Resources,Team Lead,130865,2022-11-06,4.4,Active
+1652,EMP01652,Hemani,Reddy,Female,Finance,Senior Executive,106043,2020-02-13,4.1,Active
+1653,EMP01653,Chaitanya,Uppal,Male,Customer Success,Manager,123650,2021-03-21,4.8,Active
+1654,EMP01654,Nimrat,Tara,Female,Operations,Senior Executive,154267,2023-05-18,3.5,Active
+1655,EMP01655,Naveen,Bhattacharyya,Female,Sales,Assistant Manager,93868,2018-02-09,4.6,Active
+1656,EMP01656,Azad,Narula,Male,Executive,Manager,154491,2019-07-14,4.4,Active
+1657,EMP01657,Dipta,Korpal,Male,Operations,Team Lead,83568,2018-11-02,3.8,Active
+1658,EMP01658,Yauvani,Rout,Female,Sales,Analyst,122405,2020-03-21,3.3,Active
+1659,EMP01659,Balhaar,Atwal,Female,Inventory,Team Lead,68191,2021-02-12,4.7,Active
+1660,EMP01660,Hemani,Verma,Female,Customer Success,Assistant Manager,163962,2020-10-04,4.4,Active
+1661,EMP01661,Janya,Bhasin,Male,Operations,Team Lead,150944,2023-06-20,4.2,Active
+1662,EMP01662,Faqid,Kunda,Male,Customer Success,Team Lead,168018,2024-05-21,4.7,Active
+1663,EMP01663,Kashvi,Shankar,Male,Executive,Senior Executive,168036,2022-11-22,3.9,Active
+1664,EMP01664,Tanveer,Rastogi,Female,Operations,Analyst,160511,2024-01-15,3.8,Active
+1665,EMP01665,Zashil,Loke,Male,Sales,Analyst,34721,2022-12-20,3.8,Active
+1666,EMP01666,Kashvi,Buch,Male,Inventory,Manager,129850,2021-07-08,3.4,Active
+1667,EMP01667,Udyati,Goyal,Female,Sales,Assistant Manager,113032,2023-06-14,3.4,Active
+1668,EMP01668,Charan,Tailor,Male,Finance,Executive,104884,2018-03-24,3.5,Active
+1669,EMP01669,Anthony,Toor,Male,Operations,Executive,178577,2018-10-10,3.3,Active
+1670,EMP01670,Azad,Dixit,Female,Finance,Assistant Manager,95141,2023-02-13,3.1,Active
+1671,EMP01671,Falguni,Char,Male,Operations,Analyst,144767,2023-12-08,4.8,Active
+1672,EMP01672,Baghyawati,Choudhary,Female,Inventory,Manager,88200,2022-01-04,3.6,Active
+1673,EMP01673,Brijesh,Krishnamurthy,Male,Inventory,Senior Executive,127001,2020-05-06,4.8,Active
+1674,EMP01674,Anay,Bhatnagar,Male,Sales,Executive,114751,2023-09-25,3.6,Active
+1675,EMP01675,Yatan,Sha,Female,Operations,Senior Executive,54019,2020-06-15,4.0,Active
+1676,EMP01676,Gaurangi,Sheth,Male,Customer Success,Assistant Manager,47197,2025-06-13,4.4,Active
+1677,EMP01677,Fitan,Anne,Female,Inventory,Senior Executive,54189,2023-01-22,3.7,Active
+1678,EMP01678,Veda,Johal,Male,Executive,Manager,91136,2018-01-28,3.4,Active
+1679,EMP01679,Adweta,Gour,Male,Customer Success,Assistant Manager,146733,2020-05-22,3.9,Active
+1680,EMP01680,Yashodhara,Ratta,Male,Executive,Team Lead,156110,2025-02-08,4.3,Active
+1681,EMP01681,Chaitaly,Sant,Male,Executive,Executive,55613,2025-05-29,4.8,Active
+1682,EMP01682,Charvi,Sunder,Female,Inventory,Senior Executive,138457,2019-10-03,3.2,Active
+1683,EMP01683,Balendra,Pal,Male,Executive,Senior Executive,98439,2018-03-05,5.0,Active
+1684,EMP01684,Chaman,Chahal,Female,Sales,Senior Executive,167420,2022-04-11,3.7,Active
+1685,EMP01685,Vihaan,Krishnan,Female,Operations,Executive,74845,2025-04-17,3.6,Active
+1686,EMP01686,Eshana,Batta,Male,Human Resources,Senior Executive,119493,2024-02-01,4.4,Active
+1687,EMP01687,Baghyawati,Sagar,Female,Executive,Manager,51878,2018-09-20,4.7,Active
+1688,EMP01688,Nandini,Gill,Male,Executive,Executive,109385,2021-10-20,3.1,Active
+1689,EMP01689,Azad,Kar,Female,Customer Success,Senior Executive,48363,2019-04-06,4.1,Active
+1690,EMP01690,Lila,Bedi,Female,Inventory,Assistant Manager,136546,2018-08-27,4.7,Active
+1691,EMP01691,Vyanjana,Swaminathan,Male,Operations,Manager,79949,2021-01-27,4.6,Active
+1692,EMP01692,Chaaya,Sandhu,Female,Operations,Team Lead,144562,2022-09-05,3.1,Active
+1693,EMP01693,Odika,Raghavan,Female,Human Resources,Team Lead,117107,2022-03-21,3.3,Active
+1694,EMP01694,Tristan,Viswanathan,Female,Human Resources,Executive,101660,2019-11-24,3.4,Active
+1695,EMP01695,David,Ramakrishnan,Female,Executive,Analyst,44915,2022-05-04,4.2,Active
+1696,EMP01696,Bina,Sahota,Female,Customer Success,Assistant Manager,161132,2022-08-27,4.5,Active
+1697,EMP01697,Rudra,Subramaniam,Female,Human Resources,Analyst,57759,2023-10-24,3.3,Active
+1698,EMP01698,Nicholas,Subramanian,Female,Sales,Executive,108671,2024-04-19,4.1,Active
+1699,EMP01699,Isha,Mahajan,Male,Operations,Executive,126755,2024-03-28,3.0,Active
+1700,EMP01700,Victor,Bhat,Male,Inventory,Manager,116591,2021-12-21,4.8,Active
+1701,EMP01701,George,Dhar,Male,Inventory,Senior Executive,135249,2023-07-08,4.5,Active
+1702,EMP01702,Saanvi,Pingle,Female,Executive,Analyst,42225,2020-12-11,3.5,Active
+1703,EMP01703,Abdul,Sethi,Female,Sales,Analyst,103136,2019-07-17,4.2,Active
+1704,EMP01704,Mitali,Hans,Female,Executive,Senior Executive,136012,2023-07-16,4.6,Active
+1705,EMP01705,Wriddhish,Ramaswamy,Male,Inventory,Team Lead,45882,2021-11-20,4.7,Active
+1706,EMP01706,Yashica,Golla,Male,Human Resources,Executive,89593,2022-12-01,4.3,Active
+1707,EMP01707,Brinda,Sami,Female,Executive,Senior Executive,137664,2023-09-20,3.5,Active
+1708,EMP01708,Yadavi,Rama,Female,Sales,Analyst,67481,2020-11-09,3.1,Active
+1709,EMP01709,Samaksh,Kakar,Male,Human Resources,Senior Executive,31462,2022-12-29,5.0,Active
+1710,EMP01710,Oliver,Boase,Male,Operations,Assistant Manager,32781,2018-06-30,3.9,Active
+1711,EMP01711,Thomas,Sarin,Male,Human Resources,Senior Executive,141656,2022-01-14,4.2,Active
+1712,EMP01712,Zansi,Jani,Male,Customer Success,Senior Executive,152559,2022-05-23,3.8,Active
+1713,EMP01713,Utkarsh,Lal,Male,Customer Success,Executive,112021,2020-10-27,3.2,Active
+1714,EMP01714,Adya,Johal,Female,Executive,Executive,114527,2018-06-04,3.1,Active
+1715,EMP01715,Leela,Halder,Female,Operations,Executive,51057,2023-02-16,3.7,Active
+1716,EMP01716,Anvi,Pandya,Male,Customer Success,Assistant Manager,170741,2018-01-25,3.0,Active
+1717,EMP01717,Sara,Pillai,Female,Operations,Team Lead,95646,2020-01-04,4.0,Active
+1718,EMP01718,Viraj,Borra,Female,Human Resources,Manager,144504,2019-02-25,4.1,Active
+1719,EMP01719,Teerth,Nazareth,Female,Operations,Manager,41990,2022-11-11,3.9,Active
+1720,EMP01720,Aashi,Thakkar,Male,Customer Success,Executive,71765,2019-12-26,4.1,Active
+1721,EMP01721,Tanvi,Kamdar,Male,Human Resources,Team Lead,60754,2020-11-26,3.4,Active
+1722,EMP01722,Chandran,Kade,Male,Sales,Analyst,71534,2023-01-28,4.9,Active
+1723,EMP01723,Netra,Chopra,Female,Inventory,Manager,170177,2020-06-28,3.4,Active
+1724,EMP01724,Siddharth,Chadha,Female,Human Resources,Assistant Manager,44256,2023-11-16,4.4,Active
+1725,EMP01725,Panini,Dixit,Male,Finance,Assistant Manager,41780,2021-11-15,4.2,Active
+1726,EMP01726,George,Sahota,Female,Executive,Analyst,151981,2025-01-16,4.8,Active
+1727,EMP01727,Chameli,Rege,Female,Inventory,Assistant Manager,169828,2024-01-19,3.1,Active
+1728,EMP01728,Nilima,Garde,Male,Customer Success,Senior Executive,119716,2022-07-17,4.6,Active
+1729,EMP01729,Yashawini,Bumb,Male,Inventory,Senior Executive,138774,2019-01-29,4.5,Active
+1730,EMP01730,Zilmil,Sami,Male,Finance,Analyst,158683,2025-05-19,3.1,Active
+1731,EMP01731,Anya,Lall,Male,Executive,Manager,74145,2018-07-13,4.5,Active
+1732,EMP01732,Yashoda,Rege,Female,Customer Success,Senior Executive,149977,2018-09-13,3.5,Active
+1733,EMP01733,Zaid,Kakar,Female,Human Resources,Team Lead,122207,2024-12-25,3.2,Active
+1734,EMP01734,Krishna,Gola,Male,Operations,Manager,129296,2018-11-11,3.9,Active
+1735,EMP01735,Nimrat,Sura,Female,Finance,Team Lead,136396,2021-11-23,4.1,Active
+1736,EMP01736,Maanav,Nazareth,Female,Executive,Assistant Manager,80557,2022-04-30,4.7,Active
+1737,EMP01737,Lajita,Uppal,Male,Finance,Analyst,93824,2022-03-19,4.0,Active
+1738,EMP01738,Upasna,Viswanathan,Male,Finance,Executive,68842,2019-12-30,3.7,Active
+1739,EMP01739,Lopa,Grewal,Female,Human Resources,Executive,174069,2018-03-22,3.8,Active
+1740,EMP01740,Reva,Natt,Female,Sales,Team Lead,145131,2024-04-09,4.6,Active
+1741,EMP01741,Tanish,Devan,Female,Executive,Senior Executive,176498,2023-08-02,4.8,Active
+1742,EMP01742,Nisha,Choudhury,Male,Customer Success,Analyst,60739,2018-08-18,5.0,Active
+1743,EMP01743,Ekani,Nagi,Male,Operations,Manager,114571,2024-01-21,3.6,Active
+1744,EMP01744,Jackson,Reddy,Female,Finance,Assistant Manager,177735,2020-08-05,4.9,Active
+1745,EMP01745,Geetika,Din,Male,Human Resources,Manager,46247,2020-07-11,4.4,Active
+1746,EMP01746,Odika,Pathak,Female,Executive,Assistant Manager,138550,2018-01-06,4.4,Active
+1747,EMP01747,Ryan,Ramesh,Female,Sales,Manager,102330,2024-05-04,4.7,Active
+1748,EMP01748,Falguni,Gera,Male,Operations,Analyst,31393,2021-03-11,3.6,Active
+1749,EMP01749,Nathan,Krishnamurthy,Male,Customer Success,Analyst,175345,2020-09-20,3.1,Active
+1750,EMP01750,Rohan,Vora,Female,Sales,Senior Executive,158076,2025-05-06,4.1,Active
+1751,EMP01751,Chandani,Panchal,Male,Finance,Manager,141529,2020-12-12,3.7,Active
+1752,EMP01752,Nilima,Thaker,Male,Sales,Assistant Manager,42521,2021-08-06,4.8,Active
+1753,EMP01753,Lucky,Pandit,Male,Executive,Executive,172978,2021-09-04,4.8,Active
+1754,EMP01754,Kritika,Rau,Female,Human Resources,Manager,84984,2024-01-30,4.0,Active
+1755,EMP01755,Garima,Prasad,Male,Inventory,Analyst,77172,2023-06-09,3.6,Active
+1756,EMP01756,Rachana,Dugar,Female,Finance,Team Lead,73151,2023-08-16,3.7,Active
+1757,EMP01757,Gaurang,Buch,Male,Operations,Senior Executive,120301,2021-07-13,3.4,Active
+1758,EMP01758,Omya,Muni,Male,Human Resources,Assistant Manager,66709,2024-01-06,3.7,Active
+1759,EMP01759,Ekbal,Parmer,Female,Executive,Analyst,44702,2019-04-25,3.4,Active
+1760,EMP01760,Zashil,Babu,Male,Human Resources,Manager,51134,2019-01-12,4.6,Active
+1761,EMP01761,Ucchal,Verma,Female,Customer Success,Analyst,33528,2022-01-20,3.2,Active
+1762,EMP01762,Yagnesh,Sule,Male,Inventory,Assistant Manager,100053,2018-12-26,4.0,Active
+1763,EMP01763,Chatura,Ahluwalia,Female,Customer Success,Executive,105888,2019-02-22,3.3,Active
+1764,EMP01764,Vamakshi,Aurora,Male,Operations,Analyst,40935,2021-01-30,4.5,Active
+1765,EMP01765,Krish,Wagle,Female,Sales,Analyst,142150,2024-07-05,4.2,Active
+1766,EMP01766,Charan,Jani,Male,Finance,Senior Executive,153947,2022-07-26,4.4,Active
+1767,EMP01767,Dalbir,Pant,Male,Executive,Manager,177260,2024-05-30,4.8,Active
+1768,EMP01768,Jacob,Gokhale,Female,Operations,Senior Executive,163936,2023-03-22,4.7,Active
+1769,EMP01769,Forum,Kumar,Male,Sales,Team Lead,69545,2022-02-23,3.4,Active
+1770,EMP01770,Kritika,Thakur,Male,Inventory,Executive,128428,2018-07-29,3.7,Active
+1771,EMP01771,Raghav,Buch,Male,Operations,Executive,145064,2018-11-28,3.3,Active
+1772,EMP01772,Tanvi,Morar,Male,Finance,Manager,83787,2024-11-02,4.7,Active
+1773,EMP01773,Harinakshi,Shankar,Male,Finance,Assistant Manager,112034,2024-01-02,5.0,Active
+1774,EMP01774,Hardik,Dani,Male,Inventory,Senior Executive,142788,2022-05-14,4.2,Active
+1775,EMP01775,Theodore,Sawhney,Male,Operations,Analyst,84411,2022-10-18,3.7,Active
+1776,EMP01776,Ojasvi,Agate,Male,Sales,Assistant Manager,110277,2021-07-14,4.4,Active
+1777,EMP01777,Rajeshri,Anne,Female,Human Resources,Manager,174683,2019-04-26,3.7,Active
+1778,EMP01778,Deepa,Panchal,Female,Sales,Analyst,130001,2020-08-11,4.6,Active
+1779,EMP01779,Prisha,Mani,Male,Inventory,Manager,174334,2024-06-29,4.0,Active
+1780,EMP01780,Sai,Johal,Female,Executive,Senior Executive,92876,2018-07-09,3.3,Active
+1781,EMP01781,Mason,Bala,Male,Human Resources,Senior Executive,85100,2020-09-12,4.6,Active
+1782,EMP01782,Sai,Naidu,Male,Sales,Assistant Manager,179421,2022-05-03,3.0,Active
+1783,EMP01783,Triveni,Bhatia,Male,Human Resources,Executive,70254,2023-07-24,3.0,Active
+1784,EMP01784,Kai,Yadav,Male,Sales,Analyst,94266,2024-02-16,4.8,Active
+1785,EMP01785,Sneha,Bahl,Female,Operations,Team Lead,109485,2023-03-30,3.1,Active
+1786,EMP01786,Eesha,Ratti,Female,Customer Success,Senior Executive,131894,2018-06-25,4.5,Active
+1787,EMP01787,Girish,Rao,Female,Human Resources,Manager,162707,2024-10-18,3.8,Active
+1788,EMP01788,Bakhshi,Suri,Female,Finance,Manager,161980,2018-04-29,3.7,Active
+1789,EMP01789,Ekanta,Sastry,Female,Finance,Team Lead,45173,2024-03-22,4.5,Active
+1790,EMP01790,Ijaya,Venkatesh,Male,Finance,Senior Executive,41314,2024-04-30,3.9,Active
+1791,EMP01791,Chasmum,Om,Male,Inventory,Team Lead,172084,2019-11-27,3.6,Active
+1792,EMP01792,Pranav,Chandran,Female,Sales,Assistant Manager,152345,2022-01-22,3.2,Active
+1793,EMP01793,Dhruv,Rattan,Female,Finance,Executive,30833,2024-04-26,4.0,Active
+1794,EMP01794,Liam,Doshi,Female,Executive,Senior Executive,135844,2023-03-01,4.1,Active
+1795,EMP01795,Ekalinga,Bose,Male,Inventory,Assistant Manager,47831,2022-10-02,4.1,Active
+1796,EMP01796,Ekta,Babu,Female,Sales,Executive,129195,2022-06-23,4.7,Active
+1797,EMP01797,Utkarsh,Raman,Male,Finance,Manager,42307,2021-06-30,4.5,Active
+1798,EMP01798,Christopher,Khalsa,Male,Human Resources,Senior Executive,172684,2020-12-26,3.8,Active
+1799,EMP01799,Pranav,Ramaswamy,Male,Operations,Team Lead,49681,2023-01-16,4.2,Active
+1800,EMP01800,Neel,Bail,Male,Customer Success,Analyst,56440,2025-06-20,4.2,Active
+1801,EMP01801,Bahadurjit,Borah,Female,Inventory,Manager,32198,2020-06-07,3.2,Active
+1802,EMP01802,Gauri,Dara,Male,Inventory,Senior Executive,99311,2024-04-07,4.4,Active
+1803,EMP01803,Max,Batra,Female,Customer Success,Analyst,97478,2023-12-14,5.0,Active
+1804,EMP01804,Yashoda,Yohannan,Male,Executive,Analyst,169980,2020-10-07,3.4,Active
+1805,EMP01805,Quincy,Shenoy,Female,Executive,Analyst,171344,2022-03-25,4.8,Active
+1806,EMP01806,Ishita,Mody,Female,Customer Success,Assistant Manager,65519,2022-05-04,3.1,Active
+1807,EMP01807,Jack,Chadha,Male,Finance,Executive,162213,2018-05-02,3.8,Active
+1808,EMP01808,Gaurangi,Rastogi,Female,Customer Success,Assistant Manager,138795,2021-05-04,3.1,Active
+1809,EMP01809,Elijah,Shenoy,Female,Customer Success,Assistant Manager,109611,2020-06-30,4.3,Active
+1810,EMP01810,Janya,Krishnamurthy,Female,Customer Success,Team Lead,32258,2020-05-16,3.9,Active
+1811,EMP01811,Ganga,Padmanabhan,Male,Customer Success,Analyst,93231,2022-12-03,3.2,Active
+1812,EMP01812,Lekha,Ben,Female,Customer Success,Team Lead,168281,2023-07-27,3.0,Active
+1813,EMP01813,Sai,Dass,Male,Human Resources,Analyst,157562,2024-01-23,4.9,Active
+1814,EMP01814,Isaac,Tara,Male,Finance,Assistant Manager,145240,2020-03-31,4.4,Active
+1815,EMP01815,Naveen,Varma,Female,Executive,Senior Executive,61310,2023-05-12,4.3,Active
+1816,EMP01816,Warhi,Munshi,Female,Finance,Analyst,155953,2024-08-30,4.2,Active
+1817,EMP01817,Aishani,Datta,Female,Finance,Senior Executive,59153,2023-07-28,5.0,Active
+1818,EMP01818,Aahana,Sama,Male,Operations,Senior Executive,40228,2021-12-12,4.3,Active
+1819,EMP01819,Indali,Sibal,Female,Operations,Manager,65353,2018-05-12,4.1,Active
+1820,EMP01820,Aadi,Bobal,Male,Operations,Team Lead,101890,2022-07-01,3.5,Active
+1821,EMP01821,Bakhshi,Balay,Male,Executive,Executive,117045,2022-12-17,3.9,Active
+1822,EMP01822,Dalbir,Thakkar,Female,Operations,Senior Executive,60630,2024-09-23,4.2,Active
+1823,EMP01823,Abhimanyu,Dewan,Female,Inventory,Assistant Manager,112997,2022-10-17,3.7,Active
+1824,EMP01824,Charles,Mangal,Male,Human Resources,Analyst,108826,2019-09-06,3.5,Active
+1825,EMP01825,Ranveer,Handa,Female,Operations,Manager,75750,2024-11-04,3.4,Active
+1826,EMP01826,Gavin,Chander,Male,Operations,Senior Executive,65460,2022-09-17,3.9,Active
+1827,EMP01827,Wazir,Ahluwalia,Female,Sales,Manager,36152,2019-02-10,3.6,Active
+1828,EMP01828,Tamanna,Sarin,Female,Sales,Senior Executive,165466,2019-11-02,3.9,Active
+1829,EMP01829,Nidhi,Pau,Male,Inventory,Manager,170914,2023-11-23,3.4,Active
+1830,EMP01830,Warhi,Chaudhry,Male,Inventory,Senior Executive,83186,2024-01-07,4.3,Active
+1831,EMP01831,Raagini,Chaudhari,Female,Finance,Senior Executive,123887,2025-04-03,4.8,Active
+1832,EMP01832,Advik,Sood,Female,Customer Success,Team Lead,140432,2020-02-04,4.1,Active
+1833,EMP01833,Ranveer,Dani,Female,Sales,Executive,89416,2022-01-16,3.8,Active
+1834,EMP01834,Dominic,Dayal,Female,Human Resources,Assistant Manager,175395,2018-08-01,4.1,Active
+1835,EMP01835,Gaurika,Rama,Female,Finance,Manager,50762,2021-06-04,4.7,Active
+1836,EMP01836,Chanchal,Batta,Male,Operations,Senior Executive,156101,2020-08-07,4.3,Active
+1837,EMP01837,Amrita,Bhatia,Male,Customer Success,Manager,38245,2018-08-03,4.5,Active
+1838,EMP01838,Watika,Sengupta,Male,Executive,Manager,138158,2021-03-14,4.7,Active
+1839,EMP01839,Upadhriti,Kapadia,Male,Inventory,Manager,49783,2021-03-12,4.2,Active
+1840,EMP01840,Andrew,Sachdeva,Male,Inventory,Executive,31665,2018-07-12,4.2,Active
+1841,EMP01841,Adweta,Swaminathan,Female,Operations,Analyst,114692,2021-06-19,3.7,Active
+1842,EMP01842,Urvi,Hora,Female,Customer Success,Senior Executive,40156,2018-08-12,3.2,Active
+1843,EMP01843,Vihaan,Ghosh,Female,Executive,Manager,64155,2025-05-04,4.5,Active
+1844,EMP01844,Tanmayi,Shetty,Female,Customer Success,Analyst,70965,2018-01-18,4.8,Active
+1845,EMP01845,Jeremiah,Dubey,Female,Finance,Assistant Manager,64218,2021-10-24,4.3,Active
+1846,EMP01846,Harsh,Mand,Female,Customer Success,Senior Executive,44810,2023-08-07,4.5,Active
+1847,EMP01847,Mekhala,Banik,Male,Finance,Executive,137915,2022-06-14,3.7,Active
+1848,EMP01848,Pratyush,Johal,Female,Inventory,Executive,42019,2023-01-07,3.1,Active
+1849,EMP01849,Ranbir,Rajagopal,Female,Executive,Executive,60918,2023-07-20,3.2,Active
+1850,EMP01850,Manya,Bhasin,Female,Sales,Assistant Manager,68488,2022-01-04,3.1,Active
+1851,EMP01851,Arya,Rama,Male,Operations,Analyst,76175,2019-08-28,5.0,Active
+1852,EMP01852,Siya,Rajagopal,Female,Executive,Analyst,94277,2021-06-24,4.7,Active
+1853,EMP01853,Reyansh,Dugar,Female,Executive,Assistant Manager,138500,2021-10-18,3.3,Active
+1854,EMP01854,Suhani,Dasgupta,Female,Customer Success,Assistant Manager,123357,2018-09-07,4.7,Active
+1855,EMP01855,Girindra,Dhillon,Male,Human Resources,Manager,158540,2020-12-14,3.2,Active
+1856,EMP01856,Urvi,Acharya,Female,Sales,Senior Executive,163259,2022-03-12,4.4,Active
+1857,EMP01857,Aryan,Keer,Female,Finance,Assistant Manager,174030,2024-01-11,4.4,Active
+1858,EMP01858,Unni,Mall,Female,Human Resources,Team Lead,177047,2023-07-15,4.8,Active
+1859,EMP01859,Onkar,Iyer,Male,Sales,Analyst,48285,2021-11-11,4.8,Active
+1860,EMP01860,Zinal,Ratta,Male,Executive,Team Lead,73172,2020-07-24,3.1,Active
+1861,EMP01861,Gaurangi,Edwin,Male,Operations,Analyst,90553,2018-03-25,4.8,Active
+1862,EMP01862,Pranav,Nagy,Male,Customer Success,Senior Executive,159763,2023-02-19,4.4,Active
+1863,EMP01863,Ranveer,Bali,Female,Customer Success,Analyst,89575,2020-07-22,4.6,Active
+1864,EMP01864,Vasudha,Aurora,Male,Inventory,Assistant Manager,111024,2021-11-14,4.4,Active
+1865,EMP01865,Harsh,Chawla,Female,Operations,Assistant Manager,104021,2018-08-09,3.6,Active
+1866,EMP01866,Ijaya,Bali,Female,Operations,Senior Executive,98636,2025-02-19,4.3,Active
+1867,EMP01867,Osha,Palla,Female,Customer Success,Analyst,156045,2019-09-08,4.6,Active
+1868,EMP01868,Isha,Tripathi,Male,Customer Success,Analyst,56941,2024-04-24,4.6,Active
+1869,EMP01869,Isaiah,Khosla,Female,Operations,Assistant Manager,49523,2018-03-31,3.1,Active
+1870,EMP01870,Ekalinga,Shan,Female,Inventory,Analyst,106432,2019-12-13,4.2,Active
+1871,EMP01871,Lekha,Dani,Male,Inventory,Team Lead,94914,2018-09-28,3.8,Active
+1872,EMP01872,Sara,Verma,Female,Finance,Executive,63731,2023-08-22,3.3,Active
+1873,EMP01873,Harshil,Choudhury,Female,Inventory,Analyst,153164,2018-07-26,4.9,Active
+1874,EMP01874,Akshay,Ratti,Male,Human Resources,Team Lead,48727,2018-01-08,3.7,Active
+1875,EMP01875,Chakradev,Loyal,Female,Operations,Team Lead,178865,2018-12-29,3.7,Active
+1876,EMP01876,Forum,Chokshi,Female,Finance,Analyst,121945,2022-04-01,3.7,Active
+1877,EMP01877,Meghana,Thaman,Male,Customer Success,Senior Executive,88446,2021-03-20,3.4,Active
+1878,EMP01878,Sai,Deshpande,Female,Human Resources,Executive,152525,2018-04-20,4.0,Active
+1879,EMP01879,Jeet,Dugal,Male,Operations,Assistant Manager,86742,2018-10-19,4.9,Active
+1880,EMP01880,Maya,Sharma,Male,Inventory,Analyst,106666,2020-09-04,3.6,Active
+1881,EMP01881,Elijah,Morar,Female,Inventory,Assistant Manager,100643,2021-08-28,4.2,Active
+1882,EMP01882,Pooja,Raj,Female,Finance,Assistant Manager,62377,2019-10-02,4.0,Active
+1883,EMP01883,Advay,Chaudry,Male,Customer Success,Executive,48709,2020-01-18,3.8,Active
+1884,EMP01884,Yoshita,Parsa,Male,Sales,Assistant Manager,163920,2018-11-19,3.6,Active
+1885,EMP01885,Timothy,Pingle,Female,Executive,Manager,175129,2023-09-01,4.2,Active
+1886,EMP01886,Akshay,Bhatia,Female,Customer Success,Manager,43591,2023-06-21,3.1,Active
+1887,EMP01887,Turvi,Cheema,Male,Operations,Executive,127262,2025-03-28,4.4,Active
+1888,EMP01888,Ladli,Andra,Female,Finance,Manager,86967,2020-01-30,3.9,Active
+1889,EMP01889,Maanas,Tara,Male,Human Resources,Assistant Manager,82994,2019-06-17,3.9,Active
+1890,EMP01890,Nisha,Bhatti,Female,Finance,Executive,160031,2024-10-19,4.1,Active
+1891,EMP01891,Daksh,Patel,Female,Customer Success,Manager,40510,2023-05-26,4.0,Active
+1892,EMP01892,Ria,Hora,Male,Operations,Team Lead,165558,2023-08-05,4.0,Active
+1893,EMP01893,Charita,Savant,Female,Finance,Assistant Manager,80020,2024-12-15,4.2,Active
+1894,EMP01894,Ikshita,Natarajan,Female,Executive,Senior Executive,131922,2024-05-06,4.6,Active
+1895,EMP01895,Mohammed,Bail,Female,Human Resources,Analyst,100177,2019-03-17,4.7,Active
+1896,EMP01896,Udarsh,Bala,Male,Inventory,Analyst,148587,2024-05-18,3.3,Active
+1897,EMP01897,Joshua,Radhakrishnan,Male,Operations,Senior Executive,34680,2019-02-17,3.8,Active
+1898,EMP01898,Anusha,Chawla,Female,Sales,Analyst,112223,2019-11-11,4.0,Active
+1899,EMP01899,Edhitha,Raman,Female,Operations,Team Lead,159533,2019-02-09,3.7,Active
+1900,EMP01900,Arjun,Tank,Female,Customer Success,Senior Executive,80611,2020-04-18,3.1,Active
+1901,EMP01901,Abha,Bajwa,Female,Inventory,Senior Executive,48673,2025-06-17,3.4,Active
+1902,EMP01902,Zinal,Sridhar,Female,Executive,Manager,116368,2022-04-18,4.8,Active
+1903,EMP01903,Advaith,Varghese,Female,Customer Success,Executive,151842,2022-04-04,3.7,Active
+1904,EMP01904,Unnati,Garg,Male,Finance,Executive,35346,2018-03-25,4.6,Active
+1905,EMP01905,Anay,Prabhakar,Male,Operations,Team Lead,141188,2021-06-14,4.3,Active
+1906,EMP01906,Peter,Barad,Female,Executive,Team Lead,151651,2018-08-20,4.5,Active
+1907,EMP01907,Banjeet,Rastogi,Female,Sales,Assistant Manager,62829,2021-08-26,3.5,Active
+1908,EMP01908,Anjali,Agate,Male,Executive,Assistant Manager,140572,2020-03-02,3.2,Active
+1909,EMP01909,Arunima,Yadav,Male,Human Resources,Senior Executive,160008,2022-04-19,5.0,Active
+1910,EMP01910,Nathan,Chawla,Male,Finance,Assistant Manager,175827,2023-03-31,4.3,Active
+1911,EMP01911,Ekiya,Kurian,Male,Customer Success,Manager,105231,2022-04-26,4.5,Active
+1912,EMP01912,Vrishti,Edwin,Male,Operations,Team Lead,154709,2021-07-23,3.4,Active
+1913,EMP01913,Qushi,Sundaram,Male,Customer Success,Analyst,72865,2025-06-30,3.5,Active
+1914,EMP01914,Yug,Kamdar,Male,Inventory,Manager,65126,2025-05-12,3.1,Active
+1915,EMP01915,Madhav,Shenoy,Female,Operations,Team Lead,80545,2019-02-02,3.6,Active
+1916,EMP01916,Oviya,Mane,Female,Human Resources,Assistant Manager,100164,2019-04-17,4.2,Active
+1917,EMP01917,Atharv,Kanda,Female,Customer Success,Analyst,112725,2024-06-11,4.9,Active
+1918,EMP01918,Veer,Bava,Female,Finance,Assistant Manager,98865,2020-04-09,4.1,Active
+1919,EMP01919,Bhanumati,Varughese,Male,Inventory,Assistant Manager,66990,2023-07-13,3.9,Active
+1920,EMP01920,Ekiya,Bala,Male,Executive,Analyst,148087,2020-07-25,4.3,Active
+1921,EMP01921,Gautami,Wali,Female,Inventory,Analyst,31452,2025-04-04,3.9,Active
+1922,EMP01922,Lipika,Sastry,Female,Customer Success,Executive,171986,2019-10-02,3.7,Active
+1923,EMP01923,Champak,Kade,Male,Executive,Executive,80198,2019-01-03,4.3,Active
+1924,EMP01924,Harinakshi,Bava,Female,Operations,Senior Executive,34965,2023-05-08,3.7,Active
+1925,EMP01925,Luke,Varkey,Male,Human Resources,Analyst,127854,2022-08-24,3.9,Active
+1926,EMP01926,Sathvik,Issac,Male,Inventory,Manager,135492,2023-02-24,4.4,Active
+1927,EMP01927,Arjun,Upadhyay,Male,Sales,Assistant Manager,117266,2018-08-12,4.4,Active
+1928,EMP01928,Qasim,Oza,Male,Human Resources,Executive,51279,2018-01-05,5.0,Active
+1929,EMP01929,Rajata,Chaudhuri,Female,Customer Success,Analyst,119696,2023-02-01,3.8,Active
+1930,EMP01930,Chameli,Gulati,Female,Operations,Analyst,139904,2025-03-16,4.7,Active
+1931,EMP01931,Jhalak,Minhas,Female,Human Resources,Assistant Manager,150057,2020-02-28,4.5,Active
+1932,EMP01932,Janani,Kala,Female,Operations,Analyst,51912,2018-08-29,3.7,Active
+1933,EMP01933,Krisha,Bal,Female,Inventory,Analyst,35508,2019-09-15,3.5,Active
+1934,EMP01934,Aradhana,Dyal,Male,Inventory,Analyst,141732,2020-02-01,3.2,Active
+1935,EMP01935,Tejas,Vora,Female,Customer Success,Executive,139618,2019-02-05,4.7,Active
+1936,EMP01936,Janaki,Grewal,Female,Finance,Manager,87600,2018-02-21,3.6,Active
+1937,EMP01937,Vinaya,Ahuja,Female,Finance,Team Lead,30018,2023-07-04,4.4,Active
+1938,EMP01938,Daniel,Wali,Male,Customer Success,Manager,69041,2024-06-28,3.4,Active
+1939,EMP01939,Jacob,Acharya,Female,Sales,Analyst,44723,2023-05-16,3.2,Active
+1940,EMP01940,Jeevika,Venkataraman,Male,Operations,Manager,61917,2022-06-16,4.2,Active
+1941,EMP01941,Bhavini,Bassi,Male,Operations,Manager,45120,2021-09-20,4.2,Active
+1942,EMP01942,Urvashi,Murthy,Female,Sales,Executive,150618,2025-05-14,4.7,Active
+1943,EMP01943,Udyati,Chaudhari,Female,Operations,Team Lead,142916,2020-04-10,3.2,Active
+1944,EMP01944,Ayushman,Magar,Female,Operations,Manager,38461,2024-05-14,4.9,Active
+1945,EMP01945,Karan,Patla,Female,Customer Success,Executive,174049,2023-03-05,3.5,Active
+1946,EMP01946,Saksham,Mannan,Female,Executive,Executive,68985,2019-09-05,4.2,Active
+1947,EMP01947,Warjas,Dhar,Male,Sales,Team Lead,158473,2024-01-26,4.0,Active
+1948,EMP01948,Arin,Prashad,Female,Operations,Team Lead,171337,2023-09-14,4.8,Active
+1949,EMP01949,Harini,Nagar,Male,Human Resources,Senior Executive,149346,2021-11-27,4.2,Active
+1950,EMP01950,Oliver,Sampath,Female,Inventory,Assistant Manager,142932,2019-12-26,3.9,Active
+1951,EMP01951,Faris,Dey,Female,Inventory,Senior Executive,91428,2018-02-20,4.7,Active
+1952,EMP01952,Widisha,Goel,Male,Inventory,Assistant Manager,145415,2018-09-23,4.8,Active
+1953,EMP01953,Anita,Rege,Female,Operations,Analyst,123043,2018-03-07,3.2,Active
+1954,EMP01954,Ganga,Kamdar,Male,Executive,Senior Executive,130832,2023-01-27,4.7,Active
+1955,EMP01955,Arin,Ravel,Male,Sales,Analyst,130101,2023-01-02,4.5,Active
+1956,EMP01956,Kashish,Kala,Male,Human Resources,Executive,170430,2019-10-15,4.8,Active
+1957,EMP01957,Wyatt,Uppal,Male,Human Resources,Manager,110893,2024-10-30,4.3,Active
+1958,EMP01958,Ladli,Sani,Male,Customer Success,Senior Executive,147802,2018-11-23,3.8,Active
+1959,EMP01959,Osha,Banik,Female,Sales,Team Lead,103021,2025-03-05,3.3,Active
+1960,EMP01960,Samaksh,Pau,Male,Customer Success,Executive,127963,2024-05-23,3.8,Active
+1961,EMP01961,Hemal,Seshadri,Male,Operations,Team Lead,52490,2020-07-01,3.2,Active
+1962,EMP01962,Naksh,Bhatnagar,Male,Human Resources,Executive,164390,2018-11-02,4.4,Active
+1963,EMP01963,Balvan,Bail,Female,Executive,Team Lead,36142,2018-04-18,3.6,Active
+1964,EMP01964,Amrita,Ray,Female,Inventory,Executive,109656,2022-11-06,4.5,Active
+1965,EMP01965,Girik,Hegde,Female,Inventory,Analyst,45724,2021-11-22,4.4,Active
+1966,EMP01966,Ayaan,Munshi,Male,Human Resources,Executive,88389,2024-11-29,3.5,Active
+1967,EMP01967,Kamya,Grover,Male,Operations,Team Lead,178015,2019-01-17,5.0,Active
+1968,EMP01968,Irya,Randhawa,Male,Inventory,Assistant Manager,72083,2022-11-13,4.6,Active
+1969,EMP01969,Ishanvi,Sheth,Male,Sales,Team Lead,161211,2022-10-11,4.9,Active
+1970,EMP01970,Nimrat,Chokshi,Male,Customer Success,Manager,167005,2018-10-25,4.8,Active
+1971,EMP01971,Siya,Viswanathan,Female,Human Resources,Executive,142433,2025-03-01,3.9,Active
+1972,EMP01972,Faris,Edwin,Female,Sales,Executive,155018,2023-03-27,4.4,Active
+1973,EMP01973,Deepa,Venkatesh,Female,Finance,Executive,137276,2023-04-05,3.1,Active
+1974,EMP01974,Vedhika,Chandra,Male,Human Resources,Assistant Manager,166020,2021-11-12,4.1,Active
+1975,EMP01975,Zayan,Goel,Female,Customer Success,Executive,96832,2024-12-27,4.3,Active
+1976,EMP01976,Saanvi,Gupta,Female,Customer Success,Assistant Manager,114488,2023-06-07,3.4,Active
+1977,EMP01977,Lakshmi,Lall,Male,Sales,Senior Executive,45393,2020-03-19,3.2,Active
+1978,EMP01978,Zarna,Master,Male,Customer Success,Team Lead,138429,2019-01-14,3.9,Active
+1979,EMP01979,Tripti,Keer,Female,Finance,Senior Executive,111294,2024-11-06,3.6,Active
+1980,EMP01980,Ishani,Dubey,Female,Operations,Analyst,56356,2024-11-03,3.5,Active
+1981,EMP01981,Prisha,Din,Female,Executive,Team Lead,85540,2020-01-12,5.0,Active
+1982,EMP01982,Sai,Chatterjee,Male,Inventory,Team Lead,39934,2018-12-05,3.0,Active
+1983,EMP01983,Nathan,Murthy,Female,Finance,Senior Executive,98775,2024-12-25,4.7,Active
+1984,EMP01984,Madhavi,Sami,Male,Operations,Manager,154118,2018-08-13,4.1,Active
+1985,EMP01985,Xavier,Nagi,Female,Executive,Assistant Manager,73365,2022-09-28,4.0,Active
+1986,EMP01986,Sai,Narayan,Male,Inventory,Assistant Manager,124479,2022-02-27,3.5,Active
+1987,EMP01987,Ijaya,Sami,Female,Human Resources,Team Lead,77667,2019-01-10,3.5,Active
+1988,EMP01988,Megha,Lad,Male,Sales,Executive,112142,2025-04-08,4.7,Active
+1989,EMP01989,Liam,Som,Female,Operations,Team Lead,102473,2019-02-13,4.3,Active
+1990,EMP01990,Falan,Magar,Female,Executive,Executive,85239,2024-12-25,4.1,Active
+1991,EMP01991,Ikbal,Dutta,Female,Human Resources,Senior Executive,71181,2020-04-18,3.9,Active
+1992,EMP01992,Nathaniel,Yogi,Male,Inventory,Senior Executive,159753,2020-09-19,3.2,Active
+1993,EMP01993,Bhavani,Raghavan,Female,Finance,Analyst,69230,2020-06-21,3.3,Active
+1994,EMP01994,Tripti,Chaudhary,Male,Human Resources,Assistant Manager,67944,2019-01-29,4.5,Active
+1995,EMP01995,Samuel,Goel,Female,Executive,Assistant Manager,156498,2024-06-17,4.8,Active
+1996,EMP01996,Bimala,Lata,Female,Operations,Senior Executive,174626,2018-01-27,4.0,Active
+1997,EMP01997,Krishna,Dalal,Male,Human Resources,Executive,33228,2022-09-18,4.4,Active
+1998,EMP01998,Dev,Choudhary,Female,Executive,Analyst,167154,2018-07-01,5.0,Active
+1999,EMP01999,Jalsa,Sahni,Female,Executive,Team Lead,74745,2024-11-16,4.8,Active
+2000,EMP02000,Nachiket,Chokshi,Male,Operations,Assistant Manager,171834,2019-10-15,4.0,Active
