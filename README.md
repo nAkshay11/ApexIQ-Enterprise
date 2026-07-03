@@ -1,12 +1,11 @@
-# 🚀 ApexIQ Enterprise Sales Analytics Platform
+🚀 ApexIQ Enterprise Sales Analytics Platform
 
-## 📌 Project Overview
+📌 Project Overview
 
 A complete Enterprise Sales Analytics Platform built using **PostgreSQL, Python ETL, SQL, and Power BI**. This project simulates a real-world enterprise environment by generating large-scale business data, loading it into PostgreSQL, performing advanced SQL analysis, and building an interactive Power BI dashboard for business insights.
 
----
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - PostgreSQL
 - Python
@@ -17,11 +16,8 @@ A complete Enterprise Sales Analytics Platform built using **PostgreSQL, Python 
 - Power BI
 - Git & GitHub
 
----
+📂 Project Structure
 
-## 📂 Project Structure
-
-```
 ApexIQ-Enterprise
 │
 ├── 01_SQL
@@ -32,11 +28,8 @@ ApexIQ-Enterprise
 ├── 06_Documentation
 ├── 07_GitHub
 └── 08_Presentation
-```
 
----
-
-## 📊 Dataset Summary
+📊 Dataset Summary
 
 | Table | Records |
 |--------|---------|
@@ -47,9 +40,7 @@ ApexIQ-Enterprise
 | Order Items | 125,180 |
 | Payments | 50,000 |
 
----
-
-## ⚡ ETL Process
+⚡ ETL Process
 
 - Generate enterprise datasets using Python
 - Clean and transform data
@@ -57,9 +48,7 @@ ApexIQ-Enterprise
 - Execute SQL analytics queries
 - Visualize KPIs in Power BI
 
----
-
-## 📈 Business KPIs
+📈 Business KPIs
 
 - Total Revenue
 - Total Orders
@@ -88,9 +77,7 @@ ApexIQ-Enterprise
 - Product Analytics
 - Inventory Analytics
 
----
-
-## 📌 Power BI Dashboard
+📌 Power BI Dashboard
 
 Interactive dashboard includes:
 
@@ -103,24 +90,18 @@ Interactive dashboard includes:
 - Payment Analytics
 - Inventory Insights
 
----
-
-## 📁 Documentation
+📁 Documentation
 
 - Project Report
 - Data Dictionary
 - SQL Query Book
 - Project Architecture
 
----
+👨‍💻 Developed By
 
-## 👨‍💻 Developed By
+Akshay Chandra N
 
-**Akshay Chandra N**
-
----
-
-## ⭐ Features
+⭐ Features
 
 - Enterprise-scale dataset
 - Automated ETL Pipeline
@@ -128,9 +109,3 @@ Interactive dashboard includes:
 - Business SQL Analytics
 - Interactive Power BI Dashboard
 - Complete Project Documentation
-
----
-
-## 📜 License
-
-This project is developed for educational and portfolio purposes.
