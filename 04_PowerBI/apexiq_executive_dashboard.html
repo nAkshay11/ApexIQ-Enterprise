@@ -1,0 +1,92 @@
+<h2 class="sr-only">ApexIQ executive dashboard showing total revenue of 8.65 billion rupees across 50,000 orders, monthly revenue trend for 2025, revenue by customer segment and product category, warehouse performance, and payment status breakdown</h2>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:1.5rem;">
+  <div style="background:var(--surface-1);border-radius:var(--radius);padding:1rem;">
+    <p style="font-size:13px;color:var(--text-secondary);margin:0 0 4px;">Total revenue</p>
+    <p style="font-size:24px;font-weight:500;margin:0;">₹865.5 Cr</p>
+  </div>
+  <div style="background:var(--surface-1);border-radius:var(--radius);padding:1rem;">
+    <p style="font-size:13px;color:var(--text-secondary);margin:0 0 4px;">Total orders</p>
+    <p style="font-size:24px;font-weight:500;margin:0;">50,000</p>
+  </div>
+  <div style="background:var(--surface-1);border-radius:var(--radius);padding:1rem;">
+    <p style="font-size:13px;color:var(--text-secondary);margin:0 0 4px;">Total customers</p>
+    <p style="font-size:24px;font-weight:500;margin:0;">10,000</p>
+  </div>
+  <div style="background:var(--surface-1);border-radius:var(--radius);padding:1rem;">
+    <p style="font-size:13px;color:var(--text-secondary);margin:0 0 4px;">Avg order value</p>
+    <p style="font-size:24px;font-weight:500;margin:0;">₹1,73,091</p>
+  </div>
+</div>
+
+<p style="font-size:14px;font-weight:500;margin:0 0 8px;">Monthly revenue trend (2025)</p>
+<div style="position:relative;width:100%;height:220px;margin-bottom:1.5rem;">
+  <canvas id="trendChart" role="img" aria-label="Line chart of monthly revenue for 2025, ranging from 325 to 378 million rupees per month">Monthly revenue stayed steady across 2025, from a low of 325M in February to a high of 378M in October.</canvas>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:1.5rem;">
+  <div>
+    <p style="font-size:14px;font-weight:500;margin:0 0 8px;">Revenue by segment</p>
+    <div style="position:relative;width:100%;height:200px;">
+      <canvas id="segChart" role="img" aria-label="Bar chart of revenue by customer segment: Enterprise 220 crore, Corporate 218 crore, Consumer 218 crore, Small Business 209 crore">Revenue is fairly even across segments, led narrowly by Enterprise.</canvas>
+    </div>
+  </div>
+  <div>
+    <p style="font-size:14px;font-weight:500;margin:0 0 8px;">Revenue by category</p>
+    <div style="position:relative;width:100%;height:200px;">
+      <canvas id="catChart" role="img" aria-label="Bar chart of revenue by product category: Sports 188 crore, Electronics 186 crore, Apparel 169 crore, Home and Kitchen 164 crore, Furniture 158 crore">Sports and Electronics lead category revenue.</canvas>
+    </div>
+  </div>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
+  <div>
+    <p style="font-size:14px;font-weight:500;margin:0 0 8px;">Warehouse performance</p>
+    <div style="position:relative;width:100%;height:200px;">
+      <canvas id="whChart" role="img" aria-label="Bar chart of revenue by warehouse, all five warehouses close together between 170 and 176 crore">Revenue is evenly distributed across all five warehouses.</canvas>
+    </div>
+  </div>
+  <div>
+    <p style="font-size:14px;font-weight:500;margin:0 0 8px;">Payment status</p>
+    <div style="position:relative;width:100%;height:200px;">
+      <canvas id="payChart" role="img" aria-label="Bar chart of payment status: Success 33,296, Pending 8,482, Failed 8,222">Two thirds of payments succeed; the rest split between pending and failed.</canvas>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const blue = '#2a78d6', gray = '#898781', green='#008300', red='#e34948', amber='#eda100';
+const commonOpts = { responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}} };
+
+new Chart(document.getElementById('trendChart'), {
+  type:'line',
+  data:{ labels:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+    datasets:[{ data:[370.7,325.1,362.2,337.7,361.4,360.1,361.3,366.1,355.1,378.1,363.7,373.9], borderColor:blue, backgroundColor:'rgba(42,120,214,0.1)', fill:true, tension:0.3, pointRadius:0, borderWidth:2 }] },
+  options:{ ...commonOpts, scales:{ x:{grid:{display:false}}, y:{grid:{color:'#e1e0d9'}, ticks:{callback:(v)=>'₹'+v+'M'}} } }
+});
+
+new Chart(document.getElementById('segChart'), {
+  type:'bar',
+  data:{ labels:['Enterprise','Corporate','Consumer','Small Biz'], datasets:[{ data:[220,218,218,209], backgroundColor:blue, borderRadius:4 }] },
+  options:{ ...commonOpts, indexAxis:'y', scales:{ x:{grid:{color:'#e1e0d9'},ticks:{callback:(v)=>'₹'+v+'Cr'}}, y:{grid:{display:false}} } }
+});
+
+new Chart(document.getElementById('catChart'), {
+  type:'bar',
+  data:{ labels:['Sports','Electronics','Apparel','Home','Furniture'], datasets:[{ data:[188,186,169,164,158], backgroundColor:blue, borderRadius:4 }] },
+  options:{ ...commonOpts, indexAxis:'y', scales:{ x:{grid:{color:'#e1e0d9'},ticks:{callback:(v)=>'₹'+v+'Cr'}}, y:{grid:{display:false}} } }
+});
+
+new Chart(document.getElementById('whChart'), {
+  type:'bar',
+  data:{ labels:['East','Central','West','North','South'], datasets:[{ data:[176,176,173,171,170], backgroundColor:blue, borderRadius:4 }] },
+  options:{ ...commonOpts, scales:{ x:{grid:{display:false}}, y:{grid:{color:'#e1e0d9'},ticks:{callback:(v)=>'₹'+v+'Cr'}} } }
+});
+
+new Chart(document.getElementById('payChart'), {
+  type:'bar',
+  data:{ labels:['Success','Pending','Failed'], datasets:[{ data:[33296,8482,8222], backgroundColor:[green,amber,red], borderRadius:4 }] },
+  options:{ ...commonOpts, scales:{ x:{grid:{display:false}}, y:{grid:{color:'#e1e0d9'}} } }
+});
+</script>
